@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: IGCSE Physics Revision
+theme: mkdocs
+
+nav:
+- Home: index.md
+- Forces and Motion : forces_and_motion.md
+

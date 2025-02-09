@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# IGCSE Physics Revision Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to our IGCSE Physics revision site! Here you’ll find notes that will help you prepare for your exams.
 
-## Commands
+## Topic 1: Forces and Motion
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Scalars and Vectors
+- A **scalar** is a quantity with magnitude only (e.g., mass, temperature).
+- A **vector** is a quantity with both magnitude and direction (e.g., velocity, force).
 
-## Project layout
+### Speed and Velocity
+- Speed is the distance traveled per unit of time.
+- Velocity is speed in a specific direction.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Topic 2: Electricity
+...
