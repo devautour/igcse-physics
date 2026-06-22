@@ -12,5 +12,10 @@ Welcome to our IGCSE Physics revision site! Here you’ll find notes that will h
 - Speed is the distance traveled per unit of time.
 - Velocity is speed in a specific direction.
 
+$$
+v = \frac{d}{t}
+$$
+
+
 ## Topic 2: Electricity
 ...
