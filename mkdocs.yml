@@ -1,14 +1,28 @@
 site_name: IGCSE Physics Revision
+
 theme:
   name: material
+  features :
+    - navigation.indexes
+    - navigation.path
 
 nav:
-- Home: index.md
-- Forces and Motion : forces_and_motion.md
+- Home: 'index.md'
+- "Unit 1: Forces and Motion" : 'Unit 1/describing-motion.md'
+- "Unit 4: Energy" :
+  - "Mechanical Energy" : 'Unit 4/mechanical_energy.md'
+  - "Energy stores and transfers" : 'Unit 4/energy_stores_and_transfers.md'
+  - "Conservation of energy" : 'Unit 4/conservation_of_energy.md'
+  - "Heat transfers": 'Unit 4/heat_transfers.md'
 
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
