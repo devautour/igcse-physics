@@ -1,6 +1,6 @@
 # IGCSE Physics Revision Notes
 
-Welcome to our IGCSE Physics revision site! Here you’ll find notes that will help you prepare for your exams.
+Welcome to our IGCSE Physics revision site! Here you will find notes that will help you prepare for your exams.
 
 === "test 1"
     ??? note "Note"
