@@ -2,18 +2,14 @@
 
 Welcome to our IGCSE Physics revision site! Here you will find notes that will help you prepare for your exams.
 
-## Unit 1: Forces and Motion
+=== "test 1"
+    ??? note "Note"
+        testing note admonition
 
-## Unit 2: Electricity
+=== "test 2"
+    ??? example "worked example 1: adding 1"
+        $$x=x+1$$
 
-## Unit 3: Waves
-
-## Unit 4: Energy
-
-## Unit 5: Solids, Liquids, Gases
-
-## Unit 6: Magnetism and electromagnetism
-
-## Unit 7: Radioactivity and particles
-
-## unit 8 : Astrophysics and cosmology
+=== "test 3"
+    ??? tip "Exam tip"
+        revise

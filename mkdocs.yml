@@ -2,27 +2,84 @@ site_name: IGCSE Physics Revision
 
 theme:
   name: material
-  features :
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
-    - navigation.path
+    - content.tabs.link
 
 nav:
-- Home: 'index.md'
-- "Unit 1: Forces and Motion" : 'Unit 1/describing-motion.md'
-- "Unit 4: Energy" :
-  - "Mechanical Energy" : 'Unit 4/mechanical_energy.md'
-  - "Energy stores and transfers" : 'Unit 4/energy_stores_and_transfers.md'
-  - "Conservation of energy" : 'Unit 4/conservation_of_energy.md'
-  - "Heat transfers": 'Unit 4/heat_transfers.md'
+  - "Unit 1":
+    - 1 - Forces and Motion:
+      - "Unit 1/index.md"
+      - 1.1 - Describing Motion : "Unit 1/1_1_describing-motion.md"
+      - 1.2 - Explaining Motion : "Unit 1/1_2_explaining-motion.md"
+      - 1.3 - Applications : "Unit 1/1_3_applications.md"
+      - 1.4 - Momentum and Collsisions : "Unit 1/1_4_momentum-and-collisions.md"
+      - 1.5 - Stretching effect of forces : "Unit 1/1_5_stretching-effect-of-forces.md"
+      - 1.6 - Turning effect of forces : "Unit 1/1_6_turning-effect-of-forces.md"
+  - "Unit 2":
+    - 2 - Electricity:
+      - "Unit 2/index.md"
+      - 2.1 - Static Electricity : "Unit 2/2_1_static-electricity.md"
+      - 2.2 - Electric Circuits : "Unit 2/2_2_electric-circuits.md"
+      - 2.3 - Mains Electricity : "Unit 2/2_3_mains-electricity.md"
+  - "Unit 3":
+    - 3 - Waves:
+      - "Unit 3/index.md"
+      - 3.1 - Describing Waves : "Unit 3/3_1_describing-waves.md"
+      - 3.2 - The Electromagnetic Spectrum : "Unit 3/3_2_the-electromagnetic-spectrum.md"
+      - 3.3 - Light Waves : "Unit 3/3_3_light-waves.md"
+      - 3.4 - Sound Waves : "Unit 3/3_4_sound-waves.md"
+  - "Unit 4":
+    - 4 - Energy:
+      - "Unit 4/index.md"
+      - 4.1 - Mechanical Energy Transfers : "Unit 4/4_1_mechanical-energy-transfers.md"
+      - 4.2 - Energy Stores and Transfers : "Unit 4/4_2_energy-stores-and-transfers.md"
+      - 4.3 - Heat Transfers : "Unit 4/4_3_heat-transfers.md"
+      - 4.4 - Energy Resources : "Unit 4/4_4_energy-resources.md"
+  - "Unit 5":
+    - 5 - Solids, Liquids, Gases:
+      - "Unit 5/index.md"
+      - 5.1 - Density and Pressure : "Unit 5/5_1_density-and-pressure.md"
+      - 5.2 - Changes of state : "Unit 5/5_2_changes-of-state.md"
+      - 5.3 - Ideal Gases : "Unit 5/5_3_ideal-gases.md"
+  - "Unit 6":
+    - 6 - Electromagnetism:
+      - "Unit 6/index.md"
+      - 6.1 - Magnets and Magnetic Fields : "Unit 6/6_1_magnets-and-magnetic-fields.md"
+      - 6.2 - Motor Effect : "Unit 6/6_2_motor-effect.md"
+      - 6.3 - Induction : "Unit 6/6_3_induction.md"
+      - 6.4 - Transformers : "Unit 6/6_4_transformers.md"
+  - "Unit 7":
+    - 7 - Radioactivity:
+      - "Unit 7/index.md"
+      - 7.1 - Nuclear Structure and Nuclear Radiation : "Unit 7/7_1_nuclear-structure-and-nuclear-radiation.md"
+      - 7.2 - Radioactivity and Half-life : "Unit 7/7_2_radioactivity-and-half-life.md"
+      - 7.3 - Uses and Hasards of Radioactivity : "Unit 7/7_3_uses-and-hasards-of-radioactivity.md"
+      - 7.4 - Fission and Fusion : "Unit 7/7_4_fission-and-fusion.md"
+  - "Unit 8":
+    - 8 - Astrophysics and Cosmology:
+      - "Unit 8/index.md"
+      - 8.1 - Motion in The Universe : "Unit 8/8_1_motion-in-the-universe.md"
+      - 8.2 - Stellar Evolution : "Unit 8/8_2_stellar-evolution.md"
+      - 8.3 - Cosmology : "Unit 8/8_3_cosmology.md"
 
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.superfences:
-        custom_fences:
-          - name: mermaid
-            class: mermaid
-            format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences:          
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
