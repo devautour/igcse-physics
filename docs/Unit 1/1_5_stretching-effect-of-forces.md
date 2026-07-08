@@ -1,8 +1,14 @@
-# Core practical 2: investigating force & extension
+# Stretching effect of forces
 
-## Experiment 1: investigating force and extension for springs and rubber bands
+## Core practical 2: investigating force & extension
 
-* The aim of this experiment is to investigate the relationship between **force** and **extension** for a spring and a rubber band:
+### Aim of the experient Experiment 1: investigating force and extension for springs and rubber bands
+=== "spring"
+    * The aim of this experiment is to investigate the relationship between **force** and **extension** for a spring and a rubber band:
+
+=== "rubber band"
+
+=== "wire"
 
 ### Variables
 
