@@ -2,15 +2,14 @@
 
 Welcome to our IGCSE Physics revision site! Here you’ll find notes that will help you prepare for your exams.
 
-## Topic 1: Forces and Motion
+=== "test 1"
+    ??? note "Note"
+        testing note admonition
 
-### Scalars and Vectors
-- A **scalar** is a quantity with magnitude only (e.g., mass, temperature).
-- A **vector** is a quantity with both magnitude and direction (e.g., velocity, force).
+=== "test 2"
+    ??? example "worked example 1: adding 1"
+        $$x=x+1$$
 
-### Speed and Velocity
-- Speed is the distance traveled per unit of time.
-- Velocity is speed in a specific direction.
-
-## Topic 2: Electricity
-...
+=== "test 3"
+    ??? tip "Exam tip"
+        revise
