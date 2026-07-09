@@ -1,14 +1,6 @@
 # Moments
 
-## Contents
-
-\* Moments
-
-\* The Principle of Moments
-
-\* Centre of Gravity
-
-# The moment of a force
+## The moment of a force
 
 * The **moment** of a force is the **turning effect** produced when a force is exerted on an object
 
@@ -42,7 +34,7 @@
 
 * This rotation can be **clockwise** or **anticlockwise**
 
-## Clockwise and anti-clockwise rotation
+**Clockwise and anti-clockwise rotation**
 
 ![Diagram showing two clocks, one with a red arrow indicating clockwise rotation and the other with a red arrow indicating anticlockwise rotation. Below the clocks are labels "CLOCKWISE" and "ANTICLOCKWISE" respectively.](../assets/images/page_91_image_1_v2.jpg)
 
@@ -50,7 +42,7 @@
 
 * A force applied on one side of the pivot will cause the object to rotate
 
-# An object rotating clockwise about a pivot
+**An object rotating clockwise about a pivot**
 
 ![Diagram showing a beam with a pivot and a force applied, causing clockwise rotation.](../assets/images/page_92_image_1_v2.jpg)
 
@@ -60,9 +52,7 @@
 
 **The turning effect of a force about a pivot**
 
-\* The size of a moment is defined by the equation:
-
-**M = F × d**
+\* The size of a moment is defined by the equation: $M = F × d$
 
 \* Where:
 
@@ -76,7 +66,7 @@
 
 - For example, on a horizontal beam, the forces which will cause a moment are those directed upwards or downwards
 
-# The moment of a force exerted on a spanner
+**The moment of a force exerted on a spanner**
 
 ![Diagram of a spanner showing the pivot at the nut, the force applied at the handle, and the perpendicular distance to the pivot.](../assets/images/page_93_image_2_v2.jpg)
 
@@ -89,21 +79,19 @@
 
     * If you push the door open at the side furthest from the hinge then it is much easier, as less force is required
 
-## Forces required to open a door
+**Forces required to open a door**
 
 ![Diagram of a door showing that a greater force is required near the hinges and less force is required at the door handle.](../assets/images/page_93_image_1_v2.jpg)
 
 *A greater force is required to push open a door next to the hinges than at the door handle*
 
-![Lightbulb icon](../assets/images/page_94_image_1_v2.jpg)
+!!! tip "Examiner Tips and Tricks"
 
-# Examiner Tips and Tricks
+    The moment of a force is measured in newton metres (N m), but can also be newton centimetres (N cm) if the distance is measured in cm instead.
 
-The moment of a force is measured in newton metres (N m), but can also be newton centimetres (N cm) if the distance is measured in cm instead.
+    If your IGCSE exam question doesn't ask for a specific unit, always convert the distance into **metres**
 
-If your IGCSE exam question doesn't ask for a specific unit, always convert the distance into **metres**
-
-# The principle of moments
+## The principle of moments
 
 * The **principle of moments** states that:
 
@@ -113,7 +101,7 @@ If your IGCSE exam question doesn't ask for a specific unit, always convert the 
 
 clockwise moment = anticlockwise moment
 
-## Clockwise and anticlockwise moments
+**Clockwise and anticlockwise moments**
 
 ![Diagram showing a balanced beam on a pivot with four forces labeled as clockwise or anti-clockwise based on their direction and position relative to the pivot.](../assets/images/page_95_chart_1_v2.jpg)
 
@@ -127,7 +115,7 @@ clockwise moment = anticlockwise moment
 
     * For example, on a horizontal beam, the forces which will cause a moment are those directed upwards or downwards
 
-## Using the principle of moments
+**Using the principle of moments**
 
 ![Engineering drawing of a balanced beam with forces F1, F2, and F3 at distances d1, d2, and d3 from a pivot, showing the equation F2 x d2 = F1 x d1 + F3 x d3](../assets/images/page_96_image_1_v2.jpg)
 
@@ -153,63 +141,61 @@ clockwise moment = anticlockwise moment
 
 $$F_2 \times d_2 = (F_1 \times d_1) + (F_3 \times d_3)$$
 
-### Worked Example
+!!! example "Worked Example"
 
-A parent and child are at opposite ends of a playground see-saw. The parent weighs 690 N and the child weighs 140 N. The adult sits 0.3 m from the pivot.
+    A parent and child are at opposite ends of a playground see-saw. The parent weighs 690 N and the child weighs 140 N. The adult sits 0.3 m from the pivot.
 
-![Diagram of an adult and a child on a see-saw. The adult (690 N) is 0.3 m from the pivot. The child (140 N) is at an unknown distance from the pivot.](../assets/images/page_97_image_1_v2.jpg)
+    ![Diagram of an adult and a child on a see-saw. The adult (690 N) is 0.3 m from the pivot. The child (140 N) is at an unknown distance from the pivot.](../assets/images/page_97_image_1_v2.jpg)
 
 
-Calculate the distance the child must sit from the pivot for the see-saw to be balanced.
+    Calculate the distance the child must sit from the pivot for the see-saw to be balanced.
 
-**Answer:**
+    ??? note "Answer:"
 
-**Step 1: List the known quantities**
+        **Step 1: List the known quantities**
 
-* Clockwise force (child), $F_{child} = 140\text{ N}$
-* Anticlockwise force (adult), $F_{adult} = 690\text{ N}$
-* Distance of adult from the pivot, $d_{adult} = 0.3\text{ m}$
+        * Clockwise force (child), $F_{child} = 140\text{ N}$
+        * Anticlockwise force (adult), $F_{adult} = 690\text{ N}$
+        * Distance of adult from the pivot, $d_{adult} = 0.3\text{ m}$
 
-**Step 2: Write down the relevant equation**
+        **Step 2: Write down the relevant equation**
 
-* Moments are calculated using:
-$$\text{Moment} = \text{force} \times \text{distance from pivot}$$
+        * Moments are calculated using:
+        $$\text{Moment} = \text{force} \times \text{distance from pivot}$$
 
-* For the see-saw to balance, the principle of moments states that
-$$\text{Total clockwise moments} = \text{Total anticlockwise moments}$$
+        * For the see-saw to balance, the principle of moments states that
+        $$\text{Total clockwise moments} = \text{Total anticlockwise moments}$$
 
-**Step 3: Calculate the total clockwise moments**
+        **Step 3: Calculate the total clockwise moments**
 
-* The clockwise moment is from the child
-$$\text{Moment of child (clockwise)} = F_{child} \times d_{child}$$
-$$\text{Moment of child (clockwise)} = 140 \times d_{child}$$
+        * The clockwise moment is from the child
+        $$\text{Moment of child (clockwise)} = F_{child} \times d_{child}$$
+        $$\text{Moment of child (clockwise)} = 140 \times d_{child}$$
 
-**Step 4: Calculate the total anticlockwise moments**
+        **Step 4: Calculate the total anticlockwise moments**
 
-* The anticlockwise moment is from the adult
-$$\text{Moment of adult (anticlockwise)} = F_{adult} \times d_{adult}$$
-$$\text{Moment of adult (anticlockwise)} = 690 \times 0.3 = 207\text{ N m}$$
+        * The anticlockwise moment is from the adult
+        $$\text{Moment of adult (anticlockwise)} = F_{adult} \times d_{adult}$$
+        $$\text{Moment of adult (anticlockwise)} = 690 \times 0.3 = 207\text{ N m}$$
 
-**Step 5: Substitute into the principle of moments equation**
+        **Step 5: Substitute into the principle of moments equation**
 
-$$\text{Moment of child (clockwise)} = \text{Moment of adult (anticlockwise)}$$
-$$140 \times d_{child} = 207$$
+        $$\text{Moment of child (clockwise)} = \text{Moment of adult (anticlockwise)}$$
+        $$140 \times d_{child} = 207$$
 
-**Step 6: Rearrange for the distance of the child from the pivot**
+        **Step 6: Rearrange for the distance of the child from the pivot**
 
-$$ d_{child} = \frac{207}{140} = 1.5\text{ m} $$
+        $$ d_{child} = \frac{207}{140} = 1.5\text{ m} $$
 
-* The child must sit **1.5 m** from the pivot to balance the see-saw
+        * The child must sit **1.5 m** from the pivot to balance the see-saw
 
-![Lightbulb icon](../assets/images/page_98_image_3_v2.jpg)
+!!! tip "Examiner Tips and Tricks"
 
-## Examiner Tips and Tricks
+    Make sure that all the distances are in the same units and that you're considering the correct forces as **clockwise** or **anticlockwise**.
 
-Make sure that all the distances are in the same units and that you're considering the correct forces as **clockwise** or **anticlockwise**.
+    In your IGCSE exam, you will only be expected to apply the principle of moments to a situation where an object rotates in one plane (up and down or side to side)
 
-In your IGCSE exam, you will only be expected to apply the principle of moments to a situation where an object rotates in one plane (up and down or side to side)
-
-# Supporting a beam
+## Supporting a beam
 
 * A **light beam** is one that can be treated as though it has **no mass**
 
@@ -237,7 +223,7 @@ In your IGCSE exam, you will only be expected to apply the principle of moments 
 
 * Therefore, the force F<sub>2</sub> must therefore supply an **anticlockwise** moment about the left-hand support, which **balances** the moment supplied by the object
 
-# Centre of gravity
+## Centre of gravity
 
 * The **centre of gravity** of an object is defined as:
 
@@ -247,7 +233,7 @@ In your IGCSE exam, you will only be expected to apply the principle of moments 
 
     - For example, the centre of gravity of a sphere is at the centre
 
-## Finding the centre of gravity of symmetrical objects
+**Finding the centre of gravity of symmetrical objects**
 
 ![Diagrams showing the centre of gravity for a triangle, an oval, a trapezoid, and a parallelogram using lines of symmetry.](../assets/images/page_100_image_2_v2.jpg)
 
@@ -265,10 +251,8 @@ In your IGCSE exam, you will only be expected to apply the principle of moments 
 
 * The centre of mass is located at the point where all three lines cross
 
-![Lightbulb icon](../assets/images/page_101_image_2_v2.jpg)
+!!! tip "Examiner Tips and Tricks"
 
-### Examiner Tips and Tricks
+    Since the centre of gravity is a hypothetical point, it can lie inside or outside of a body. The centre of gravity will constantly shift depending on the shape of a body. For example, a human body’s centre of gravity is lower when learning forward than when standing upright
 
-Since the centre of gravity is a hypothetical point, it can lie inside or outside of a body. The centre of gravity will constantly shift depending on the shape of a body. For example, a human body’s centre of gravity is lower when learning forward than when standing upright
-
-However, when you are drawing force diagrams, always draw the weight force as if it were acting from the centre of gravity of the object!
+    However, when you are drawing force diagrams, always draw the weight force as if it were acting from the centre of gravity of the object!
