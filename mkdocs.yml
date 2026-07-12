@@ -41,8 +41,13 @@ nav:
   - "Unit 5":
     - 5 - Solids, Liquids, Gases:
       - "Unit 5/index.md"
-      - 5.1 - Density and Pressure : "Unit 5/5_1_density-and-pressure.md"
-      - 5.2 - Changes of state : "Unit 5/5_2_changes-of-state.md"
+      - 5.1 - Density and Pressure :
+        - 5.1.1 - Density : "Unit 5/5_1_1_density.md"
+        - 5.1.2 - Pressure : "Unit 5/5_1_2_pressure.md"
+      - 5.2 - Heat, temperature and changes of state :
+        - 5.2.1 - Describing states of matter : "Unit 5/5_2_1_describing-states-of-matter.md"
+        - 5.2.2 - Heat and temperature : "Unit 5/5_2_2_heat-and-temperature.md"
+        - 5.2.3 - Temperature and changes of state : "Unit 5/5_2_3_temperature-and-changes-of-state.md"
       - 5.3 - Ideal Gases : "Unit 5/5_3_ideal-gases.md"
   - "Unit 6":
     - 6 - Electromagnetism:

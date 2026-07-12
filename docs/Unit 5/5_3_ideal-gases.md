@@ -79,12 +79,12 @@ $$ p = \frac{F}{A} $$
 
 *At absolute zero, or -273 °C, particles will have no net movement. It is therefore not possible to have a lower temperature*
 
-* Absolute zero is defined as:
-**The temperature at which the molecules in a substance have zero kinetic energy**
+!!! abstract "Definition: Absolute zero":
+    Absolute zero is defined as: **The temperature at which the molecules in a substance have zero kinetic energy**
 
-* This means for a system at absolute zero, it is not possible to remove any more energy from it
+* This means for a system at absolute zero, it is not possible to remove any more energy from it, so **temperature can not get any lower**.
 
-* Even in space, the temperature is roughly 2.7 K above absolute zero
+* Even in space, the temperature is roughly 2.7 K above absolute zero.
 
 ### The Kelvin scale
 
@@ -169,14 +169,11 @@ Conversion chart relating the temperature on the Kelvin and Celsius scales
 
         300 K - 273 = **27 °C**
 
-
 !!! tip "Examiner Tips and Tricks"
 
     If you forget in the exam whether it's +273 or -273, just remember that 0 °C = 273 K. This way, when you know that you need to +273 to a temperature in degrees to get a temperature in Kelvin. For example: 0 °C + 273 = 273 K.
 
-## Temperature
-
-### Temperature & speed
+### Temperature
 
 * Imagine molecules of gas that are free to move around in a box
 
@@ -191,8 +188,6 @@ Conversion chart relating the temperature on the Kelvin and Celsius scales
 ![Diagram showing gas molecules moving randomly in a box with arrows indicating direction](../assets/images/page_347_image_1_v2.jpg)
 
 *Gas molecules move about randomly at high speeds*
-
-### Temperature & kinetic energy
 
 * The temperature of a substance is related to the average kinetic energy of its molecules
 
@@ -218,9 +213,15 @@ Conversion chart relating the temperature on the Kelvin and Celsius scales
 
     - They collide more often with each other and the container walls, leading to an increase in **pressure**
 
-* The temperature (in Kelvin) is **proportional** to the average kinetic energy of the molecules:
+!!! info "Relationship between temperature in Kelvin and average kinetic energy of molecules"
+    * The temperature in **Kelvin** is **proportional** to the **average kinetic energy** of the molecules:
 
-$$ T \propto KE $$
+    $$ T \propto KE $$
+
+!!! warning "Warning:"
+    * The temperature in Kelvin is **not** proportional to the temperature in °C, so the statement above is not correct if the temperature is given in °C. The relationship between T in °C and the average KE og molecules is linear, but it is not proportional.
+
+    * The speed of molecules increases with Kinetic energy, but **not** in a linear way (in particular, they are **not** proportional to each other). Consequently, The speed of molecules increases with temperature, but **not** in a linear (in particular, htey are **not** proportional each other) 
 
 !!! Example "Worked Example"
 

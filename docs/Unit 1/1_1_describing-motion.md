@@ -74,7 +74,7 @@
 
     Suggest how Astronaut A should explain the difference between mass and weight, using definitions of scalars and vectors in your answer.
 
-    ??? note (Answer:)
+    ??? note "Answer:"
 
         **Step 1: Recall the definitions of a scalar and vector quantity**
 
@@ -318,47 +318,45 @@ A rocket speeding up (accelerating) and a car slowing down (decelerating)
 
     (b) Calculate the deceleration of the train, and explain how your answer shows the train is slowing down.
 
-    **Answer:**
+    ??? note "Answer (Part a)"
 
-    **Part (a)**
+        **Step 1: List the known quantities**
 
-    **Step 1: List the known quantities**
+        * Initial velocity, $u = 50\text{ m/s}$
 
-    * Initial velocity, $u = 50\text{ m/s}$
+        * Final velocity, $v = 42\text{ m/s}$
 
-    * Final velocity, $v = 42\text{ m/s}$
+        **Step 2: Write the relevant equation**
 
-    **Step 2: Write the relevant equation**
+        $$\Delta v = v - u$$
 
-    $$\Delta v = v - u$$
+        **Step 3: Substitute values for final and initial velocity**
 
-    **Step 3: Substitute values for final and initial velocity**
+        $$\Delta v = 42 - 50$$
 
-    $$\Delta v = 42 - 50$$
+        $$\Delta v = -8\text{ m/s}$$
 
-    $$\Delta v = -8\text{ m/s}$$
+    ??? note "Answer (Part b)"
 
-    **Part (b)**
+        **Step 1: List the known quantities**
 
-    **Step 1: List the known quantities**
+        * Change in velocity, $\Delta v = -8\text{ m/s}$
 
-    * Change in velocity, $\Delta v = -8\text{ m/s}$
+        * Time taken, $t = 30\text{ s}$
 
-    * Time taken, $t = 30\text{ s}$
+        **Step 2: Write the relevant equation**
 
-    **Step 2: Write the relevant equation**
+        $$a = \frac{(v - u)}{t} = \frac{\Delta v}{t}$$
 
-    $$a = \frac{(v - u)}{t} = \frac{\Delta v}{t}$$
+        **Step 3: Substitute the values for change in velocity and time**
 
-    **Step 3: Substitute the values for change in velocity and time**
+        $$a = \frac{-8}{30}$$
 
-    $$a = \frac{-8}{30}$$
+        $$a = -0.27\text{ m/s}^2$$
 
-    $$a = -0.27\text{ m/s}^2$$
-
-    **Step 4: Interpret the value for deceleration**
-    
-    * The answer is **negative**, which indicates the train is **slowing down**
+        **Step 4: Interpret the value for deceleration**
+        
+        * The answer is **negative**, which indicates the train is **slowing down**
 
 !!! tip "Examiner Tips and Tricks"
 
@@ -870,7 +868,7 @@ $$ \text{speed} = \text{gradient} = \frac{\Delta y}{\Delta x} $$
         * The **slope** of the line in section C is **steeper** than the slope in section A
         * This means the student was moving with a **larger** speed (running) in section C
 
-    ??? note "Answer "Part (c):"
+    ??? note "Answer Part (c):"
 
         * The total distance travelled by the student is **0.6 km**
         * The total distance travelled by an object is given by the final point on the line - in this case, the line ends at **0.6 km** on the **distance** axis. This is shown in the image below:
@@ -1442,42 +1440,42 @@ $$ v^2 = u^2 + 2as $$
 
     Calculate how far the car moves during this period of acceleration.
 
-    **Answer:**
+    ??? note "Answer:"
 
-    **Step 1: List the known quantities**
+        **Step 1: List the known quantities**
 
-    * Initial speed, $u = 0\text{ m/s}$
+        * Initial speed, $u = 0\text{ m/s}$
 
-        - Because the car starts **from rest**
+            - Because the car starts **from rest**
 
-    * Final speed, $v = 16\text{ m/s}$
+        * Final speed, $v = 16\text{ m/s}$
 
-    * Acceleration, $a = 2.5\text{ m/s}$
+        * Acceleration, $a = 2.5\text{ m/s}$
 
 
-    **Step 2: Identify and write down the equation to use**
+        **Step 2: Identify and write down the equation to use**
 
-    * The question says that the car '**accelerates steadily**' - so the equation for **uniform acceleration** can be used:
+        * The question says that the car '**accelerates steadily**' - so the equation for **uniform acceleration** can be used:
 
-    $$v^2 = u^2 + 2as$$
+        $$v^2 = u^2 + 2as$$
 
-    **Step 3: Rearrange the equation to work out the distance moved**
+        **Step 3: Rearrange the equation to work out the distance moved**
 
-    * Subtract $u^2$ from each side
+        * Subtract $u^2$ from each side
 
-    $$v^2 - u^2 = 2as$$
+        $$v^2 - u^2 = 2as$$
 
-    * Divide both sides by $2a$
+        * Divide both sides by $2a$
 
-    $$s = \frac{v^2 - u^2}{2a}$$
+        $$s = \frac{v^2 - u^2}{2a}$$
 
-    **Step 4: Substitute known quantities into the equation and simplify where possible**
+        **Step 4: Substitute known quantities into the equation and simplify where possible**
 
-    $$s = \frac{16^2 - 0^2}{2 \times 2.5}$$
+        $$s = \frac{16^2 - 0^2}{2 \times 2.5}$$
 
-    $$s = \frac{256}{5}$$
+        $$s = \frac{256}{5}$$
 
-    $$s = 51\text{ m}$$
+        $$s = 51\text{ m}$$
 
 !!! tip "Examiner Tips and Tricks"
 

@@ -1,4 +1,4 @@
-# Changes of State
+# Heat, temperature, and states of matter
 
 ## Describing states of matter in terms of particles
 
@@ -184,20 +184,15 @@ graph LR
 
 *   The **potential energy** of the molecules, due to their position relative to each other (the intermolecular bonds)
 
-
-
 *   The **temperature** of the material is related to the average kinetic energy of the molecules
 
 *   The increase in internal energy from heating can:
-    
 
     *   cause the **temperature** to increase — the energy goes into the kinetic store of the molecules, so they move around faster
-    
 
     *   produce a **change of state** (e.g., solid to liquid or liquid to gas) — the energy goes into the potential store of the molecules, breaking the intermolecular bonds, while the kinetic energy stays constant, so the temperature does not rise
 
 *   The higher the temperature, the higher the average **kinetic energy** of the molecules, and vice versa
-
 
 ![Diagram showing the relationship between temperature and internal energy in a gas. On the left, a "NORMAL GAS (LOW T)" in a container with "LOW INTERNAL ENERGY" where "GAS MOLECULES ARE FREE TO MOVE AND HAVE NO INTERMOLECULAR FORCES". On the right, a "HEATED GAS (HIGH T)" being heated by a "BUNSEN BURNER" resulting in "HIGH INTERNAL ENERGY" where "THE GAS MOLECULES MOVE MUCH FASTER WITH HIGHER KINETIC ENERGY" and "THE MOLECULES HAVE MORE INTERNAL ENERGY".](../assets/images/page_326_image_2_v2.jpg)
 
