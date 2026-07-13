@@ -1,48 +1,67 @@
 # Ideal Gases
 
-## Kinetic theory of gases
+## Kinetic theory of ideal gases
 
-### Random motion
+### Explaining pressure in terms of particle motion
 
-* Molecules in a gas are in constant **random** motion at high speeds
-
-* Random motion means that the molecules are travelling in no specific path and undergo sudden changes in their motion if they collide:
-
-    - with the walls of its container
-
-    - with other molecules
+* Molecules in a gas are in constant **random** motion at high speeds. 
 
 ![Diagram showing gas molecules moving in random directions within a container, with arrows indicating their paths and collisions.](../assets/images/page_342_image_1_v2.jpg)
 
 *Random motion of gas molecules in a container, caused by collisions*
 
-### Explaining pressure in terms of particle motion
-
-* A feature of gases is that they fill their container
-
-* The pressure is defined as the **force per unit area**
-
-$$ p = \frac{F}{A} $$
-
-* Where:
-
-    - $p$ = pressure in pascals Pa
-
-    - $F$ = force in newtons N
-
-* A = area in metres-squared m<sup>2</sup>
-
 * As the gas particles move about randomly they collide with the walls of their containers
 
-* These collisions produce a **net force** at right angles to the wall of the gas container (or any surface)
+* These collisions produce a **net force** on the wall of the container.
 
-* Therefore, a gas at **high** pressure has **more frequent collisions** with the container walls and a greater force
+* The magnitude of this force depends on two factors:
 
-    * Hence the higher the pressure, the higher the **force** exerted per unit area
+    - the **speed** at which these collisions occur
+
+    - the **frequency** at which these collisions occur
+
+??? info "More details (A Level preview)
+    TODO
+
+* Pressure is defined as the **force per unit area** ($ p = \frac{F}{A} $), so the pressure exerted by the gas depends both on the magnitude of the force exerted and the surface area.
 
 ![Diagram showing gas particles (blue circles) moving randomly (red arrows) and colliding with a container wall (black vertical line), resulting in outward force vectors (green boxes labeled FORCE with green arrows).](../assets/images/page_343_image_1_v2.jpg)
 
 *Gas molecules colliding with the walls of a container, exerting a force over the area and hence generating pressure*
+
+We will see how this reasoning can be used to explain the relationships between pressure, volume and temperature in several situations.
+
+### Temperature and pressure
+
+* The **temperature** of a gas is related to the **average speed** (and therefore the **average kinetic energy** of its molecules): the **higher the temperature** of the gas, the **faster** the molecules move (and the higher their **average kinetic energy**)
+
+![Diagram showing gas molecules moving randomly in a box with arrows indicating direction](../assets/images/page_347_image_1_v2.jpg)
+
+*Gas molecules move about randomly at high speeds*
+
+* The temperature of a substance is related to the average kinetic energy of its molecules
+
+* The higher the temperature, the higher the average kinetic energy of the molecules, and vice versa
+
+    - This means they move **faster** at higher temperatures
+
+    - This applies to all states of matter, although the motion of particles in a solid is different from that of particles in a gas
+
+* For a gas, the **internal energy** can be taken as the sum of the kinetic energies of all the molecules
+
+    - In a gas, the intermolecular forces are negligible, so the contribution from potential energy can be taken as zero
+
+* This is different from a solid or liquid, where the internal energy includes contributions from both kinetic and potential energy
+
+
+
+![Diagram showing gas molecules in two containers: one labeled "NORMAL GAS (LOW T)" with "LOW INTERNAL ENERGY" and another labeled "HEATED GAS (HIGH T)" with "HIGH INTERNAL ENERGY" being heated by a Bunsen burner. Text boxes explain that in the heated gas, molecules move faster with higher kinetic energy and the system has more internal energy.](../assets/images/page_348_image_1_v2.jpg)
+
+*As the container is heated up, the gas molecules move faster with higher kinetic energy. The energy stored within the system – the internal energy – therefore increases*
+
+* If the temperature of a gas is increased, the particles move faster and gain **kinetic energy**
+
+    - They collide more often with each other and the container walls, leading to an increase in **pressure**
 
 ### Absolute Zero
 
@@ -175,43 +194,6 @@ Conversion chart relating the temperature on the Kelvin and Celsius scales
 
 ### Temperature
 
-* Imagine molecules of gas that are free to move around in a box
-
-* The molecules in the gas move around randomly at high speeds, colliding with surfaces and exerting pressure upon them
-
-* The **temperature** of a gas is a measure of the **average speed** of the molecules:
-
-    - The **higher the temperature** of the gas, the **faster** the molecules move
-
-    - This is because they have a greater average speed
-
-![Diagram showing gas molecules moving randomly in a box with arrows indicating direction](../assets/images/page_347_image_1_v2.jpg)
-
-*Gas molecules move about randomly at high speeds*
-
-* The temperature of a substance is related to the average kinetic energy of its molecules
-
-* The higher the temperature, the higher the average kinetic energy of the molecules, and vice versa
-
-    - This means they move **faster** at higher temperatures
-
-    - This applies to all states of matter, although the motion of particles in a solid is different from that of particles in a gas
-
-* For a gas, the **internal energy** can be taken as the sum of the kinetic energies of all the molecules
-
-    - In a gas, the intermolecular forces are negligible, so the contribution from potential energy can be taken as zero
-
-* This is different from a solid or liquid, where the internal energy includes contributions from both kinetic and potential energy
-
-
-
-![Diagram showing gas molecules in two containers: one labeled "NORMAL GAS (LOW T)" with "LOW INTERNAL ENERGY" and another labeled "HEATED GAS (HIGH T)" with "HIGH INTERNAL ENERGY" being heated by a Bunsen burner. Text boxes explain that in the heated gas, molecules move faster with higher kinetic energy and the system has more internal energy.](../assets/images/page_348_image_1_v2.jpg)
-
-*As the container is heated up, the gas molecules move faster with higher kinetic energy. The energy stored within the system – the internal energy – therefore increases*
-
-* If the temperature of a gas is increased, the particles move faster and gain **kinetic energy**
-
-    - They collide more often with each other and the container walls, leading to an increase in **pressure**
 
 !!! info "Relationship between temperature in Kelvin and average kinetic energy of molecules"
     * The temperature in **Kelvin** is **proportional** to the **average kinetic energy** of the molecules:
