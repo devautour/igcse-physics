@@ -42,7 +42,7 @@
 
 ## A few remarks
 
-!!! Alert "Todo"
+!!! Alert "TODO"
     * research the density of a few materials
     * link to the Eureka story
     * applications in igcse syllabus : floating, and convection currents

@@ -48,7 +48,9 @@ nav:
         - 5.2.1 - Describing states of matter : "Unit 5/5_2_1_describing-states-of-matter.md"
         - 5.2.2 - Heat and temperature : "Unit 5/5_2_2_heat-and-temperature.md"
         - 5.2.3 - Temperature and changes of state : "Unit 5/5_2_3_temperature-and-changes-of-state.md"
-      - 5.3 - Ideal Gases : "Unit 5/5_3_ideal-gases.md"
+      - 5.3 - Ideal Gases : 
+        - 5.3.1 - Kinetic theory of gases : "Unit 5/5_3_1_kinetic-theory-of-gases.md"
+        - 5.3.2 - Ideal Gas Laws : "Unit 5/5_3_2_ideal-gas-laws.md"
   - "Unit 6":
     - 6 - Electromagnetism:
       - "Unit 6/index.md"
