@@ -1,4 +1,90 @@
-# Electrical Power & Mains Electricity
+# Mains Electricity
+
+## AC & DC
+
+* Mains electricity can be supplied by **alternating current** (a.c.) or **direct current** (d.c.) from a cell or battery
+
+### Direct current
+
+* A direct current (d.c.) is defined as
+
+> **A steady current, constantly flowing in the same direction in a circuit, from positive to negative**
+
+* The potential difference across a cell in a d.c. circuit travels in **one direction only**
+
+    - The current travels from the positive terminal to the negative terminal
+
+* A d.c. power supply has a **fixed** positive terminal and a fixed negative terminal
+
+* Electric **cells**, or **batteries**, produce direct current (d.c.)
+
+![Circuit diagram showing a battery, a lamp, a resistor, and a voltmeter connected in a loop.](../assets/images/page_167_image_1_v2.jpg)
+
+*Circuits powered by cells or batteries use a d.c. supply*
+
+### Alternating current
+
+* An alternating current (a.c.) is defined as
+
+**A current that continuously changes its direction, going back and forth around a circuit**
+
+* An alternating current power supply has two identical terminals that **change** from positive to negative and back again
+
+* The alternating current always travels from the positive terminal to the negative terminal
+
+* Therefore, the current changes direction as the polarity of the terminals changes
+
+* The **frequency** of an alternating current is the number of times the current changes direction back and forth each second
+
+* In the UK, **mains electricity** is an **alternating** current with a frequency of 50 Hz and a potential difference of around 230 V
+
+<table>
+  <thead>
+    <tr>
+        <th>DIRECT CURRENT (D.C.)</th>
+        <th>ALTERNATING CURRENT (A.C.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Constant positive value (horizontal line)</td>
+        <td>Sinusoidal wave (oscillating between positive and negative)</td>
+    </tr>
+  </tbody>
+</table>
+
+Two graphs showing the variation of current with time for alternating current and direct current
+
+### Comparing alternating current & direct current
+
+* The following table summarises the differences between d.c. and a.c.
+
+<table>
+  <thead>
+    <tr>
+        <th>Direct Current (d.c.)</th>
+        <th>Alternating Current (a.c.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Continuous and in one direction</td>
+        <td>Constantly changing direction</td>
+    </tr>
+    <tr>
+        <td>Produced by cells and batteries</td>
+        <td>Produced by electrical generators i.e. mains electricity</td>
+    </tr>
+    <tr>
+        <td>Has a positive and negative terminal</td>
+        <td>Has two identical terminals</td>
+    </tr>
+  </tbody>
+</table>
+
+!!! tip "Examiner Tips and Tricks"
+
+    If asked to explain the difference between alternating and direct current, sketching and labelling the graphs above can earn you full marks. All the circuits you have studied so far are d.c. circuits. Don't be put off by an exam question if you are asked to calculate the current, potential difference or resistance in d.c. series circuits, you don't have to do anything different from what you have already learned!
 
 ## Electrical Power & Fuses
 
@@ -72,7 +158,7 @@ $$ P = IV $$
 
 * A fuse is a safety device designed to **cut off** the flow of electricity to an appliance if the **current becomes too large** (due to a fault or a surge)
 
-#### Fuse circuit symbol
+**Fuse circult symbol**
 
 ![Fuse circuit symbol](../assets/images/page_157_image_2_v2.jpg)
 
@@ -344,88 +430,3 @@ $$E = I \times V \times t$$
 
     Remember that a charge moving around an electrical circuit are an example of an electrical transfer pathway. If you are unsure of how to explain energy stores and transfers use the E[nergy stores & transfers](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/4-energy-resources-and-energy-transfers/4-1-energy-stores-and-transfers/4-1-1-energy-stores-and-transfers/) revision note to help.
 
-## AC & DC
-
-* Mains electricity can be supplied by **alternating current** (a.c.) or **direct current** (d.c.) from a cell or battery
-
-### Direct current
-
-* A direct current (d.c.) is defined as
-
-> **A steady current, constantly flowing in the same direction in a circuit, from positive to negative**
-
-* The potential difference across a cell in a d.c. circuit travels in **one direction only**
-
-    - The current travels from the positive terminal to the negative terminal
-
-* A d.c. power supply has a **fixed** positive terminal and a fixed negative terminal
-
-* Electric **cells**, or **batteries**, produce direct current (d.c.)
-
-![Circuit diagram showing a battery, a lamp, a resistor, and a voltmeter connected in a loop.](../assets/images/page_167_image_1_v2.jpg)
-
-*Circuits powered by cells or batteries use a d.c. supply*
-
-### Alternating current
-
-* An alternating current (a.c.) is defined as
-
-**A current that continuously changes its direction, going back and forth around a circuit**
-
-* An alternating current power supply has two identical terminals that **change** from positive to negative and back again
-
-* The alternating current always travels from the positive terminal to the negative terminal
-
-* Therefore, the current changes direction as the polarity of the terminals changes
-
-* The **frequency** of an alternating current is the number of times the current changes direction back and forth each second
-
-* In the UK, **mains electricity** is an **alternating** current with a frequency of 50 Hz and a potential difference of around 230 V
-
-<table>
-  <thead>
-    <tr>
-        <th>DIRECT CURRENT (D.C.)</th>
-        <th>ALTERNATING CURRENT (A.C.)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Constant positive value (horizontal line)</td>
-        <td>Sinusoidal wave (oscillating between positive and negative)</td>
-    </tr>
-  </tbody>
-</table>
-
-Two graphs showing the variation of current with time for alternating current and direct current
-
-### Comparing alternating current & direct current
-
-* The following table summarises the differences between d.c. and a.c.
-
-<table>
-  <thead>
-    <tr>
-        <th>Direct Current (d.c.)</th>
-        <th>Alternating Current (a.c.)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Continuous and in one direction</td>
-        <td>Constantly changing direction</td>
-    </tr>
-    <tr>
-        <td>Produced by cells and batteries</td>
-        <td>Produced by electrical generators i.e. mains electricity</td>
-    </tr>
-    <tr>
-        <td>Has a positive and negative terminal</td>
-        <td>Has two identical terminals</td>
-    </tr>
-  </tbody>
-</table>
-
-!!! tip "Examiner Tips and Tricks"
-
-    If asked to explain the difference between alternating and direct current, sketching and labelling the graphs above can earn you full marks. All the circuits you have studied so far are d.c. circuits. Don't be put off by an exam question if you are asked to calculate the current, potential difference or resistance in d.c. series circuits, you don't have to do anything different from what you have already learned!

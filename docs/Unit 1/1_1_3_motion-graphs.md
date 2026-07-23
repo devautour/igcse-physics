@@ -1,525 +1,6 @@
-# Describing Motion
+# Motion graphs
 
-## Physical quantities
-
-### Scalars and vectors
-
-* All quantities can be one of two types:
-
-    - a **scalar** is a quantity that has **magnitude** but not direction (for instance: time, mass, energy, temprature ...)
-
-    - a **vector** is a quantity that has both **magnitude** and **direction** (for instance: a force)
-
-* Vector quantities can be represented by arrows
-
-    * The **length** of the arrow represents the **magnitude**
-
-    * The **direction** of the arrow indicates the **direction**
-
-* The table below lists some common examples of scalar and vector quantities (Corresponding vectors and their scalar counterparts are aligned in the table where applicable)
-
-<table>
-  <thead>
-    <tr>
-        <th>Scalar</th>
-        <th>Vector</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>distance</td>
-        <td>displacement</td>
-    </tr>
-    <tr>
-        <td>speed</td>
-        <td>velocity</td>
-    </tr>
-    <tr>
-        <td>mass</td>
-        <td>weight</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td>force</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td>acceleration</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td>momentum</td>
-    </tr>
-    <tr>
-        <td colspan="2">energy</td>
-    </tr>
-    <tr>
-        <td colspan="2">volume</td>
-    </tr>
-    <tr>
-        <td colspan="2">density</td>
-    </tr>
-    <tr>
-        <td colspan="2">temperature</td>
-    </tr>
-    <tr>
-        <td colspan="2">power</td>
-    </tr>
-  </tbody>
-</table>
-
-!!! example "Worked Example"
-
-    Astronaut A is in charge of training junior astronauts. For one of their sessions, they would like to explain the difference between mass and weight.
-
-    Suggest how Astronaut A should explain the difference between mass and weight, using definitions of scalars and vectors in your answer.
-
-    ??? note "Answer:"
-
-        **Step 1: Recall the definitions of a scalar and vector quantity**
-
-        * Scalar quantities have only a **magnitude**
-
-        * Vector quantities have both **magnitude and direction**
-
-        **Step 2: Identify which quantity has magnitude only**
-
-        * **Mass** is a quantity with **magnitude** only
-
-        * So mass is a **scalar** quantity
-
-            * Astronaut A might explain to the junior astronauts that their mass will not change if they travel to outer space
-
-        **Step 3: Identify which quantity has magnitude and direction**
-
-        * **Weight** is a quantity with **magnitude and direction** (it is a force)
-
-        * So weight is a **vector** quantity
-
-            * Astronaut A might explain to the junior astronauts that their weight will vary depending on their location in space
-
-### Distance and Displacement
-
-* **Distance** is a measure of how far an object has travelled, **regardless of direction**
-
-    - Distance is the total length of the path taken
-
-    - Distance, therefore, has a **magnitude** but **no direction**
-
-    - So, distance is a **scalar** quantity
-
-* **Displacement** is a measure of how far it is between two points in space, **including the direction**
-
-    - Displacement is the **length** and **direction** of a **straight line** drawn from the starting point to the finishing point
-
-    - Displacement, therefore, has a **magnitude** and a **direction**
-
-    - So, displacement is a **vector** quantity
-
-
-![Diagram showing the difference between distance (a curved path with obstacles like trees and a lake) and displacement (a straight line from start to finish).](../assets/images/page_38_image_1_v2.jpg)
-
-
-*Displacement is a vector quantity while distance is a scalar quantity*
-
-* When a student travels to school, there will probably be a **difference** in the distance they travel and their displacement
-    
-
-    * The **overall distance** they travel includes the total lengths of all the roads, including any twists and turns
-    
-
-    * The **overall displacement** of the student would be a straight line between their home and school, regardless of any obstacles, such as buildings, lakes or motorways, along the way
-
-### Speed and Velocity
-
-* The **speed** of an object is **the distance it travels every second**
-
-* Speed is a **scalar** quantity because it has a **magnitude** but not a direction
-
-#### Average speed
-
-* The **speed** of an object can **vary** throughout its journey
-
-* Therefore, it is often more useful to know an object's **average speed**
-
-![Illustration of a hiker walking at 2.0 m/s and a bumblebee flying at 4.5 m/s in a landscape with trees and mountains.](../assets/images/page_9_image_1_v2.jpg)
-
-*A hiker might have an average speed of 2.0 m/s, whereas a particularly excited bumble bee can have average speeds of up to 4.5 m/s*
-
-* The equation for calculating the **average speed** of a moving object is:
-
-$$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
-
-* **Average speed** considers the **total distance moved** and the **total time taken**
-
-??? note "Average speed formula triangle"
-
-    ![Formula triangle for average speed, distance moved and time taken](../assets/images/page_10_chart_1_v2.jpg)
-
-    *Formula triangle for average speed, distance moved and time taken*
-
-??? note "How to use formula triangles"
-
-    * Formula triangles are really useful for knowing how to rearrange physics equations
-
-    * To use them:
-
-    1. Cover up the quantity to be calculated, this is known as the 'subject' of the equation
-
-    2. Look at the position of the other two quantities
-
-        * If they are on the same line, this means they are **multiplied**
-
-        * If one quantity is above the other, this means they are **divided** - make sure to keep the order of which is on the top and bottom of the fraction!
-
-    * In the example below, to calculate average speed, cover-up the variable speed so that only distance and time are left
-
-        * The equation is revealed as:
-
-    $$ \text{speed} = \frac{\text{distance}}{\text{time}} $$
-
-    ![Diagram showing how to use the formula triangle to find Time, Speed, and Distance by covering the desired variable with a finger.](../assets/images/page_10_image_3_v2.jpg)
-
-    *To use a formula triangle, simply cover up the quantity you wish calculate and the structure of the equation is revealed*
-
-!!! Example "Worked Example"
-
-    Planes fly at typical average speeds of around 250 m/s.
-
-    Calculate the distance travelled by a plane moving at this average speed for 2 hours.
-
-    ??? note "Answer:"
-
-        **Step 1: List the known quantities**
-
-        * Average speed = 250 m/s
-
-            - Time taken = 2 hours
-
-        **Step 2: Write the relevant equation**
-
-        $$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
-
-        **Step 3: Rearrange to make distance moved the subject**
-
-        $$ \text{distance moved} = \text{average speed} \times \text{time taken} $$
-
-        **Step 4: Convert any units**
-
-        * The time given in the question is not in standard units
-
-        * Convert 2 hours into seconds:
-
-        $$ 2 \text{ hours} = 2 \times 60 \times 60 $$
-
-        $$ 2 \text{ hours} = 7200 \text{ s} $$
-
-        **Step 5: Substitute the values for average speed and time taken**
-
-        $$ \text{distance moved} = 250 \times 7200 $$
-
-        $$ \text{distance moved} = 1\ 800\ 000 \text{ m} $$
-
-!!! tip "Examiner Tips and Tricks"
-    Rearranging equations is an important skill in Physics. You can use the equation triangles to help you practice, but it is better not to rely on them because they do not work for all equations you may need to rearrange in the exam.
-
-#### velocity
-
-* **Speed** is a measure of the **distance** travelled by an object per unit time, **regardless of the direction**
-    
-
-    * The speed of an object describes how fast it is moving, but **not** the direction it is travelling in
-    
-
-    * Speed, therefore, has **magnitude** but **no direction**
-    
-
-    * So, speed is a **scalar** quantity
-
-* **Velocity** is a measure of the **displacement** of an object per unit time, **including the direction**
-    
-
-    * The velocity of an object describes how fast it is moving **and** which direction it is travelling in
-    
-
-    * An object can have a **constant speed** but a **changing velocity** if the object is **changing direction**
-    
-
-    * Velocity, therefore, has **magnitude and direction**
-
-* So, velocity is a **vector** quantity
-
-
-### Acceleration
-
-* **Acceleration** is defined as the **rate of change in velocity**
-
-    * In other words, it describes how much an object's velocity **changes** every **second**
-
-* The equation below is used to calculate the average acceleration of an object:
-
-$$ \text{acceleration} = \frac{\text{change in velocity}}{\text{time taken}} $$
-
-$$ a = \frac{\Delta v}{t} $$
-
-* Where:
-
-    * $a$ = acceleration in metres per second squared (m/s<sup>2</sup>)
-
-    * $\Delta v$ = change in velocity in metres per second (m/s)
-
-    * $t$ = time taken in seconds (s)
-
-??? note "Formula triangle for acceleration, change in velocity and time"
-
-    ![Formula triangle showing Δv at the top, and a and t at the bottom](../assets/images/page_16_image_1_v2.jpg)
-
-    *To use an equation triangle, simply cover up the value you wish to calculate and the structure of the equation will be revealed*
-
-* The **change in velocity** is found by the **difference** between the initial and final velocity:
-
-change in velocity = final velocity $-$ initial velocity
-
-$$ \Delta v = v - u $$
-
-* Where:
-
-- $v$ = final velocity in metres per second (m/s)
-
-- $u$ = initial velocity in metres per second (m/s)
-
-* Therefore, the acceleration, or the rate of change in velocity, equation can be written as:
-
-$$ a = \frac{(v - u)}{t} $$
-
-#### Speeding up and slowing down
-
-* An object that speeds up is **accelerating**
-
-* An object that slows down is **decelerating**
-
-* The **acceleration** of an object can be **positive** or **negative**, depending on whether the object is speeding up or slowing down
-
-- If an object is **speeding up**, its acceleration is **positive**
-
-- If an object is **slowing down**, its acceleration is **negative** (also known as **deceleration**)
-
-#### Examples of acceleration and deceleration
-
-![Illustration of a car being pushed backwards with text "a = -5 m/s² THIS CAR IS DECELERATING AS ORDERED TO SLOW DOWN BY THE PERSON" and a rocket launching with text "a = +30 m/s² THIS ROCKET IS ACCELERATING UP TO SPACE"](../assets/images/page_17_image_1_v2.jpg)
-
-A rocket speeding up (accelerating) and a car slowing down (decelerating)
-
-!!! Example "Worked Example"
-
-    A Japanese bullet train decelerates at a constant rate in a straight line. The velocity of the train decreases from $50\text{ m/s}$ to $42\text{ m/s}$ in $30\text{ seconds}$.
-
-    (a) Calculate the change in velocity of the train.
-
-    (b) Calculate the deceleration of the train, and explain how your answer shows the train is slowing down.
-
-    ??? note "Answer (Part a)"
-
-        **Step 1: List the known quantities**
-
-        * Initial velocity, $u = 50\text{ m/s}$
-
-        * Final velocity, $v = 42\text{ m/s}$
-
-        **Step 2: Write the relevant equation**
-
-        $$\Delta v = v - u$$
-
-        **Step 3: Substitute values for final and initial velocity**
-
-        $$\Delta v = 42 - 50$$
-
-        $$\Delta v = -8\text{ m/s}$$
-
-    ??? note "Answer (Part b)"
-
-        **Step 1: List the known quantities**
-
-        * Change in velocity, $\Delta v = -8\text{ m/s}$
-
-        * Time taken, $t = 30\text{ s}$
-
-        **Step 2: Write the relevant equation**
-
-        $$a = \frac{(v - u)}{t} = \frac{\Delta v}{t}$$
-
-        **Step 3: Substitute the values for change in velocity and time**
-
-        $$a = \frac{-8}{30}$$
-
-        $$a = -0.27\text{ m/s}^2$$
-
-        **Step 4: Interpret the value for deceleration**
-        
-        * The answer is **negative**, which indicates the train is **slowing down**
-
-!!! tip "Examiner Tips and Tricks"
-
-    Remember, the units for acceleration are **metres per second squared**, m/s<sup>2</sup>
-
-    In other words, acceleration measures how much the velocity (in m/s) changes every second, m/s/s.
-
-## Core practical 1: investigating motion
-
-### Aim of the experiment
-
-* The aim of this experiment is to investigate the motion of some everyday objects, by measuring their speed
-
-* Examples of objects that could be used are:
-
-    * a **paper cone**
-
-    * a **tennis ball**
-
-* Measuring speed **directly** is difficult to do; therefore, by measuring distance moved and time taken, the average speed of the object can be calculated
-
-* This is just one method of measuring the speed of different objects - some methods involve the use of light gates to measure speed and acceleration, e.g. for a **toy car** moving down a slope
-
-### Variables
-
-* Independent variable = Distance, *d*
-
-* Dependent variable = Time, *t*
-
-* Control variables:
-
-    * Use the same object (paper cone, tennis ball etc.) for each measurement
-
-### Equipment
-
-<table>
-  <thead>
-    <tr>
-        <th>Equipment</th>
-        <th>Purpose</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Paper cone / tennis ball</td>
-        <td>To measure the speed of</td>
-    </tr>
-    <tr>
-        <td>Stop watch</td>
-        <td>To measure time taken</td>
-    </tr>
-    <tr>
-        <td>Tape measure / metre rule</td>
-        <td>To measure distance moved</td>
-    </tr>
-  </tbody>
-</table>
-
-* Resolution of measuring equipment:
-
-    * Ruler = 1 mm
-
-    * Stop clock = 0.01 s
-
-### Method
-
-![Diagram showing the experimental setup for investigating the motion of a falling paper cone. It includes a tape measure, a paper cone held at a height, a stop clock, and a vertical arrow indicating distance, d.](../assets/images/page_13_image_1_v2.jpg)
-
-
-***Investigating the motion of a falling paper cone***
-
-1. Measure out a height of 1.0 m using the tape measure or metre ruler
-
-2. Drop the object (paper cone or tennis ball) from this height, which is the distance travelled by the object
-
-3. Use the stop clock to measure how long the object takes to travel this distance
-
-4. Record the distance travelled and time taken
-
-5. Repeat steps 2–3 three times, calculating an average time taken for the object to fall a certain distance
-
-6. Repeat steps 1–4 for heights of 1.2 m, 1.4 m, 1.6 m, and 1.8 m
-
-### Example results table
-
-<table>
-  <thead>
-    <tr>
-        <th>DISTANCE / m</th>
-        <th>TIME 1 / s</th>
-        <th>TIME 2 / s</th>
-        <th>TIME 3 / s</th>
-        <th>AVERAGE TIME / s</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="5">1.0</td>
-    </tr>
-    <tr>
-        <td colspan="5">1.2</td>
-    </tr>
-    <tr>
-        <td colspan="5">1.4</td>
-    </tr>
-    <tr>
-        <td colspan="5">1.6</td>
-    </tr>
-    <tr>
-        <td colspan="5">1.8</td>
-    </tr>
-  </tbody>
-</table>
-
-*A results table should include spaces for all the measurements taken and space to perform any necessary calculations, such as averages*
-
-### Analysis of results
-
-* The average speed of the falling object can be calculated using the equation:
-
-$$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
-
-* Where:
-
-    - Average speed is measured in metres per second (m/s)
-
-    - Distance moved is measured in metres (m)
-
-    - Time taken is measured in seconds (s)
-
-* Therefore, calculate the average speed at each distance by dividing the distance by the average time taken
-
-### Evaluating the experiment
-
-#### Systematic errors
-
-* Make sure the measurements on the tape measure or metre rule are taken at eye level to avoid **parallax error**
-
-* The average human reaction time is 0.25 s, which is equivalent to half a second per when starting and stopping the timer
-
-    - This is likely to be significant when small intervals of time are measured
-
-    - To reduce this systematic error, larger distances could be used resulting in larger time intervals
-
-    - Using a **ball bearing** and an **electronic data logger**, like a trap door, is a good way to remove the error due to human **reaction time** for this experiment
-
-* Consider using an electronic sensor, such as light gates, to obtain highly accurate measurements of time
-
-* The timer on a light gate starts and stops automatically as it passes the sensors positioned at the start and stop points
-
-
-#### Random errors
-
-* Ensure the experiment is done in a space with no draft or breeze, as this could affect the motion of the falling object
-
-#### Safety considerations
-
-* Place a mat or a soft material below any falling object to cushion its fall
-
-
-## Motion graphs
-
-### Distance-time graphs
+## Distance-time graphs
 
 * A distance-time graph shows how the **distance** of an object moving in a straight line (from a starting position) varies over time:
 
@@ -543,7 +24,7 @@ $$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
 
 *This graph shows a moving object moving further away from its origin*
 
-#### Constant speed on a distance-time graph
+### Constant speed on a distance-time graph
 
 * Distance-time graphs also show the following information:
 
@@ -588,7 +69,7 @@ $$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
 
     Plotting graphs is an important skill in physics and usually comes up in at least one exam paper. If you are not confident in plotting graphs, you should definitely practice before your exam!
 
-#### Changing speed on a distance-time graph
+### Changing speed on a distance-time graph
 
 * Objects might be moving at a **changing speed**
 
@@ -604,7 +85,7 @@ $$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
 
 *Changing speeds are represented by changing slopes. The red line represents an object slowing down and the green line represents an object speeding up.*
 
-#### Calculating speed from a distance-time graph
+### Calculating speed from a distance-time graph
 
 * The **speed** of a moving object can be calculated from the **gradient** of the line on a **distance-time** graph:
 
@@ -909,7 +390,7 @@ $$ \text{speed} = \text{gradient} = \frac{\Delta y}{\Delta x} $$
 
     Remember to check the **units** of variables measured on each axis. These may not always be in standard units - in our example, the unit of distance was **km** and the unit of time was **minutes**. Double-check which units to use in your answer.
 
-### Velocity-Time Graphs
+## Velocity-Time Graphs
 
 * A velocity time graph, or velocity-time graph, shows how the **velocity** of a moving object varies with **time**
 
@@ -943,7 +424,7 @@ $$ \text{speed} = \text{gradient} = \frac{\Delta y}{\Delta x} $$
 
 *Increasing and decreasing velocity represented on a velocity-time graph*
 
-#### Acceleration on a velocity-time graph
+### Acceleration on a velocity-time graph
 
 * Velocity-time graphs also show the following information:
 
@@ -976,7 +457,7 @@ $$ \text{speed} = \text{gradient} = \frac{\Delta y}{\Delta x} $$
 
 - The object is moving with a **constant velocity**
 
-#### Constant acceleration and constant velocity on a velocity-time graph
+### Constant acceleration and constant velocity on a velocity-time graph
 
 <table>
   <thead>
@@ -1003,7 +484,7 @@ $$ \text{speed} = \text{gradient} = \frac{\Delta y}{\Delta x} $$
 
 *Flat horizontal lines on a velocity-time graph show periods of constant velocity, and sloping straight line show periods of acceleration*
 
-#### How to find acceleration on a velocity-time graph
+### How to find acceleration on a velocity-time graph
 
 * The **acceleration** of an object can be calculated from the **gradient** of a velocity-time graph
 
@@ -1212,7 +693,7 @@ $$ \text{acceleration} = \text{gradient} = \frac{\Delta y}{\Delta x} $$
 
     Remember to actually draw the lines directly on the graph itself, particularly when the question asks you to **use the graph** to calculate the acceleration.
 
-#### How to find the distance travelled on a velocity-time graph
+### How to find the distance travelled on a velocity-time graph
 
 * The area under a **velocity-time graph** represents the **displacement** (or **distance travelled**) by an object
 
@@ -1392,91 +873,5 @@ Three enclosed areas (two triangles and one rectangle) under this velocity-time 
     For example, the distance travelled between 70 s and 90 s is the sum of Area 3 + Area 4
 
 
-
-
-## Equations of motion
-
-* Uniform acceleration is **constant** acceleration
-
-* The following equation applies to objects moving with **uniform acceleration**:
-
-(final speed)<sup>2</sup> = (initial speed)<sup>2</sup> + (2 × acceleration × distance moved)
-
-$$ v^2 = u^2 + 2as $$
-
-* Where:
-
-    - s = distance moved in metres (m)
-
-    - u = initial speed in metres per second (m/s)
-
-    - v = final speed in metres per second (m/s)
-
-    - a = acceleration in metres per second squared (m/s<sup>2</sup>)
-
-* This equation is used to calculate quantities such as **initial or final speed, uniform acceleration,** or **distance moved** in cases where the **time taken** is **not known**
-
-!!! tips "Examiner Tips and Tricks"
-
-    This is an example of an equation that cannot be rearranged with a formula triangle. It is really important that you learn to rearrange equations without the help of a triangle for your exam.
-
-    To rearrange any equation, follow these simple rules:
-
-    * What ever you do to the equation, you must do to **both sides**
-
-    * To undo an operation, perform the **opposite operation**
-
-        - To undo a subtraction, you must add (and vice versa)
-
-        - To undo a multiplication, you must divide (and vice versa)
-
-        - To undo a square, you must square root (and vice versa)
-
-    Always show your working out, there is usually a mark awarded for rearranging an equation in an exam question.
-
-!!! Example "Worked Example"
-
-    A car accelerates steadily from rest at a rate of 2.5 m/s<sup>2</sup> up to a speed of 16 m/s.
-
-    Calculate how far the car moves during this period of acceleration.
-
-    ??? note "Answer:"
-
-        **Step 1: List the known quantities**
-
-        * Initial speed, $u = 0\text{ m/s}$
-
-            - Because the car starts **from rest**
-
-        * Final speed, $v = 16\text{ m/s}$
-
-        * Acceleration, $a = 2.5\text{ m/s}$
-
-
-        **Step 2: Identify and write down the equation to use**
-
-        * The question says that the car '**accelerates steadily**' - so the equation for **uniform acceleration** can be used:
-
-        $$v^2 = u^2 + 2as$$
-
-        **Step 3: Rearrange the equation to work out the distance moved**
-
-        * Subtract $u^2$ from each side
-
-        $$v^2 - u^2 = 2as$$
-
-        * Divide both sides by $2a$
-
-        $$s = \frac{v^2 - u^2}{2a}$$
-
-        **Step 4: Substitute known quantities into the equation and simplify where possible**
-
-        $$s = \frac{16^2 - 0^2}{2 \times 2.5}$$
-
-        $$s = \frac{256}{5}$$
-
-        $$s = 51\text{ m}$$
-
-!!! tip "Examiner Tips and Tricks"
-
-    Writing out your **list of known quantities** and labelling the quantity you need to calculate is really good exam technique. It helps you determine the correct equation to use, and sometimes examiners award credit for showing this working.
+## acceleration-time graph
+TODO

@@ -359,6 +359,67 @@ $$V = I \times R$$
 
     In exam questions, the resistance of the wires, batteries, ammeters and voltmeters are always assumed to be **zero** (in the case of voltmeters, they have extremely high resistances so that current does not flow through them, and this has a negligible effect on the overall resistance of the circuit)
 
+### Summary
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Symbol</th>
+        <th>Definition (words)</th>
+        <th>Definition (equation)</th>
+        <th>Unit</th>
+        <th>Unit symbol</th>
+    </tr>
+    <tr>
+        <td>Charge</td>
+        <td>Q</td>
+        <td></td>
+        <td></td>
+        <td>Coulomb</td>
+        <td>C</td>
+    </tr>
+        <tr>
+        <td>Current</td>
+        <td>I</td>
+        <td>rate of flow of charge</td>
+        <td>$I=Q/t$</td>
+        <td>Amp</td>
+        <td>A</td>
+    </tr>
+    <tr>
+        <td>Energy</td>
+        <td>E or W</td>
+        <td></td>
+        <td></td>
+        <td>Joule</td>
+        <td>J</td>
+    </tr>
+    <tr>
+        <td>Power</td>
+        <td>P</td>
+        <td>rate of energy transfer</td>
+        <td>$P=W/t$</td>
+        <td>Watt</td>
+        <td>W</td>
+    </tr>
+    <tr>
+        <td>Voltage</td>
+        <td>V</td>
+        <td>Energy transferred per unit charge</td>
+        <td>V=E/Q</td>
+        <td>Volt</td>
+        <td>V</td>
+    </tr>
+    <tr>
+        <td>Resistance</td>
+        <td>R</td>
+        <td></td>
+        <td>R=V/I</td>
+        <td>Ohm</td>
+        <td>$\Omega$</td>
+    </tr>
+</table>
+
 ## Circuit laws
 
 * There are two ways of joining electrical components:
