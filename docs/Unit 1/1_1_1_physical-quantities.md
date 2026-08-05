@@ -2,19 +2,20 @@
 
 ## Scalars and vectors
 
-* All quantities can be one of two types:
+All quantities can be one of two types: **scalar** or **vector**
 
+!!! info "Definition: Scalars and vectors"
     - a **scalar** is a quantity that has **magnitude** but not direction (for instance: time, mass, energy, temprature ...)
 
     - a **vector** is a quantity that has both **magnitude** and **direction** (for instance: a force)
 
-* Vector quantities can be represented by arrows
+Vector quantities can be represented by arrows :
 
-    * The **length** of the arrow represents the **magnitude**
+- The **length** of the arrow represents the **magnitude**
 
-    * The **direction** of the arrow indicates the **direction**
+- The **direction** of the arrow indicates the **direction**
 
-* The table below lists some common examples of scalar and vector quantities (Corresponding vectors and their scalar counterparts are aligned in the table where applicable)
+The table below lists some common examples of scalar and vector quantities (Corresponding vectors and their scalar counterparts are aligned in the table where applicable)
 
 <table>
   <thead>

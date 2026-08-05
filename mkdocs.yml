@@ -25,12 +25,15 @@ nav:
   - "Unit 2":
     - 2 - Electricity:
       - "Unit 2/index.md"
-      - 2.1 - Static Electricity : "Unit 2/2_1_static-electricity.md"
+      - 2.1 - Static Electricity :
+        - 2.1.1 - Explaining electrostatic phenomena : "Unit 2/2_1_1_explaining-electrostatic-phenomena.md"
+        - 2.1.2 - Investigating electrostatic phenomena : "Unit 2/2_1_2_investigating-electrostatic-phenomena.md"
+        - 2.1.3 - Uses and dangers of static electricity : "Unit 2/2_1_3_uses-and-danger-of-static-electricity.md"
       - 2.2 - Electric Circuits :
         - 2.2.1 - Electrical quantities : "Unit 2/2_2_1_electrical-quantities.md"
         - 2.2.2 - Circuit laws : "Unit 2/2_2_2_circuit-laws.md"
-        - 2.2.3 - Electrical Components : "Unit 2/electrical-components.md"
-        - 2.2.4 - Analysing simple circuits : "Unit 2/analysing-simple-circuits.md"
+        - 2.2.3 - Electrical Components : "Unit 2/2_2_3_electrical-components.md"
+        - 2.2.4 - Analysing simple circuits : "Unit 2/2_2_4_analysing-simple-circuits.md"
       - 2.3 - Mains Electricity : "Unit 2/2_3_mains-electricity.md"
   - "Unit 3":
     - 3 - Waves:
