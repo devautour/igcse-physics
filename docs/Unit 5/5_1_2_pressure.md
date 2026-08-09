@@ -1,19 +1,33 @@
 # Pressure
 
 ## Definition
-* Pressure is defined as **the force per unit area**
 
-* Pressure, force and area are related by the equation: $P = \frac{F}{A}$
+!!! abstract "Definition: Pressure"
+    * Pressure is defined as **the force per unit area**
 
-* Where:
+    * Pressure, force and area are related by the equation: $P = \frac{F}{A}$
 
-    * $P$ = pressure, measured in pascals (Pa)
+    * Where:
 
-    * $F$ = force, measured in newtons (N)
+        * $P$ = pressure, measured in pascals (Pa)
 
-    * $A$ = **cross-sectional area**, measured in metres squared (m<sup>2</sup>)
+        * $F$ = force, measured in newtons (N)
 
-* The cross-sectional area is the area that the force is applied at right angles to
+        * $A$ = area, measured in metres squared (m<sup>2</sup>)
+
+    ??? note "Pressure, force, area formula triangle"
+
+        ```mermaid
+        graph TD
+            A[FORCE (F)] --- B[PRESSURE (P)]
+            A --- C[AREA (A)]
+            B --- C
+        ```
+
+        *A formula triangle can help rearrange the pressure equation*
+
+        * For more information on how to use a formula triangle refer to the revision note on [speed](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/1-forces-and-motion/1-1-movement-and-position/1-1-2-speed/)
+
 
 * This equation for pressure tells us that
 
@@ -21,19 +35,6 @@
 
     * if it is spread over a **small** area it will result in a **large** pressure
 
-!!! note "Pressure, force, area formula triangle"
-
-    ```mermaid
-    graph TD
-        A[FORCE (F)] --- B[PRESSURE (P)]
-        A --- C[AREA (A)]
-        B --- C
-    ```
-
-
-    *A formula triangle can help rearrange the pressure equation*
-
-    * For more information on how to use a formula triangle refer to the revision note on [speed](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/1-forces-and-motion/1-1-movement-and-position/1-1-2-speed/)
 
 !!! Example "Worked Example"
     The diagram below shows the parts of the lifting machine used to move the platform up and down.
@@ -137,8 +138,6 @@
 ![Diagram showing a square object submerged in a fluid with red arrows representing pressure acting from all directions and black arrows labeled FORCE acting at right angles to the surfaces.](../assets/images/page_319_image_1_v2.jpg)
 
 *The pressure of a fluid on an object creates a force normal (at right angles) to the surface*
-
-### Calculating pressure in a liquid
 
 * The pressure acting on an object in a fluid changes with **depth**
 

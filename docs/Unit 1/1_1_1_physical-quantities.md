@@ -2,7 +2,7 @@
 
 ## Scalars and vectors
 
-All quantities can be one of two types: **scalar** or **vector**
+There are two types of quantities in physics: **scalars** and **vectors**
 
 !!! info "Definition: Scalars and vectors"
     - a **scalar** is a quantity that has **magnitude** but not direction (for instance: time, mass, energy, temprature ...)

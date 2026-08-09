@@ -42,20 +42,14 @@
 
 ## A few remarks
 
-!!! Alert "TODO"
-    * research the density of a few materials
-    * link to the Eureka story
-    * applications in igcse syllabus : floating, and convection currents
+[TODO]
+* research the density of a few materials
+* link to the Eureka story
+* applications in igcse syllabus : floating, and convection currents (with links)
 
-* Objects made from **low density** materials typically have a **low mass**
+* In common language, people often confuse mass with density. It is common to hear for instance than lead is heavier than gold, but this omits the implicit assumption that we should be comparing equal volumes of each material. 
 
-* Similarly sized objects made from **high density** materials have a **high mass**
-
-    - For example, a bag full of feathers is far lighter compared to the same bag full of metal
-
-    - Or another example, a balloon is less dense than a small bar of lead despite occupying a larger volume
-
-* Gases, for example, are less generally dense than solids because the particles in a gas are more spread out (same mass, over a larger volume)
+* Technically, the density of a material also depends on its state: gases are generally less dense than solids because the particles in a gas are more spread out (same mass, over a larger volume).
 
 ![Diagram comparing particle arrangement in a gas (less dense) and a solid/liquid (more dense)](../assets/images/page_304_image_1_v2.jpg)
 
