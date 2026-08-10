@@ -7,10 +7,21 @@ Material. This project is one of several that will eventually converge:
 a revision platform (separate project) and an exam question database
 (separate project) are meant to align with this project's course structure.
 
-**The course "backbone"/"blueprint"** (structure + spec-point coverage per
-section + a taxonomy of learning objects) has **not been defined yet** as of
+**The course "backbone"/"blueprint"** has **not been defined yet** as of
 2026-08-10. `docs/` structure and `mkdocs.yml` nav are the current working
-draft.
+draft, organizational only — the section numbering (`2_2_3_...`) is **not**
+meant as an implicit reference to specification points.
+
+The intended granularity for spec-point/tag data is **sub-page content
+blocks**, not whole pages or sections — e.g. tagging a specific Definition
+or worked example, not the page it lives on. The planned approach is to
+introduce structured callouts for content types (Definitions, Classical
+explanations, "Classical practicals" extending the spec's core-practical
+notion, etc.) as a first step, with the full taxonomy expected to be
+discovered/refined iteratively rather than fixed up front. `drafts/` is
+where this is being experimented with (see its entry below). The user plans
+to brainstorm this design in a future session once there are concrete
+examples to work from — don't try to design the taxonomy preemptively.
 
 ## Environment
 
@@ -65,7 +76,8 @@ a harmless `cygpath` usage error + "No such file or directory" on every
 - `backup/` — gitignored manual backups of earlier drafts, incl.
   `sme-igcse-physics.md` (606KB), an old monolithic notes file that predates
   the current per-unit split in `docs/`. Historical reference only.
-- `drafts/` — in-progress content not yet merged into `docs/`.
+- `drafts/` — experiments with formats/structure for the future blueprint
+  (e.g. `Unit-5.md`), not just generic in-progress content.
 - `scratch/` — one-off Python scripts (currently: manual pptx-XML parsers
   via `zipfile`/`xml.etree`, used to extract the learning log into
   `reference/`).
