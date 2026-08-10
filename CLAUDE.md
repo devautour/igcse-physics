@@ -95,5 +95,6 @@ as a homepage — unconfirmed).
 - VS Code Python extension is configured to default to conda for env/package
   management (`.vscode/settings.json`).
 - CI (`.github/workflows/ci.yml`) deploys to GitHub Pages on push to `main`,
-  using a fresh pip install of the mkdocs trio (unpinned) — not the conda
-  env above. Keep versions roughly in sync if either changes.
+  using a fresh pip install of the mkdocs trio — not the conda env above,
+  but pinned to the same versions (`mkdocs==1.6.1`, `mkdocs-material==9.7.7`,
+  `pymdown-extensions==11.0.1`). Bump both places together when upgrading.
