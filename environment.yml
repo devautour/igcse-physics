@@ -1,0 +1,11 @@
+name: igcse-physics
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - mkdocs==1.6.1
+      - mkdocs-material==9.7.7
+      - pymdown-extensions==11.0.1
+      - ipykernel==7.3.0
