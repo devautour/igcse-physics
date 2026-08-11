@@ -1,0 +1,34 @@
+:root {
+  --unit-1-color: hsl(15, 65%, 42%);
+  --unit-2-color: hsl(48, 70%, 40%);
+  --unit-3-color: hsl(90, 45%, 38%);
+  --unit-4-color: hsl(140, 55%, 36%);
+  --unit-5-color: hsl(175, 55%, 33%);
+  --unit-6-color: hsl(205, 60%, 42%);
+  --unit-7-color: hsl(245, 45%, 50%);
+  --unit-8-color: hsl(275, 45%, 45%);
+}
+
+.md-typeset .grid.cards > ul > li:has(.unit-1) { border-color: var(--unit-1-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-1) .twemoji { color: var(--unit-1-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-2) { border-color: var(--unit-2-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-2) .twemoji { color: var(--unit-2-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-3) { border-color: var(--unit-3-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-3) .twemoji { color: var(--unit-3-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-4) { border-color: var(--unit-4-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-4) .twemoji { color: var(--unit-4-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-5) { border-color: var(--unit-5-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-5) .twemoji { color: var(--unit-5-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-6) { border-color: var(--unit-6-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-6) .twemoji { color: var(--unit-6-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-7) { border-color: var(--unit-7-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-7) .twemoji { color: var(--unit-7-color); }
+
+.md-typeset .grid.cards > ul > li:has(.unit-8) { border-color: var(--unit-8-color); }
+.md-typeset .grid.cards > ul > li:has(.unit-8) .twemoji { color: var(--unit-8-color); }

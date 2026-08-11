@@ -78,27 +78,27 @@
 
     Calculate the density, in kg/m<sup>3</sup>, of the material from which the paving slab is made.
 
-    **Answer:**
+    ??? success "Answer:"
 
-    **Step 1: List the known quantities**
+        **Step 1: List the known quantities**
 
-    * Mass of slab, $m = 73\text{ kg}$
+        * Mass of slab, $m = 73\text{ kg}$
 
-    * Volume of slab, $V = 0.04\text{ m} \times 0.5\text{ m} \times 0.85\text{ m} = 0.017\text{ m}^3$
+        * Volume of slab, $V = 0.04\text{ m} \times 0.5\text{ m} \times 0.85\text{ m} = 0.017\text{ m}^3$
 
-    **Step 2: Write out the equation for density**
+        **Step 2: Write out the equation for density**
 
-    $$\rho = \frac{m}{V}$$
+        $$\rho = \frac{m}{V}$$
 
-    **Step 3: Substitute in values**
+        **Step 3: Substitute in values**
 
-    $$\rho = \frac{73}{0.017}$$
+        $$\rho = \frac{73}{0.017}$$
 
-    $$\rho = 4294\text{ kg/m}^3$$
+        $$\rho = 4294\text{ kg/m}^3$$
 
-    Step 4: Round the answer to two significant figures
+        Step 4: Round the answer to two significant figures
 
-    $$\rho = 4300\text{ kg/m}^3$$
+        $$\rho = 4300\text{ kg/m}^3$$
 
 !!! tip "Examiner Tips and Tricks"
 

@@ -284,44 +284,44 @@ Orbital radius and orbital speed of a planet moving around a Sun
 
     ??? note "Answer :"
 
-    **Step 1: List the known quantities**
+        **Step 1: List the known quantities**
 
-    * Radius of the Earth = 6400 km
+        * Radius of the Earth = 6400 km
 
-    * Height of the HST above the Earth's surface = 560 km
+        * Height of the HST above the Earth's surface = 560 km
 
-    * Time period, $T$ = 96 minutes
+        * Time period, $T$ = 96 minutes
 
-    **Step 2: Write the relevant equation**
+        **Step 2: Write the relevant equation**
 
-    $$v = \frac{2\pi r}{T}$$
+        $$v = \frac{2\pi r}{T}$$
 
-    **Step 3: Calculate the orbital radius, $r$**
+        **Step 3: Calculate the orbital radius, $r$**
 
-    * The orbital radius is the distance from the **centre** of the Earth to the telescope
-    $r$ = radius of the Earth + height of the HST above the Earth's surface
+        * The orbital radius is the distance from the **centre** of the Earth to the telescope
+        $r$ = radius of the Earth + height of the HST above the Earth's surface
 
-    $$r = 6400 + 560 = 6960 \text{ km}$$
+        $$r = 6400 + 560 = 6960 \text{ km}$$
 
-    **Step 4: Convert any units**
+        **Step 4: Convert any units**
 
-    * The time period needs to be in seconds
+        * The time period needs to be in seconds
 
-    $$1 \text{ minute} = 60 \text{ seconds}$$
+        $$1 \text{ minute} = 60 \text{ seconds}$$
 
-    $$T = 96 \text{ minutes} = 60 \times 96 = 5760 \text{ s}$$
+        $$T = 96 \text{ minutes} = 60 \times 96 = 5760 \text{ s}$$
 
-    * The radius needs to be in metres
+        * The radius needs to be in metres
 
-    $$1 \text{ km} = 1000 \text{ m}$$
+        $$1 \text{ km} = 1000 \text{ m}$$
 
-    $$r = 6960 \text{ km} = 6\,960\,000 \text{ m}$$
+        $$r = 6960 \text{ km} = 6\,960\,000 \text{ m}$$
 
-    **Step 5: Substitute values into the orbital speed equation**
+        **Step 5: Substitute values into the orbital speed equation**
 
-    $$v = \frac{2\pi \times (6\,960\,000)}{5760}$$
+        $$v = \frac{2\pi \times (6\,960\,000)}{5760}$$
 
-    $$v = 7592.18 = 7590 \text{ m/s}$$
+        $$v = 7592.18 = 7590 \text{ m/s}$$
 
 !!! tip "Examiner Tips and Tricks"
 
