@@ -21,11 +21,9 @@
         </tr>
     </table>
 
-    * **Unit:** if mass ($m$) is in kg and volume ($V$) is in m<sup>3</sup>, then density ($\rho$) is in kg/m<sup>3</sup>
+    **Unit:** if mass ($m$) is in kg and volume ($V$) is in m<sup>3</sup>, then density ($\rho$) is in kg/m<sup>3</sup>. kg/m<sup>3</sup> is *not* the only valid unit for density, though: for instance, if mass is given in g and the volume in cm<sup>3</sup>, then giving density in g/cm<sup>3</sup> is perfectly acceptable. Just make sure you are consistent in the units you are using and convert when the units do not match.
 
-    kg/m<sup>3</sup> is *not* the only valid unit for density. For instance, if mass is given in g and the volume in cm<sup>3</sup>, then giving density in g/cm<sup>3</sup> is perfectly acceptable. Just make sure you are consistent in the units you are using and convert when the units do not match.
-
-    * Density is a **scalar** quantity
+    Density is also a **scalar** quantity.
 
     ??? note "Formula triangle for density, mass and volume"
 
@@ -33,7 +31,7 @@
 
         *To use a formula triangle, simply cover up the quantity you wish calculate and the structure of the equation is revealed*
 
-        * For more information on how to use a formula triangle, refer to the revision note on [Speed](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/1-forces-and-motion/1-1-movement-and-position/1-1-2-speed/)
+        For more information on how to use a formula triangle, refer to the revision note on [Speed](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/1-forces-and-motion/1-1-movement-and-position/1-1-2-speed/).
 
 
 !!! warning "Warning:"
@@ -42,29 +40,45 @@
 
 ## A few remarks
 
-[TODO]
-* research the density of a few materials
-* link to the Eureka story
-* applications in igcse syllabus : floating, and convection currents (with links)
+In common language, people often confuse mass with density. It is common to hear for instance that lead is heavier than gold, but this omits the implicit assumption that we should be comparing equal volumes of each material.
 
-* In common language, people often confuse mass with density. It is common to hear for instance than lead is heavier than gold, but this omits the implicit assumption that we should be comparing equal volumes of each material. 
-
-* Technically, the density of a material also depends on its state: gases are generally less dense than solids because the particles in a gas are more spread out (same mass, over a larger volume).
+Technically, the density of a material also depends on its state: gases are generally less dense than solids because the particles in a gas are more spread out (same mass, over a larger volume).
 
 ![Diagram comparing particle arrangement in a gas (less dense) and a solid/liquid (more dense)](../assets/images/page_304_image_1_v2.jpg)
 
 ***A gas is less dense than the same substance in liquid or solid form***
 
-* The units of density depend on what units are used for mass and volume:
+The units of density depend on what units are used for mass and volume: if the mass is measured in g and volume in cm<sup>3</sup>, then the density will be in g/cm<sup>3</sup>; if the mass is measured in kg and volume in m<sup>3</sup>, then the density will be in kg/m<sup>3</sup>.
 
-    - If the mass is measured in g and volume in cm<sup>3</sup>, then the density will be in g/cm<sup>3</sup>
+### Typical densities
 
-    - If the mass is measured in kg and volume in m<sup>3</sup>, then the density will be in kg/m<sup>3</sup>
+Density varies enormously between materials, which is why it is such a useful way of identifying a substance. A few reference values, in kg/m<sup>3</sup>:
+
+| Material | Density / kg/m³ |
+| --- | --- |
+| Air (at sea level) | 1.2 |
+| Ice | 920 |
+| Water | 1000 |
+| Aluminium | 2700 |
+| Iron | 7900 |
+| Copper | 8960 |
+| Lead | 11 340 |
+| Gold | 19 300 |
+
+Note how water sits between ice and most metals: this is why ice floats on water, but a lead or gold object sinks in it.
+
+### The Eureka story
+
+The displacement method used in the Core practical below (measuring the volume of an irregular solid by the water it displaces) is traditionally credited to the Ancient Greek mathematician Archimedes. According to legend, he was asked to determine whether a crown made for the king was pure gold or had been adulterated with a cheaper, less dense metal, without damaging the crown. Stepping into a bath and noticing the water level rise as his body displaced it, he realised that the volume of an irregularly shaped object could be found from the volume of water it displaces — reportedly running through the streets shouting "Eureka!" ("I have found it!"). This is why the container used in the irregular-solid method below is called a *eureka can*.
+
+### Applications in the IGCSE syllabus
+
+Density reappears later in the course in two main contexts. **Floating and sinking**: an object floats in a fluid if its average density is less than the density of the fluid, and sinks if it is greater — this hasn't been written up yet as a dedicated set of notes. **Convection currents**: when part of a fluid is heated, it expands and becomes less dense than the surrounding fluid, so it rises while cooler, denser fluid sinks to take its place. This density difference is the driving mechanism behind convection, covered in the [Convection section](../Unit 4/4_3_heat-transfers.md#convection) of the Unit 4 notes on heat transfers.
 
 ## Calculating the volume of simple shapes
-* The volume of an object may not always be given directly but if the shape is simple enough, it can be calculated with the appropriate formula :
+The volume of an object may not always be given directly, but if the shape is simple enough, it can be calculated with the appropriate formula:
 
-!!! note "Common formulae required to calculate the volumes of objects to then obtain their density"
+!!! note "Required formulae: volumes of simple shapes"
 
     ![Diagram of a sphere with radius r and volume formula SPHERE: 4/3 πr³](../assets/images/page_305_image_3_v2.jpg)
 
@@ -72,7 +86,7 @@
 
     ![Diagram of a cylinder with radius r, length l, and volume formula CYLINDER: πr² x l](../assets/images/page_305_image_4_v2.jpg)
 
-!!! Example "Worked Example"
+!!! Example "Worked Example (calculation)"
 
     A paving slab has a mass of 73 kg and dimensions 0.04 m x 0.5 m x 0.85 m.
 
@@ -256,8 +270,8 @@ However, determining the mass or the volume may depend on the type of object we'
         <tr>
             <th>VOLUME / m³</th>
             <th colspan="3">H × W × L</th>
-            <th colspan="3">$$\frac{4}{3} \times \pi \times R^3$$</th>
-            <th colspan="3">$$\pi \times R^2 \times L$$</th>
+            <th colspan="3"> $\frac{4}{3} \times \pi \times R^3$ </th>
+            <th colspan="3"> $\pi \times R^2 \times L$ </th>
         </tr>
     </tbody>
     </table>
@@ -401,67 +415,48 @@ However, determining the mass or the volume may depend on the type of object we'
 
 ### Analysis of results
 === "Regular solid"
-    * Calculate the volume of the object depending on whether it is a cube, sphere, cylinder (or other regular shape)
-
-    * Then use the formula for d[ensity](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/5-solids-liquids-and-gases/5-1-density-and-pressure/5-1-1-density/) to calculate the density of each object
-
-        * The formulae for volume and density are explained in the revision note Density
+    Calculate the volume of the object depending on whether it is a cube, sphere, cylinder (or other regular shape), then use the formula for density to calculate the density of each object. The formulae for volume and density are given above.
 
 === "Irregular solid"
-    * The volume of the water displaced is equal to the volume of the object
-
-    * Once the mass and volume of the shape are known, the density can be calculated using:
+    The volume of the water displaced is equal to the volume of the object. Once the mass and volume of the shape are known, the density can be calculated using $\rho = \frac{m}{V}$.
 
 === "liquid"
-    * Find the mass of the liquid by subtracting the final reading from the original reading
+    Find the mass of the liquid by subtracting the final reading from the original reading:
 
     **Mass of liquid = Mass of cylinder with water – mass of cylinder**
 
-    * Once the mass and volume of the liquid are known, the density can be calculated using the equation for calculating density
-
-        - This is explained in the revision note Density
+    Once the mass and volume of the liquid are known, the density can be calculated using $\rho = \frac{m}{V}$, as above.
 
 ### Evaluating the experiments
 
 #### Systematic errors
 === "Regular solid"
-    * Ensure the digital balance is set to zero before taking measurements of mass
-
-        - This includes when measuring the density of the liquid – remove the measuring cylinder and zero the balance before adding the liquid
+    To avoid a **zero error**, ensure the digital balance is set to zero before taking measurements of mass. 
 
 === "Irregular solid"
+    Ensure the digital balance is set to zero before taking measurements of mass, **and** measure the mass before submerging the irregular solid in water (it may absorb some water in the process which would alter its mass)
 
 === "liquid"
+    A common source of systematic error is to forget to cancel the mass of the recipient (a **zero error** of sorts): either set the digital balance to zero after placing the empty container on the pan and before pouring the liquid, or measure the mass of the empty recipient first and remove it for the masses measured.
+
 
 #### Random errors
 === "Regular solid"
+    A main cause of error in this experiment is in the measurements of length. Ensure to take repeat readings and calculate an average to keep this error to a minimum
 
 === "Irregular solid"
+    Place the irregular object in the displacement can carefully, as dropping it from a height might cause water to splash, which will lead to an incorrect volume reading
 
 === "liquid"
 
-* A main cause of error in this experiment is in the measurements of length
-
-    - Ensure to take repeat readings and calculate an average to keep this error to a minimum
-
-* Place the irregular object in the displacement can carefully, as dropping it from a height might cause water to splash, which will lead to an incorrect volume reading
-
 #### Safety considerations
 === "Regular solid"
-    * There is a lot of glassware in this experiment, ensure this is handled carefully
 
-    * Water should not be poured into the measuring cylinder when it is on the electric balance
-
-        - This could lead to an electric shock
-
-    * Make sure to stand up during the whole experiment, to react quickly to any spills
 
 === "Irregular solid"
     * There is a lot of glassware in this experiment, ensure this is handled carefully
 
-    * Water should not be poured into the measuring cylinder when it is on the electric balance
-
-        - This could lead to an electric shock
+    * Water should not be poured into the measuring cylinder when it is on the electric balance. This could lead to an electric shock
 
     * Make sure to stand up during the whole experiment, to react quickly to any spills
 
