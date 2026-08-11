@@ -18,8 +18,9 @@ or worked example, not the page it lives on. The planned approach is to
 introduce structured callouts for content types (Definitions, Classical
 explanations, "Classical practicals" extending the spec's core-practical
 notion, etc.) as a first step, with the full taxonomy expected to be
-discovered/refined iteratively rather than fixed up front. `drafts/` is
-where this is being experimented with (see its entry below). The user plans
+discovered/refined iteratively rather than fixed up front. `blueprint
+drafts/` is where this is being experimented with (see its entry below). The
+user plans
 to brainstorm this design in a future session once there are concrete
 examples to work from — don't try to design the taxonomy preemptively.
 
@@ -76,8 +77,9 @@ a harmless `cygpath` usage error + "No such file or directory" on every
 - `backup/` — gitignored manual backups of earlier drafts, incl.
   `sme-igcse-physics.md` (606KB), an old monolithic notes file that predates
   the current per-unit split in `docs/`. Historical reference only.
-- `drafts/` — experiments with formats/structure for the future blueprint
-  (e.g. `Unit-5.md`), not just generic in-progress content.
+- `blueprint drafts/` — experiments with formats/structure for the future
+  blueprint (e.g. `Unit-5.md`), not just generic in-progress content. Named
+  this way (renamed from `drafts/`) so the folder's purpose is unambiguous.
 - `scratch/` — one-off Python scripts (currently: manual pptx-XML parsers
   via `zipfile`/`xml.etree`, used to extract the learning log into
   `reference/`).
