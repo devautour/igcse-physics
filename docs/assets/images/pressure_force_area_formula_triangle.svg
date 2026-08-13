@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 360 260" width="360" height="260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pressure-triangle-title">
+    <title id="pressure-triangle-title">Formula triangle: FORCE at the top, PRESSURE and AREA at the bottom</title>
+    <polygon points="180,15 20,245 340,245" fill="none" stroke="#333333" stroke-width="2.5"/>
+    <line x1="100" y1="130" x2="260" y2="130" stroke="#333333" stroke-width="2.5"/>
+    <line x1="180" y1="130" x2="180" y2="245" stroke="#333333" stroke-width="2.5"/>
+    <text x="180" y="80" text-anchor="middle" font-size="15" font-family="sans-serif" font-weight="bold" fill="#222222">
+        <tspan x="180" dy="0">FORCE</tspan>
+        <tspan x="180" dy="18">(F)</tspan>
+    </text>
+    <text x="119" y="190" text-anchor="middle" font-size="15" font-family="sans-serif" font-weight="bold" fill="#222222">
+        <tspan x="119" dy="0">PRESSURE</tspan>
+        <tspan x="119" dy="18">(p)</tspan>
+    </text>
+    <text x="241" y="190" text-anchor="middle" font-size="15" font-family="sans-serif" font-weight="bold" fill="#222222">
+        <tspan x="241" dy="0">AREA</tspan>
+        <tspan x="241" dy="18">(A)</tspan>
+    </text>
+</svg>

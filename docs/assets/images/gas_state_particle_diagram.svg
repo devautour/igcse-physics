@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Particles in a gas, far apart and randomly arranged, filling the whole container">
+    <rect x="10" y="10" width="180" height="180" fill="none" stroke="#333333" stroke-width="3"/>
+    <g fill="#2b6cb0">
+        <circle cx="35" cy="40" r="9"/><circle cx="120" cy="28" r="9"/><circle cx="172" cy="65" r="9"/>
+        <circle cx="55" cy="105" r="9"/><circle cx="150" cy="125" r="9"/>
+        <circle cx="95" cy="165" r="9"/><circle cx="25" cy="172" r="9"/><circle cx="165" cy="175" r="9"/>
+    </g>
+    <g stroke="#2b6cb0" stroke-width="2">
+        <line x1="35" y1="40" x2="48" y2="30"/>
+        <line x1="150" y1="125" x2="140" y2="142"/>
+        <line x1="55" y1="105" x2="70" y2="98"/>
+    </g>
+</svg>

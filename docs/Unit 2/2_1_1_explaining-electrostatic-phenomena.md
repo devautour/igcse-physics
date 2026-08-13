@@ -39,7 +39,7 @@ In a neutral atom, the number of electrons is equal to the number of protons so 
 
 A very important property of Charge is that it is always conserved :
 
-!!! abstract "Principle of Conservation of Charge:"
+!!! abstract "Principle of Conservation of Charge"
     The total charge is constant. 
 
 ## The electrostatic force
@@ -201,7 +201,7 @@ In this particular case, it is the rod that **gains** electrons. Since electrons
 
 The fact that two charged objects attract or repel each other is easily explained by the electrostatic force. But it turns out that **charged objects can also attract neutral objects**. Here is why:
 
-!!! abstract "Model explanation: attraction between charged and neutral object:"
+!!! abstract "Model explanation: attraction between charged and neutral object"
     When a charged object is brought near a neutral object, it causes the charges inside the neutral object to shift:<br>
     The opposite charges move closer to the charged object and the like charges move further away.<br>
     Because they are closer, the opposite charges attract more than the like charges repel<br>
@@ -216,11 +216,11 @@ The fact that two charged objects attract or repel each other is easily explaine
 2. This force is always attractive.
 
 !!! warning "Warning:"
-    This model explanation has not been required in any past paper yet. However, it is hinted at - in less details - in a couple of mark schemes (TODO: find example), and it is definitely required to be aware of the fact that charged objects can attract neutral objects as it is one way to demonstrate that an object is charged (see [Testing whether an object is charged](2_1_2_investigating-electrostatic-phenomena.md)).
+    This model explanation has not been required in any past paper yet. However, it is hinted at - in less details - in a couple of mark schemes <!-- TODO: find and cite a specific mark scheme example -->, and it is definitely required to be aware of the fact that charged objects can attract neutral objects as it is one way to demonstrate that an object is charged (see [Testing whether an object is charged](2_1_2_investigating-electrostatic-phenomena.md)).
 
 ## Example questions
 
-!!! examples "Worked Example 1: The Plastic Slide"
+!!! example "Worked Example 1: The Plastic Slide"
     **Question:** Explain why a child's hair sticks up and separates after sliding down a plastic playground slide.
     
     ??? abstract "Answer"
@@ -229,7 +229,7 @@ The fact that two charged objects attract or repel each other is easily explaine
         3. **Repulsion:** Every individual strand of hair gains the **same sign of charge** (e.g., all negative or all positive).
         4. **Separation:** Because like charges repel, the strands of hair push away from one another, causing them to stand up and separate.
 
-!!! examples "Worked Example 2: The Van de Graaff Generator"
+!!! example "Worked Example 2: The Van de Graaff Generator"
     **Question:** A student places their hands on a running Van de Graaff generator dome. Explain what will happen to their hair.
     
     ??? abstract "Answer"
@@ -237,7 +237,7 @@ The fact that two charged objects attract or repel each other is easily explaine
         2. **Accumulation:** The electrostatic charges collect at the outer extremities, including the hair strands.
         3. **Like Charges Repel:** Since all strands collect identical, net-like charges, they experience an outward repulsive electrostatic force away from each other and the head.
 
-!!! examples "Worked Example 3: Cling Film Behaviour"
+!!! example "Worked Example 3: Cling Film Behaviour"
     **Question:** Explain why kitchen cling film sticks easily to smooth plastic or glass bowls but does not stick well to metal surfaces.
     
     ??? abstract "Answer"

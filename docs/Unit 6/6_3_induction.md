@@ -2,154 +2,57 @@
 
 ## Definition
 
-* Electromagnetic (EM) induction is used to generate electricity
+!!! abstract "Definition: Electromagnetic induction"
+    Electromagnetic (EM) induction is used to generate electricity. **A voltage is induced in a conductor or a coil when it moves through a magnetic field, or when a magnetic field changes through it** — this happens because the conductor or coil **cuts through** the magnetic field lines.
 
-* EM induction is when:
+This is often referred to as the **generator effect**, and is the opposite of the **motor effect**: in the motor effect, there is already a current in the conductor, which then experiences a force; in the generator effect, there is **no** initial current in the conductor, but one is induced (created) when it moves through a magnetic field. A potential difference is induced in the conductor whenever there is **relative movement** between the conductor and the magnetic field — this can happen either by moving the conductor through a fixed magnetic field, or by moving the magnetic field relative to a fixed conductor.
 
-> **A voltage is induced in a conductor or a coil when it moves through a magnetic field or when a magnetic field changes through it**
-
-* This is done by the conductor or coil **cutting through** the magnetic field lines of the magnetic field
-
-* This is often referred to as the **generator effect** and is the opposite to the **motor effect**
-
-    - In the **motor effect**, there is already a current in the conductor which experiences a force
-
-    - In the **generator effect**, there is **no** initial current in the conductor, but one is induced (created) when it moves through a magnetic field
-
-* This is done by the conductor or coil **cutting through** the magnetic field lines of the magnetic field
-
-* A potential difference will be induced in the conductor if there is **relative movement** between the conductor and the magnetic field
-
-* Moving the electrical conductor in a fixed magnetic field
-
-    - When a conductor (such as a wire) is moved through a magnetic field, the wire **cuts** through the fields lines
-
-    - This **induces a potential difference** in the wire
-
-**Electromagnetic induction diagram**
+When a conductor (such as a wire) is moved through a magnetic field, the wire cuts through the field lines, inducing a potential difference in it.
 
 ![Diagram showing a wire moving through a magnetic field between North and South poles, cutting magnetic field lines to induce a potential difference.](../assets/images/page_398_image_1_v2.jpg)
 
 *Moving an electrical conductor in a magnetic field to induce a potential difference*
 
-* Moving the magnetic field relative to a fixed conductor
-
-* As the magnet moved through the coil, the field lines **cut** through the turns on the coil
-
-* This **induces a potential difference** in the coil
-
-**Diagram of electromagnetic induction in a coil**
+When a magnet is moved through a coil instead, its field lines cut through the turns of the coil as it moves, again inducing a potential difference.
 
 ![Diagram showing a bar magnet with North (N) and South (S) poles being moved into a wire coil. The coil is labeled 'COIL' and has arrows indicating the direction of induced current.](../assets/images/page_399_image_1_v2.jpg)
 
 *When the magnet enters the coil, the field lines cut through the turns, inducing a potential difference*
 
-* A **sensitive voltmeter** can be used to measure the size of the induced potential difference
-
-* If the conductor is part of a **complete circuit** then a **current** is induced in the conductor
+A **sensitive voltmeter** can be used to measure the size of the induced potential difference. If the conductor is part of a **complete circuit**, a **current** is induced in it too.
 
 ## Factors affecting the induced potential difference
 
-* The **size** of the induced potential difference is determined by:
+The **size** of the induced potential difference is determined by the speed at which the wire, coil or magnet is moved, the number of turns on the coil, the size of the coil, and the strength of the magnetic field. Its **direction** is determined by the orientation of the poles of the magnet. Each of these factors is examined below.
 
-    * The **speed** at which the wire, coil or magnet is moved
+**Speed**: increasing the speed at which the wire, coil or magnet moves increases the rate at which the magnetic field lines are cut, which increases the induced potential difference.
 
-    * The **number of turns** on the coils of wire
+**Number of turns**: increasing the number of turns on the coil, for a given length of wire, increases the potential difference induced — as does reducing the length of wire while keeping the number of turns the same. This is because each turn cuts through the magnetic field lines, and the total induced potential difference is the combined result of every turn cutting the field lines.
 
-    * The **size** of the coils
+**Size of the coil**: increasing the area of the coil increases the potential difference induced, since there is then more wire to cut through the magnetic field lines.
 
-    * The **strength** of the magnetic field
+**Strength of the magnetic field**: increasing the strength of the magnetic field increases the potential difference induced.
 
-* The **direction** of the induced potential difference is determined by:
-
-    * The **orientation** of the poles of the magnet
-
-* Each of these factors is examined below
-
-1. The **speed** at which the wire, coil or magnet is moved:
-
-* Increasing the **speed** will increase the rate at which the magnetic field lines are cut
-
-* This will **increase the induced potential difference** 2. The **number** of turns on the coils in the wire:
-
-* Increasing the **number of turns on the coils** for a given length of wire will **increase the potential difference** induced
-
-* Reducing the **length** of wire but **maintaining the number of turns** will also **increase the potential difference** induced
-
-* This is because each coil will cut through the magnetic field lines and the total potential difference induced will be the result of all the coils cutting the magnetic field lines
-
-3. The **size** of the coils:
-
-* Increasing the **area** of the coils will **increase the potential difference** induced
-
-* This is because there will be more wire to cut through the magnetic field lines
-
-4. The **strength** of the magnetic field:
-
-* Increasing the **strength** of the magnetic field will **increase the potential difference induced**
-
-5. The **orientation** of the poles of the magnet:
-
-* Reversing the **direction of motion** or swapping the **magnet’s poles** reverses the **direction of the induced p.d.**, but not its magnitude
+**Orientation of the poles**: reversing the direction of motion, or swapping the magnet's poles, reverses the direction of the induced p.d., but not its magnitude.
 
 !!! tip "Examiner Tips and Tricks"
-    When discussing factors affecting the induced potential difference:
-    
-    * Make sure you state:
-
-    
-
-        * “Add more **turns** to the coil” instead of “Add more coils”
-    
-        * This is because these statements do not mean the same thing
-
-    * Likewise, when referring to the magnet, use the phrase:
-        * “**A stronger magnet** instead of “A bigger magnet”
-    
-        * This is because larger magnets are not necessarily stronger
+    When discussing factors affecting the induced potential difference, say "add more **turns** to the coil" rather than "add more coils" — these statements do not mean the same thing. Likewise, refer to "**a stronger magnet**" rather than "a bigger magnet", since larger magnets are not necessarily stronger.
 
 ## Examples of applications
 
-* When a coil of wire is **rotated** within a magnetic field, an electric **current** can be generated
-
-    - This is known as **the generator effect**
-
-    - This is how electricity is produced
-
-* The **generator effect** can be used to:
-
-    - Generate **a.c** in an **generator**
-
-    - Generate **d.c** in a **dynamo**
+When a coil of wire is **rotated** within a magnetic field, an electric **current** can be generated — this is known as **the generator effect**, and is how electricity is produced. The generator effect can be used to generate **a.c.** in a **generator**, or **d.c.** in a **dynamo**.
 
 ### Generators
 
-* A simple **alternator** is a type of generator that produces an **alternating** current (a.c.)
+A simple **alternator** is a type of generator that produces an **alternating current** (a.c.).
 
 ![Diagram of an alternator showing magnets (N and S), magnetic field lines, a coil rotating at a steady rate, slip rings, brushes in continuous contact with the commutator rings, and a meter pointer swinging from side to side indicating alternating potential difference.](../assets/images/page_401_image_1_v2.jpg)
 
 ***An alternator is a rotating coil in a magnetic field with slip rings***
 
-* A rectangular coil is forced to spin in a **uniform magnetic field**
+A rectangular coil is forced to spin in a **uniform magnetic field**. The coil is connected to a circuit containing a centre-reading meter, by **metal brushes** that press on two metal **slip rings** — the slip rings and brushes provide a **continuous connection** between the coil and the meter. As the coil turns, it **cuts through** the magnetic field lines, so an alternating **potential difference** is **induced** in the coil, producing an **alternating current**. Because of this, as the coil turns in one direction, the meter's pointer deflects first one way, then the opposite way, then back again.
 
-* The coil is connected to a circuit which contains a centre-reading meter by **metal brushes** that press on two metal **slip rings**
-
-    - The slip rings and brushes provide a **continuous connection** between the coil and the meter
-
-* When the coil turns in one direction:
-
-    - The pointer deflects first one way, then the opposite way, and then back again
-
-* This is because the coil **cuts through** the magnetic field lines and an alternating **potential difference** is **induced** in the coil
-
-* The alternating potential difference produces an **alternating current** (a.c.)
-
-
-* An alternating current may also be produced when a **magnet rotates within a stationary coil**
-
-    * Both methods operate on the principle that p.d. is induced when a coil experiences a **changing** external magnetic field
-
-* The induced potential difference and the current **alternate** because they repeatedly **change direction**
+An alternating current can also be produced when a **magnet rotates within a stationary coil** instead — both methods work on the same principle, that a p.d. is induced whenever a coil experiences a **changing** external magnetic field. The induced potential difference and current **alternate** because they repeatedly change direction.
 
 <table>
   <thead>
@@ -182,41 +85,35 @@
 
 ### Dynamos
 
-* A dynamo is a type of **generator** that produces a **direct current**
-
-* A simple dynamo is the **same** as an **alternator** except that the dynamo has a **split-ring commutator** instead of two separate slip rings
+A dynamo is a type of **generator** that produces a **direct current**. A simple dynamo is the **same** as an alternator, except that it has a **split-ring commutator** instead of two separate slip rings.
 
 ![Diagram of a dynamo showing a rotating coil between north and south magnetic poles, connected to a split ring commutator and brushes.](../assets/images/page_403_image_1_v2.jpg)
 
-
 *A dynamo is a rotating coil in a magnetic field connected to a split ring commutator*
 
-* As the coil rotates, it **cuts** through the field lines
-
-    - This **induces a potential difference** between the end of the coil
-
-* The split ring commutator changes the connections between the coil and the brushes every half turn in order to keep the current leaving the dynamo in the **same direction**
-
-    - This happens each time the coil is perpendicular to the magnetic field lines
-
-* Therefore, the induced potential difference **does not reverse** its direction as it does in the alternator
-
-* Instead, it varies from zero to a maximum value twice each cycle of rotation, and never changes polarity (positive to negative)
-
-    - This means the current is always **positive** (or always **negative**)
+As the coil rotates, it **cuts** through the field lines, inducing a potential difference between the ends of the coil. The split-ring commutator changes the connections between the coil and the brushes every half turn — each time the coil is perpendicular to the magnetic field lines — so as to keep the current leaving the dynamo in the **same direction**. This means the induced potential difference **does not reverse** direction as it does in the alternator: instead, it varies from zero to a maximum value twice each cycle of rotation, and never changes polarity, so the current is always **positive** (or always **negative**).
 
 ![Graph showing D.C output from a dynamo with current on the y-axis and time on the x-axis, and diagrams of a coil rotating in a magnetic field](../assets/images/page_404_image_1_v2.jpg)
 
 *D.C output from a dynamo - the current is only in the positive region of the graph*
 
-!+! tip "Examiner Tips and Tricks"
+!!! tip "Examiner Tips and Tricks"
 
     Motors and generators look very similar, but they do very different things. When tackling a question on either of them, make sure you are writing about the right one!
 
     You are also expected to know that alternating current can be produced when a coil rotates in a magnetic field, or when a magnet rotates within a coil. The key is **relative motion** between the coil and the magnet.
 
-### Induction Charger
+??? info "Beyond the spec: induction chargers"
+    Explain how a wireless (induction) charger transfers energy to a phone without any physical electrical contacts.
 
-### Induction heater
+    An alternating current in the charging pad's coil produces a changing magnetic field. When a phone with a matching coil is placed on the pad, this changing field passes through the phone's coil and induces an alternating potential difference in it, which is used to charge the battery. This is the same principle as a transformer, except the two coils are separated by air instead of being linked by an iron core.
 
-### Microphone
+??? info "Beyond the spec: induction heaters"
+    Explain how an induction hob heats a pan without the hob's surface itself becoming hot.
+
+    A coil beneath the hob's surface carries a rapidly alternating current, producing a rapidly changing magnetic field. When a pan made from a magnetic material is placed on top, this changing field induces circulating currents directly within the metal of the pan. The pan's own electrical resistance converts these induced currents into heat, so it is the pan itself that heats up, not the hob's surface.
+
+??? info "Beyond the spec: microphones"
+    Explain how a microphone converts sound into an electrical signal.
+
+    A microphone works on the opposite principle to a loudspeaker. Sound waves striking a diaphragm attached to a coil make it vibrate within a magnetic field. This relative motion between the coil and the field induces a changing potential difference in the coil, which forms the electrical signal representing the sound.

@@ -1,35 +1,12 @@
 # Ideal Gas Laws
 
-* Gas laws provide numerical formulae for the relationships between:
+Gas laws provide numerical formulae for the relationships between pressure and (Kelvin) temperature at constant volume, and between pressure and volume at constant temperature.
 
-    * Pressure and (kelvin) temperature at a constant volume
+## Pressure and temperature: the pressure law
 
-    * Pressure and volume at a constant temperature
+As the temperature of a gas increases, the average **speed** of its molecules also increases, so — since average kinetic energy depends on speed — the average kinetic energy of the molecules also increases, assuming the volume stays constant: the **hotter** the gas, the **higher** the average kinetic energy, and the **cooler** the gas, the **lower** the average kinetic energy. If the gas is heated, its molecules travel at a higher speed, so they collide with the container's walls more often, which increases the **pressure**. Therefore, at a constant volume, an increase in temperature increases the pressure of a gas, and vice versa.
 
-## Pressure & temperature
-
-* The motion of molecules in a gas changes according to the **temperature**
-
-* As the temperature of a gas increases, the average **speed** of the molecules also **increases**
-
-* Since the average kinetic energy depends on their speed, the kinetic energy of the molecules also increases if its volume remains constant
-
-    * The **hotter** the gas, the **higher** the average kinetic energy
-
-    * The **cooler** the gas, the **lower** the average kinetic energy
-
-* If the gas is heated up, the molecules will travel at a higher **speed**
-
-    * This means they will collide with the walls **more often**
-
-    * This creates an increase in **pressure**
-
-* Therefore, at a constant volume, an **increase** in temperature **increases** the pressure of a gas and vice versa
-
-* Diagram A shows molecules in the same volume collide with the walls of the container more with an increase in temperature
-
-
-* Diagram B shows that since the temperature is proportional to the pressure, the graph against each is a straight line
+Diagram A below shows molecules in the same volume colliding with the container's walls more often as the temperature increases; Diagram B shows that, since pressure is proportional to temperature, a graph of one against the other is a straight line.
 
 ```mermaid
 graph TD
@@ -51,152 +28,115 @@ graph TD
 
     You are required to be able to describe the links between pressure & volume and pressure & temperature **qualitatively**. This means that the correct use of terms such as 'collision', 'kinetic energy' and 'frequency', will be really important.
 
-* If the volume $V$ of an ideal gas is constant, the **pressure law** is given by:
+!!! note "Required formulae: the pressure law"
+    If the volume $V$ of a fixed mass of an ideal gas is constant, the pressure is **proportional** to the (Kelvin) temperature:
 
-$$P \propto T$$
+    $$p \propto T$$
 
-* This means the pressure is **proportional** to the temperature
+    Equivalently, comparing the gas's pressure and temperature before and after a change at constant volume:
+
+    $$\frac{p_1}{T_1} = \frac{p_2}{T_2}$$
+
+    Where $p_1$ and $p_2$ are the initial and final pressure in pascals (Pa), and $T_1$ and $T_2$ are the initial and final temperature in kelvin (K).
 
 ![Diagram showing two containers of gas with the same volume. The second container is being heated by a Bunsen burner, showing particles moving faster with longer arrows. Text in the diagram: PRESSURE LAW P ∝ T, SAME V, IF THE TEMPERATURE OF A GAS IS INCREASED, THE PARTICLES GAIN KINETIC ENERGY AND MOVE FASTER. THEREFORE THEY WILL COLLIDE MORE WITH EACH OTHER AND THE CONTAINER INCREASING ITS PRESSURE.](../assets/images/page_353_chart_1_v2.jpg)
 
 *Pressure and temperature are proportional. Doubling temperature also doubles the pressure for a gas in a fixed volume.*
 
-* The relationship between the pressure and (Kelvin) temperature for a fixed mass of gas at constant volume can also be written as:
-
-$$\frac{p_1}{T_1} = \frac{p_2}{T_2}$$
-
-* Where:
-
-    * $p_1$ = initial pressure (Pa)
-
-    * $p_2$ = final pressure (Pa)
-
-    * $T_1$ = initial temperature (K)
-
-    * $T_2$ = final temperature (K)
-
 ![Pressure law graph](../assets/images/page_354_chart_1_v2.jpg)
 
 *Pressure law graph representing temperature (in °C) directly proportional to the volume*
 
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     The pressure inside a bicycle tyre is 5.10 × 10<sup>5</sup> Pa when the temperature is 279 K. After the bicycle has been ridden, the temperature of the air in the tyre is 299 K. Calculate the new pressure in the tyre, assuming the volume is unchanged.
 
-    **Answer:**
+    ??? success "Answer:"
 
-    **Step 1: Choose the correct ideal gas law**
+        **Step 1: Choose the correct ideal gas law**
 
-    * Volume is constant, so the pressure law must be used
+        Volume is constant, so the pressure law must be used.
 
-    $$ \frac{p_1}{T_1} = \frac{p_2}{T_2} $$
+        $$ \frac{p_1}{T_1} = \frac{p_2}{T_2} $$
 
-    **Step 2: Write down the known quantities**
+        **Step 2: Write down the known quantities**
 
-    * $p_1 = 5.10 \times 10^5 \text{ Pa}$
-    * $T_1 = 279 \text{ K}$
-    * $T_2 = 299 \text{ K}$
+        * $p_1 = 5.10 \times 10^5 \text{ Pa}$
+        * $T_1 = 279 \text{ K}$
+        * $T_2 = 299 \text{ K}$
 
-    **Step 3: Rearrange for $p_2$ and substitute values into the pressure law**
+        **Step 3: Rearrange for $p_2$ and substitute values into the pressure law**
 
-    * To make $p_2$ the subject, multiply both sides by $T_2$ to cancel out the $T_2$ in the fraction under $p_2$
+        To make $p_2$ the subject, multiply both sides by $T_2$ to cancel out the $T_2$ in the fraction under $p_2$.
 
-    $$ \frac{p_1}{T_1} \times T_2 = \frac{p_2}{\cancel{T_2}} \times \cancel{T_2} $$
+        $$ \frac{p_1}{T_1} \times T_2 = \frac{p_2}{\cancel{T_2}} \times \cancel{T_2} $$
 
-    $$ \frac{p_1}{T_1} \times T_2 = p_2 $$
+        $$ \frac{p_1}{T_1} \times T_2 = p_2 $$
 
-    * Substitute the known quantities
+        Substitute in the known quantities:
 
-    $$ p_2 = \frac{5.10 \times 10^5}{279} \times 299 $$
+        $$ p_2 = \frac{5.10 \times 10^5}{279} \times 299 $$
 
-    $$ p_2 = 5.47 \times 10^5 \text{ Pa} $$
-
+        $$ p_2 = 5.47 \times 10^5 \text{ Pa} $$
 
 !!! tip "Examiner Tips and Tricks"
 
     Remember when using gas laws the temperature *T* must always be in **kelvin** (K)!
 
-## Pressure and Volume: Boyle's Law
+## Pressure and volume: Boyle's law
 
-* For a fixed mass of a gas held at a constant temperature, the Boyle's law formula is:
+For a fixed mass of gas held at a constant temperature, pressure and volume are **inversely proportional** to each other: when the volume **decreases** (compression), the pressure **increases**, and when the volume **increases** (expansion), the pressure **decreases**. This is because, when the volume decreases, the same number of particles collide with the walls of the container **more frequently**, since there is less space — the particles still collide with the same amount of force, so a greater force per unit area (pressure) results. The key assumption throughout is that the **temperature** and the **mass** (and number) of the particles remain the same.
 
-$$pV = \text{constant}$$
+!!! note "Required formulae: Boyle's law"
+    $$pV = \text{constant}$$
 
-* Where:
+    Where $p$ is the pressure in pascals (Pa) and $V$ is the volume in metres cubed (m<sup>3</sup>).
 
-    - $p$ = pressure in pascals (Pa)
+    Comparing the gas's pressure and volume before and after a change at constant temperature, this can also be written as:
 
-    - $V$ = volume in metres cubed (m$^3$)
+    $$p_1V_1 = p_2V_2$$
 
-* This means that the pressure and volume are **inversely proportional** to each other
-
-    - When the volume **decreases** (compression), the pressure **increases**
-
-    - When the volume **increases** (expansion), the pressure **decreases**
-
-* This is because when the volume decreases, the same number of particles collide with the walls of a container but **more frequently** as there is **less space**
-
-    - However, the particles still collide with the same amount of **force** meaning greater force per unit area (pressure)
-
-* The key assumption is that the **temperature** and the **mass** (and number) of the particles remains the same
+    Where $p_1$ and $V_1$ are the initial pressure and volume, and $p_2$ and $V_2$ are the final pressure and volume.
 
 ![Diagram showing two containers of gas. The left container is smaller (Boyle's Law $P \propto \frac{1}{V}$) and the right container is larger. Both are at the "SAME T". A caption below states: "IF THE VOLUME OF A GAS IS INCREASED, THE PARTICLES WILL BE FURTHER APART AND WILL COLLIDE LESS WITH EACH OTHER AND THE CONTAINER, DECREASING ITS PRESSURE"](../assets/images/page_356_chart_1_v2.jpg)
 
 ***Increasing the volume of a gas decreases its pressure***
 
-* This equation can also be rewritten for comparing the pressure and volume before and after a change in a gas:
-
-$$p_1V_1 = p_2V_2$$
-
-* Where:
-
-
-
-* $p_1$ = initial pressure in pascals (Pa)
-
-* $V_1$ = initial volume in metres cubed (m<sup>3</sup>)
-
-* $p_2$ = final pressure in pascals (Pa)
-
-* $V_2$ = final volume in metres cubed (m<sup>3</sup>)
-
-* This equation is sometimes referred to as **Boyle's Law**
-
 ![Diagram showing two gas cylinders. The left cylinder has a larger volume labeled P1, V1 with a downward arrow indicating compression. The right cylinder has a smaller volume labeled P2, V2.](../assets/images/page_357_image_1_v2.jpg)
 
 *Initial pressure and volume, $p_1$ and $V_1$, and final pressure and volume, $p_2$ and $V_2$. When volume decreases, pressure increases*
 
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     A gas occupies a volume of 0.70 m<sup>3</sup> at a pressure of 200 Pa. Calculate the pressure exerted by the gas if it is compressed to a volume of 0.15 m<sup>3</sup>. Assume that the temperature and mass of the gas stay the same.
 
-    **Answer:**
+    ??? success "Answer:"
 
-    **Step 1: List the known quantities**
+        **Step 1: List the known quantities**
 
-    * Initial volume, $V_1$ = 0.70 m<sup>3</sup>
+        * Initial volume, $V_1$ = 0.70 m<sup>3</sup>
 
-    * Initial pressure, $p_1$ = 200 Pa
+        * Initial pressure, $p_1$ = 200 Pa
 
-    * Final volume, $V_2$ = 0.15 m<sup>3</sup>
+        * Final volume, $V_2$ = 0.15 m<sup>3</sup>
 
-    **Step 2: Write the relevant equation**
+        **Step 2: Write the relevant equation**
 
-    $$ p_1 V_1 = p_2 V_2 $$
+        $$ p_1 V_1 = p_2 V_2 $$
 
-    **Step 3: Rearrange for the final pressure, $p_2$**
+        **Step 3: Rearrange for the final pressure, $p_2$**
 
-    * Divide both sides by $V_2$ to get the $p_2$ term on its own
+        Divide both sides by $V_2$ to get the $p_2$ term on its own:
 
-    $$ \frac{p_1 V_1}{V_2} = \frac{p_2 \cancel{V_2}}{\cancel{V_2}} $$
+        $$ \frac{p_1 V_1}{V_2} = \frac{p_2 \cancel{V_2}}{\cancel{V_2}} $$
 
-    $$ \frac{p_1 V_1}{V_2} = p_2 $$
+        $$ \frac{p_1 V_1}{V_2} = p_2 $$
 
-    **Step 4: Substitute in the values**
+        **Step 4: Substitute in the values**
 
-    $$ p_2 = \frac{p_1 V_1}{V_2} = \frac{200 \times 0.70}{0.15} $$
+        $$ p_2 = \frac{p_1 V_1}{V_2} = \frac{200 \times 0.70}{0.15} $$
 
-    $$ p_2 = 930 \text{ Pa} \text{ (2 s.f.)} $$
+        $$ p_2 = 930 \text{ Pa} \text{ (2 s.f.)} $$
 
 !!! tip "Examiner Tips and Tricks"
 

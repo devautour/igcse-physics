@@ -1,68 +1,20 @@
 # Describing states of matter in terms of particles
 
-* There are three different states of matter: solid, liquid, or gas
+There are three states of matter: solid, liquid, and gas. Each can be described in terms of how closely its particles are packed, how they are arranged, and how they move.
 
 ## Solid state
 
-* In a solid state of matter:
-    
-
-    * The particles are **closely packed**
-    
-
-    * The particles **vibrate** about fixed positions
-
-* Solids have:
-    
-
-    * A definite **shape** (they are **rigid**)
-    
-
-    * A definite **volume**
+In a solid, the particles are closely packed in a regular arrangement and vibrate about fixed positions rather than moving from place to place. This gives solids a definite **shape** (they are **rigid**) and a definite **volume**.
 
 ## Liquid state
 
-* In a liquid state of matter:
-    
-
-    * The particles are **closely packed**
-    
-
-    * The particles can **flow** over one another
-
-* Liquids have:
-    
-
-    * No definite shape – they are able to **flow** and will take the shape of a container
-    
-
-    * A definite **volume**
+In a liquid, the particles are still closely packed, but they are free to flow over one another rather than being fixed in place. This means liquids have no definite shape — they flow and take the shape of their container — but they do have a definite **volume**.
 
 ## Gas state
 
-* In a gas state of matter:
-    
+In a gas, the particles are far apart and move randomly. This means gases have no definite shape (they take the shape of their container) and no fixed volume — if placed in an evacuated container, a gas will expand to fill it.
 
-    * The particles are **far apart**
-    
-
-    * The particles move **randomly**
-
-* Gases have:
-    
-
-    * No definite shape – they will take the shape of their container
-    
-
-    * No fixed volume – if placed in an evacuated container they will expand to fill the container
-
-* Gases are highly **compressible**, this is because:
-    
-
-    * There are large **gaps** between the particles
-    
-
-    * It is easier to **push** the particles closer together than in solids or liquids
+Gases are also highly **compressible**: because there are large gaps between the particles, it is much easier to push them closer together than it is in a solid or a liquid.
 
 ## Summary
 
@@ -73,9 +25,9 @@
         <th>GAS</th>
     </tr>
     <tr>
-        <td><img src="image_url_placeholder" alt="Solid diagram"></td>
-        <td><img src="image_url_placeholder" alt="Liquid diagram"></td>
-        <td><img src="image_url_placeholder" alt="Gas diagram"></td>
+        <td><img src="../assets/images/solid_state_particle_diagram.svg" alt="Particles in a solid, arranged in a regular grid, closely packed"></td>
+        <td><img src="../assets/images/liquid_state_particle_diagram.svg" alt="Particles in a liquid, closely packed but randomly arranged"></td>
+        <td><img src="../assets/images/gas_state_particle_diagram.svg" alt="Particles in a gas, far apart and randomly arranged"></td>
     </tr>
     <tr>
         <td>A SOLID HAS FIXED SHAPE AND VOLUME</td>
@@ -123,7 +75,6 @@
   </tbody>
 </table>
 
-!!! tip  "Examiner Tips and Tricks"
+!!! tip "Examiner Tips and Tricks"
 
     In your exam, you may be asked to explain the particle arrangement and behaviour for each state of matter. These are easy marks but make sure you learn all the possible things you can say.
-

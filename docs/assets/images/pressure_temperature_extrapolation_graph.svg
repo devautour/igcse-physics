@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 420 300" width="420" height="300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graph of pressure against temperature for two different gases at constant volume. Both lines are straight and, when extrapolated with a dashed line, cross zero pressure at minus 273 degrees Celsius.">
+    <line x1="50" y1="10" x2="50" y2="260" stroke="#333333" stroke-width="2"/>
+    <line x1="50" y1="260" x2="400" y2="260" stroke="#333333" stroke-width="2"/>
+    <line x1="50" y1="260" x2="329" y2="57" stroke="#2b6cb0" stroke-width="2" stroke-dasharray="6,5"/>
+    <line x1="329" y1="57" x2="380" y2="20" stroke="#2b6cb0" stroke-width="2.5"/>
+    <line x1="50" y1="260" x2="329" y2="138" stroke="#c05621" stroke-width="2" stroke-dasharray="6,5"/>
+    <line x1="329" y1="138" x2="380" y2="116" stroke="#c05621" stroke-width="2.5"/>
+    <text x="384" y="18" font-size="13" font-family="sans-serif" fill="#2b6cb0" font-weight="bold">Gas A</text>
+    <text x="384" y="120" font-size="13" font-family="sans-serif" fill="#c05621" font-weight="bold">Gas B</text>
+    <text x="50" y="278" font-size="12" font-family="sans-serif" text-anchor="middle" fill="#222222">-273</text>
+    <text x="225" y="295" font-size="13" font-family="sans-serif" text-anchor="middle" fill="#222222">Temperature / &#176;C</text>
+    <text x="18" y="140" font-size="13" font-family="sans-serif" text-anchor="middle" fill="#222222" transform="rotate(-90 18 140)">Pressure</text>
+</svg>

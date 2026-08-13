@@ -1,4 +1,4 @@
-# Uses & Dangers of Static Electricity
+# Uses and dangers of static electricity
 
 **Static electricity** is highly useful in modern engineering and agriculture, but it also introduces significant hazards that require careful management.
 
@@ -22,9 +22,9 @@ Photocopiers and laser printers rely entirely on static electricity to manipulat
 !!! note "Inkjet Printers"
     Inkjet printers work on a similar electrostatic principle. Instead of using a drum and dry powder, a fine jet of liquid ink droplets is given a charge. Deflection plates use electrostatic forces to steer the droplets dynamically to their precise coordinates on the page.
 
-TODO: diagram showing the use of static electricity in the operation of an inkjet printer
+<!-- TODO: diagram showing the use of static electricity in the operation of an inkjet printer -->
 
-### Insecticide Sprayers
+### Insecticide sprayers
 In agriculture, static electricity ensures crops are protected efficiently while minimizing chemical waste.
 
 !!! abstract "Standard Explanation: Electrostatic Crop Spraying"
@@ -45,7 +45,7 @@ The primary danger of static electricity is sparking, which can lead to electric
 !!! warning "Model explanation: How sparks form"
     As static charge accumulates on an insulated object, a massive potential difference builds up between the object and the earth (or a nearby conductor). If this potential difference becomes high enough, the air molecules ionize and become conductive. Electrons abruptly leap across the gap to neutralize the charge—this movement of charge through the air is a spark.
 
-### Fuelling Vehicles
+### Fuelling vehicles
 The risk of electrostatic sparking is exceptionally dangerous when refuelling aircraft or large tankers.
 
 !!! warning "The Hazard: Fuel Ignition"

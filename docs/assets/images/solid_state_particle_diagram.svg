@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Particles in a solid, arranged in a regular grid, closely packed inside a container">
+    <rect x="10" y="10" width="180" height="180" fill="none" stroke="#333333" stroke-width="3"/>
+    <g fill="#2b6cb0">
+        <circle cx="38" cy="38" r="9"/><circle cx="80" cy="38" r="9"/><circle cx="122" cy="38" r="9"/><circle cx="164" cy="38" r="9"/>
+        <circle cx="38" cy="80" r="9"/><circle cx="80" cy="80" r="9"/><circle cx="122" cy="80" r="9"/><circle cx="164" cy="80" r="9"/>
+        <circle cx="38" cy="122" r="9"/><circle cx="80" cy="122" r="9"/><circle cx="122" cy="122" r="9"/><circle cx="164" cy="122" r="9"/>
+        <circle cx="38" cy="164" r="9"/><circle cx="80" cy="164" r="9"/><circle cx="122" cy="164" r="9"/><circle cx="164" cy="164" r="9"/>
+    </g>
+</svg>

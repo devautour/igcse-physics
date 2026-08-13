@@ -2,24 +2,13 @@
 
 ## The Universe
 
-* The Universe is defined as **A large collection of billions of galaxies**
+!!! abstract "Definition: Universe"
+    The Universe is **a large collection of billions of galaxies** — it is also the name given to the entirety of space.
 
-* It is also the name given to the entirety of space
+!!! abstract "Definition: Galaxy"
+    A galaxy is **a large collection of billions of stars**.
 
-* A galaxy is defined as
-  **A large collection of billions of stars**
-
-* Stars are large astronomical objects such as the Sun
-
-* Stars may be a part of a **planetary system**
-
-  - In a planetary system, planets and other astronomical objects orbit around a star at the centre
-
-* Our Solar System is in the **Milky Way galaxy**
-
-* The Sun is at the **centre** of our Solar System
-
-* Our planet, the Earth, is the third of eight planets in our **Solar System**
+Stars are large astronomical objects such as the Sun. Stars may be part of a **planetary system**, where planets and other astronomical objects orbit around a star at the centre. Our Solar System is in the **Milky Way galaxy**, with the Sun at its **centre** — our planet, the Earth, is the third of eight planets in our **Solar System**.
 
 **Hierarchy of the Solar System**
 
@@ -27,51 +16,22 @@
 
 *The Universe is a large collection of galaxies and a galaxy is a large collection of stars. The Sun is a star at the centre of our Solar System in the Milky Way galaxy*
 
+## Gravitational field strength
 
-## Gravitational Field Strength
+The strength of gravity on different planets affects an object's weight on that planet.
 
-* The strength of gravity on different planets affects an object's weight on that planet
+!!! abstract "Definition: Weight"
+    Weight is **the force acting on an object due to gravitational attraction**.
 
-* Weight is defined as:
-
-**The force acting on an object due to gravitational attraction**
-
-* Planets have strong gravitational fields
-
-    - Hence, they attract nearby masses with a strong gravitational force
-
-* The force of weight is responsible for:
-
-    - objects staying firmly on the ground
-
-    - objects always falling to the ground
-
-    - satellites being kept in orbit
+Planets have strong gravitational fields, so they attract nearby masses with a strong gravitational force. Weight is responsible for objects staying firmly on the ground, objects always falling to the ground, and satellites being kept in orbit.
 
 ![Diagram showing Earth with falling objects and a satellite in orbit](../assets/images/page_488_image_1_v2.jpg)
 
-**Objects are attracted towards the centre of the Earth due to its gravitational field strength**
+*Objects are attracted towards the centre of the Earth due to its gravitational field strength*
 
-* Weight and gravitational field strength both vary on the different objects in the Solar System
+Weight and gravitational field strength both vary between different objects in the Solar System: the greater the mass of a planet, the greater its gravitational field strength, and a higher gravitational field strength means a larger attractive force towards the centre of that planet or moon.
 
-    - The greater the mass of the planet then the greater its gravitational field strength
-
-* A higher gravitational field strength means a larger attractive force towards the centre of that planet or moon
-
-
-* The value of g varies with the distance from a planet, but on the surface of the planet, it is roughly the **same**
-
-* However, the value of g varies dramatically for different planets and moons
-
-* The gravitational field strength (g) on the **Earth** is approximately 10 N/kg
-
-* The gravitational field strength on the surface of the **Moon** is **less** than on the Earth
-
-    - This means it would be **easier** to lift a mass on the surface of the Moon than on the Earth
-
-* The gravitational field strength on the surface of the gas giants (e.g. Jupiter and Saturn) is **more** than on the Earth
-
-    - This means it would be **harder** to lift a mass on the gas giants than on the Earth
+The value of $g$ varies with distance from a planet, but on the surface of the planet it is roughly the **same** — though $g$ varies dramatically between different planets and moons. The gravitational field strength ($g$) on **Earth** is approximately 10 N/kg. On the surface of the **Moon**, $g$ is **less** than on Earth, meaning it would be **easier** to lift a mass there than on Earth; on the surface of the gas giants (e.g. Jupiter and Saturn), $g$ is **more** than on Earth, meaning it would be **harder** to lift a mass there.
 
 <table>
   <thead>
@@ -102,38 +62,23 @@
 
 **Value for g on the different objects in the Solar System**
 
-* The mass of an object is always the same, but its weight changes depending on the gravitational field
-
-    - This means that on both Earth and Jupiter, an object’s **mass** will have the **same** value
-
-    - However, their **weight** will be a lot **greater** on Jupiter than on Earth, so much so that a human would not be able to stand up on the surface of Jupiter
-
-
-> A BODY ON EARTH HAS A MUCH SMALLER FORCE PER UNIT MASS THAN ON JUPITER
+The mass of an object is always the same, but its weight changes depending on the gravitational field: on both Earth and Jupiter, an object's **mass** has the **same** value, but its **weight** is a lot **greater** on Jupiter than on Earth — so much so that a human would not be able to stand up on the surface of Jupiter.
 
 ![Illustration of a person standing on Earth with a downward force arrow labeled F](../assets/images/page_490_image_2_v2.jpg)
 
-**EARTH**
-g = 9.81 Nkg<sup>-1</sup>
-
-> THIS MEANS A BODY WILL HAVE A MUCH GREATER WEIGHT ON JUPITER THAN ON EARTH
+*A body on Earth has a much smaller force per unit mass than on Jupiter (Earth: g = 9.81 N/kg)*
 
 ![Illustration of a person lying down on Jupiter with a larger downward force arrow labeled F](../assets/images/page_490_image_3_v2.jpg)
 
-**JUPITER**
-g = 25 Nkg<sup>-1</sup>
-
-*A person's weight on Jupiter would be so large a human would be unable to fully stand up*
+*This means a body will have a much greater weight on Jupiter than on Earth (Jupiter: g = 25 N/kg). A person's weight on Jupiter would be so large a human would be unable to fully stand up*
 
 !!! tip "Examiner Tips and Tricks"
 
     You do not need to remember the value of g on different planets for your exam, the value of g for Earth will be given in the exam question.
 
-## Orbital Motion
+## Orbital motion
 
-* The Solar System is made up of many bodies which orbit around other bodies
-
-* The orbiting bodies in the Solar System are shown in the table below:
+The Solar System is made up of many bodies which orbit around other bodies, as shown in the table below:
 
 **Table of orbiting bodies in the Solar System**
 
@@ -168,73 +113,27 @@ g = 25 Nkg<sup>-1</sup>
   </tbody>
 </table>
 
-* Smaller bodies **orbit** around **larger** bodies
-
-    - For example, planets orbit the Sun
-
-* Orbital motion is a result of the **gravitational force of attraction** acting between two bodies
-
-* This gravitational force
-
-    - always acts **towards the centre** of the larger body
-
-    - causes the orbiting body to move in a **circular path**
+Smaller bodies **orbit** around **larger** bodies — for example, planets orbit the Sun. Orbital motion is a result of the **gravitational force of attraction** acting between two bodies: this force always acts **towards the centre** of the larger body, and causes the orbiting body to move in a **circular path**.
 
 ![Diagram showing the Moon orbiting the Earth due to gravitational attraction](../assets/images/page_492_image_1_v2.jpg)
-
 
 *The gravitational force of attraction causes the Moon to orbit around the Earth*
 
 ### Orbital motion of planets
 
-* There are several **similarities** in the way different planets orbit the Sun:
-
-    * Their orbits are all **slightly elliptical** (stretched circles) with the Sun at one focus (approximately the centre of the orbit)
-
-    * They all orbit in the **same plane**
-
-    * They all travel in the **same direction** around the Sun
-
-* There are also a few differences:
-
-    * They orbit at **different distances** from the Sun (different orbital radius)
-
-    * They orbit at **different speeds**
-
-    * They all take **different amounts of time** to orbit the Sun
-
-* The **further** away a planet is from the Sun, the **slower** it travels and therefore the **longer** it takes to orbit
+There are several **similarities** in the way different planets orbit the Sun: their orbits are all **slightly elliptical** (stretched circles) with the Sun at one focus (approximately the centre of the orbit), they all orbit in the **same plane**, and they all travel in the **same direction** around the Sun. There are also a few differences: they orbit at **different distances** from the Sun (different orbital radius), at **different speeds**, and take **different amounts of time** to orbit the Sun. The **further** away a planet is from the Sun, the **slower** it travels, and therefore the **longer** it takes to orbit.
 
 ![Diagram showing planetary orbits around the Sun with annotations: PLANETS FURTHEST FROM THE SUN TAKE THE LONGEST AMOUNT OF TIME TO ORBIT THE SUN - THEY TRAVEL AT THE SLOWEST SPEEDS; PLANETS CLOSEST TO THE SUN TAKE THE SHORTEST AMOUNT OF TIME TO ORBIT THE SUN - THEY TRAVEL AT THE FASTEST SPEEDS](../assets/images/page_493_image_1_v2.jpg)
 
-The planets closest to the Sun have higher orbital speeds, whereas the planets furthest from the Sun have lower orbital speeds
+*The planets closest to the Sun have higher orbital speeds, whereas the planets furthest from the Sun have lower orbital speeds*
 
 ### Orbital motion of moons
 
-* Moons orbit planets in a **circular path**
-
-* Some planets have more than one moon
-
-* The **closer** the moon is to the planet:
-
-    - the **shorter** the **time** it will take to complete each orbit
-
-    - the **greater** the **speed** of the orbit
+Moons orbit planets in a **circular path**, and some planets have more than one moon. The **closer** a moon is to its planet, the **shorter** the **time** it takes to complete each orbit, and the **greater** its orbital **speed**.
 
 ### Orbital motion of comets
 
-* The orbits of comets are very different to those of planets:
-
-* Their orbits are highly **elliptical** (very stretched) or hyperbolic
-
-    - This causes the speed of the comets to change significantly as their distance from the Sun changes
-
-    - Not all comets orbit in the same plane as the planets and some don't even orbit in the same direction
-
-* As the comet approaches the sun, its speed **increases**
-
-* As it moves further away from the sun, its speed **decreases**
-
+The orbits of comets are very different to those of planets: they are highly **elliptical** (very stretched) or hyperbolic, which causes a comet's speed to change significantly as its distance from the Sun changes. Not all comets orbit in the same plane as the planets, and some don't even orbit in the same direction. As a comet approaches the Sun, its speed **increases**; as it moves further away, its speed **decreases**.
 
 ![Diagram showing a comet's highly elliptical orbit around the Sun, with labels: SLOWEST HERE at the furthest point, COMET AND TAIL, FASTEST HERE at the closest point to the Sun, and a circular orbit labeled PLANET.](../assets/images/page_494_image_1_v2.jpg)
 
@@ -242,39 +141,23 @@ The planets closest to the Sun have higher orbital speeds, whereas the planets f
 
 ### Orbital period equation
 
-* When planets move around the Sun, or a moon moves around a planet, they orbit in **circular motion**
+When planets move around the Sun, or a moon moves around a planet, they orbit in **circular motion** — in one orbit, an object travels a distance equal to the circumference of its orbit, $2\pi r$, where $r$ is the radius of the circle. Since speed is distance divided by time, the average orbital speed of an object is given by:
 
-    * This means that in one orbit, a planet travels a distance equal to the circumference of a circle (the shape of the orbit)
+!!! note "Required formulae: orbital speed"
+    $$ v = \frac{2\pi r}{T} $$
 
-    * This is equal to 2πr, where r is the radius a circle
+    Where $v$ is the orbital speed in metres per second (m/s), $r$ is the average radius of the orbit in metres (m), and $T$ is the orbital period in seconds (s).
 
-* The relationship between speed, distance and time is:
+!!! abstract "Definition: Orbital period"
+    The orbital period (or time period) is **the time taken for an object to complete one orbit**.
 
-$$ speed = \frac{distance}{time} $$
-
-* The average orbital speed of an object is defined by the equation:
-
-$$ v = \frac{2\pi r}{T} $$
-
-* Where:
-
-    * v = orbital speed in metres per second (m/s)
-
-    * r = average radius of the orbit in metres (m)
-
-    * T = orbital period in seconds (s)
-
-* This orbital period (or time period) is defined as:
-
-**The time taken for an object to complete one orbit**
-
-* The orbital radius r is always taken from the **centre** of the object being orbited to the object orbiting
+The orbital radius $r$ is always taken from the **centre** of the object being orbited to the object orbiting.
 
 ![Diagram showing a planet orbiting the Sun. A line labeled "ORBITAL RADIUS, r" connects the center of the Sun to the planet. An arrow labeled "ORBITAL SPEED, v" shows the tangential velocity of the planet.](../assets/images/page_495_image_1_v2.jpg)
 
-Orbital radius and orbital speed of a planet moving around a Sun
+*Orbital radius and orbital speed of a planet moving around a Sun*
 
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     The Hubble Space Telescope (HST) moves in a circular orbit around the Earth.
 
@@ -282,7 +165,7 @@ Orbital radius and orbital speed of a planet moving around a Sun
 
     Calculate the orbital speed of the HST in m/s.
 
-    ??? note "Answer :"
+    ??? success "Answer:"
 
         **Step 1: List the known quantities**
 
@@ -298,22 +181,17 @@ Orbital radius and orbital speed of a planet moving around a Sun
 
         **Step 3: Calculate the orbital radius, $r$**
 
-        * The orbital radius is the distance from the **centre** of the Earth to the telescope
-        $r$ = radius of the Earth + height of the HST above the Earth's surface
+        The orbital radius is the distance from the **centre** of the Earth to the telescope: $r$ = radius of the Earth + height of the HST above the Earth's surface.
 
         $$r = 6400 + 560 = 6960 \text{ km}$$
 
         **Step 4: Convert any units**
 
-        * The time period needs to be in seconds
-
-        $$1 \text{ minute} = 60 \text{ seconds}$$
+        The time period needs to be in seconds: $1$ minute $= 60$ seconds, so
 
         $$T = 96 \text{ minutes} = 60 \times 96 = 5760 \text{ s}$$
 
-        * The radius needs to be in metres
-
-        $$1 \text{ km} = 1000 \text{ m}$$
+        The radius needs to be in metres: $1$ km $= 1000$ m, so
 
         $$r = 6960 \text{ km} = 6\,960\,000 \text{ m}$$
 
@@ -325,4 +203,4 @@ Orbital radius and orbital speed of a planet moving around a Sun
 
 !!! tip "Examiner Tips and Tricks"
 
-    Remember to always check that the orbital period $r$ given is the distance from the **centre** of the Sun (if a planet is orbiting a Sun) or the planet (if a moon is orbiting a planet) and not just from the surface
+    Remember to always check that the orbital radius $r$ given is the distance from the **centre** of the Sun (if a planet is orbiting a Sun) or the planet (if a moon is orbiting a planet) and not just from the surface

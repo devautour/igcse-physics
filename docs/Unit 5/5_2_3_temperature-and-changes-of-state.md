@@ -2,52 +2,38 @@
 
 ## Naming the changes of state
 
-* When a solid is heated, it **melts** to form a liquid
+When a solid is heated, it **melts** to form a liquid: once it reaches the melting point, further energy supplied is transferred to the **potential store** of the particles, breaking the rigid bonds between them so they can flow over each other. When a liquid is heated, it **boils** to form a gas: once it reaches the boiling point, further energy supplied is again transferred to the **potential store** of the particles, this time overcoming the intermolecular bonds completely, so the particles spread far apart and move randomly.
 
-    - When it reaches the melting point, further energy supplied is transferred to the **potential store** of the particles
+**Evaporation** can also turn a liquid into a gas, but it differs from boiling in three ways: it can happen at any temperature, not just the boiling point; only the most energetic particles at the **surface** of the liquid have enough kinetic energy to escape the intermolecular bonds; and bubbles of gas form in the liquid during boiling, but **not** during evaporation.
 
-    - This breaks the rigid bonds between the particles so they can flow over each other
+!!! info "Classic diagram: changes of state"
 
-* When a liquid is heated, it **boils** to form a gas
+    ```mermaid
+    graph LR
+        subgraph SOLIDS
+        S[Particles in a regular lattice]
+        end
+        subgraph LIQUIDS
+        L[Particles close together but random]
+        end
+        subgraph GASES
+        G[Particles far apart and random]
+        end
 
-    - When it reaches the boiling point, further energy supplied is transferred to the **potential store** of the particles
+        S -- MELTING --> L
+        L -- FREEZING --> S
+        L -- BOILING --> G
+        G -- CONDENSING --> L
+        S -- SUBLIMING --> G
+    ```
 
-    - This overcomes the intermolecular bonds completely, so the particles spread far apart and move randomly
+    *Changing the temperature of a solid, liquid or gas changes its state*
 
-* **Evaporation** can also turn a liquid into a gas, but it is different from boiling:
-
-    - Evaporation can happen at any temperature, not just the boiling point
-
-    - Only the most energetic particles at the **surface** of the liquid have enough kinetic energy to escape the intermolecular bonds
-
-    - Bubbles of gas form in the liquid during boiling, but **not** during evaporation
-
-```mermaid
-graph LR
-    subgraph SOLIDS
-    S[Particles in a regular lattice]
-    end
-    subgraph LIQUIDS
-    L[Particles close together but random]
-    end
-    subgraph GASES
-    G[Particles far apart and random]
-    end
-
-    S -- MELTING --> L
-    L -- FREEZING --> S
-    L -- BOILING --> G
-    G -- CONDENSING --> L
-    S -- SUBLIMING --> G
-```
-
-*Changing the temperature of a solid, liquid or gas changes its state*
+    You should be able to recognise and label a cycle like this one — questions often give this diagram and ask you to name each of the six arrows.
 
 ## Core practical 10: investigating changes of state
 
-### Aims of the experiment
-
-* This experiment aims to investigate how the temperature of ice varies when it changes state from a solid to a liquid
+This experiment aims to investigate how the temperature of ice varies as it changes state from a solid to a liquid.
 
 ### Equipment
 
@@ -86,11 +72,11 @@ graph LR
   </tbody>
 </table>
 
-* **Resolution** of measuring equipment:
+**Resolution of measuring equipment:**
 
-    - Thermometer = 0.1 °C
+* Thermometer = 0.1 °C
 
-    - Stopwatch = 0.1 s
+* Stopwatch = 0.1 s
 
 ### Method
 
@@ -140,16 +126,7 @@ graph LR
 
 ### Analysis of results
 
-* Plot a graph of the temperature (y-axis) against time (x-axis)
-
-
-* The graph will show regions where:
-
-    * The temperature of the ice cubes increases
-
-    * There is no temperature change (even though the ice cubes continue to be heated)
-
-    * This should occur at 0 °C, where the ice is melting from solid to liquid
+Plot a graph of the temperature (y-axis) against time (x-axis). The graph will show a region where the temperature of the ice increases, followed by a region with no temperature change even though the ice cubes continue to be heated — this should occur at 0 °C, where the ice is melting from solid to liquid.
 
 <table>
   <thead>
@@ -182,17 +159,13 @@ graph LR
 
 ### Evaluating the experiment
 
-#### Systematic Errors:
+#### Systematic errors
 
-* Measurements of temperature from the thermometer keeping it at eye level, to avoid parallax errors
+* Take measurements of temperature from the thermometer at eye level, to avoid parallax errors, and ensure the thermometer is held vertically in the beaker
 
-    * Ensure the thermometer is held vertically in the beaker
+#### Random errors
 
-#### Random Errors:
-
-* Ensure there are enough ice cubes to surround the thermometer in the beaker, and only begin the experiment when the temperature is below 0 °C
-
-    * This is to ensure readings of temperature are as accurate as possible
+* Ensure there are enough ice cubes to surround the thermometer in the beaker, and only begin the experiment when the temperature is below 0 °C, to keep readings of temperature as accurate as possible
 
 #### Safety considerations
 
@@ -202,10 +175,15 @@ graph LR
 
 * Make sure to stand up during the whole experiment, to react quickly to any spills
 
-
 !!! tip "Examiner Tips and Tricks"
 
     You might be pleasantly surprised that heat can be transferred to a substance without changing its temperature. This is a very cool effect during changes of state: the **thermal energy** supplied does **not** contribute to the **average kinetic energy** of the particles in the ice - rather, it is used to **weaken the bonds** between the particles so they become freer to slide around each other (i.e. a liquid!). Once the ice is fully melted, the temperature of the liquid water begins rising again.
 
     Make sure you are familiar with the graph of temperature against time and you can associate the **flat region** with **changing state**
 
+??? info "Beyond the spec: specific latent heat"
+    The flat region of the temperature–time graph above shows that energy is still being supplied while the temperature stays constant — that energy is doing work to break (or form) intermolecular bonds, not increasing the particles' kinetic energy. The amount of energy needed to change the state of 1 kg of a substance, without changing its temperature, is called its **specific latent heat**, $L$, measured in J/kg:
+
+    $$\text{energy} = \text{mass} \times \text{specific latent heat} \quad (\Delta Q = mL)$$
+
+    There are two versions of this: the **specific latent heat of fusion** (melting/freezing) and the **specific latent heat of vaporisation** (boiling/condensing) — the same substance has a different value for each, since separating particles completely into a gas takes more energy than merely letting them flow past each other as a liquid. This isn't part of the 4PH1 specification, so it won't come up in an Edexcel IGCSE exam, but it directly extends the specific heat capacity idea from earlier in this unit, and it's exactly the "extra energy" behind this practical's flat region.

@@ -4,19 +4,7 @@
 
 ### Colour and temperature
 
-* Stars come in a wide range of sizes and colours, from yellow stars to red dwarfs, from blue giants to red supergiants
-
-    - These can be classified according to their **colour**
-
-* Warm objects emit infrared and extremely hot objects emit visible light as well
-
-    - Therefore, the **colour** they emit depends on how **hot** they are
-
-* A star's colour is related to its **surface temperature**
-
-    - A **red** star is the **coolest** (at around 3000 K)
-
-    - A **blue** star is the **hottest** (at around 30 000 K)
+Stars come in a wide range of sizes and colours, from yellow stars to red dwarfs, from blue giants to red supergiants, and can be classified according to their **colour**. Warm objects emit infrared, and extremely hot objects emit visible light as well, so the **colour** a star emits depends on how **hot** it is: a star's colour is related to its **surface temperature**, with a **red** star being the **coolest** (at around 3000 K) and a **blue** star the **hottest** (at around 30 000 K).
 
 **Star colour and surface temperature**
 
@@ -61,46 +49,25 @@
 
 *The colour of a star correlates to its temperature. The bluer the star, the hotter its surface temperature. The redder the star, the cooler its surface temperature*
 
-* Astronomical objects **cool** as they **expand** and **heat** up as they **contract**
-
-    - This means that their colour will also change according to their surface temperature
-
-* When a star becomes a red giant it becomes **redder** as it **expands** and **cools**
-
-* When a star becomes a white dwarf it becomes **whiter** as it **contracts** and **heats** up
+Astronomical objects **cool** as they **expand**, and **heat up** as they **contract**, so their colour changes along with their surface temperature: when a star becomes a red giant, it becomes **redder** as it **expands** and **cools**, and when a star becomes a white dwarf, it becomes **whiter** as it **contracts** and **heats up**.
 
 !!! tip "Examiner Tips and Tricks"
 
     We often remember red as being hot and blue as cool in everyday life, but remember this is the other way around when describing the temperature of stars!
 
-
-### The Brightness of Stars
+### The brightness of stars
 
 #### Luminosity
 
-* The luminosity of a star is defined as
-
-**The total amount of light energy emitted by the star**
-
-* Luminosity is a measure of a star's **brightness** or **power output**
+!!! abstract "Definition: Luminosity"
+    The luminosity of a star is **the total amount of light energy emitted by the star**. Luminosity is a measure of a star's **brightness** or **power output**.
 
 #### Apparent magnitude
 
-* The brightness, or apparent magnitude, of a star depends on two main factors:
+The brightness, or apparent magnitude, of a star depends on two main factors: the **luminosity** of the star, and the **distance** the star is from Earth (more distant stars are usually fainter than nearby stars).
 
-    - the **luminosity** of the star
-
-    - the **distance** the star is from Earth (more distant stars are usually fainter than nearby stars)
-
-* Apparent magnitude is defined a
-
-**The perceived brightness of a star as seen from Earth**
-
-* The apparent magnitude scale runs back to front:
-
-    - the **brighter** the star, the **lower** the magnitude
-
-    - the **dimmer** the star, the **higher** the magnitude
+!!! abstract "Definition: Apparent magnitude"
+    Apparent magnitude is **the perceived brightness of a star as seen from Earth**. The scale runs back to front: the **brighter** the star, the **lower** its magnitude, and the **dimmer** the star, the **higher** its magnitude.
 
 **The apparent magnitude scale**
 
@@ -145,37 +112,14 @@
 
 #### Absolute magnitude
 
-* Astronomers describe the brightness of stars at a standard distance using the **absolute magnitude scale**
+Astronomers describe the brightness of stars at a standard distance using the **absolute magnitude scale**, since a bright star which is far away can look the same as a dim star which is nearby — making it difficult to measure the brightness of stars directly.
 
-    - a bright star which is far away can look the same as a dim star which is nearby
+!!! abstract "Definition: Absolute magnitude"
+    Absolute magnitude is **a measure of how bright stars would appear if they were all placed the same distance away from the Earth**. The standard distance astronomers use is 10 parsecs, 32.6 light-years, or $3.04 \times 10^{14}$ km from the Earth.
 
-    - therefore, it is difficult to measure the brightness of stars directly
+### Hertzsprung-Russell diagrams
 
-* Absolute magnitude is defined as
-
-**A measure of how bright stars would appear if they were all placed the same distance away from the Earth**
-
-* The standard distance astronomers use is 10 parsecs, 32.6 light-years or 3.04 × 10<sup>14</sup> km away from the Earth
-
-### Hertzsprung-Russell Diagrams
-
-* The properties of stars can be classified using the Hertzsprung-Russell (HR) diagram
-
-* This is a plot of **luminosity** on the y-axis and **temperature** on the x-axis
-
-* Usually, it is given in solar units, where the luminosity of the Sun = 1, so
-
-    - For stars which are **brighter** than the Sun, luminosity > 1
-
-    - For stars which are **dimmer** than the Sun, luminosity < 1
-
-* Surface temperature is measured in kelvin (K) and is plotted backwards from hottest to coolest
-
-* It can also be displayed as a colour where
-
-    - The **hottest** stars are blue
-
-    - The **coolest** stars are red
+The properties of stars can be classified using the Hertzsprung-Russell (HR) diagram: a plot of **luminosity** on the y-axis and **temperature** on the x-axis. Luminosity is usually given in solar units, where the luminosity of the Sun = 1: stars **brighter** than the Sun have luminosity > 1, and stars **dimmer** than the Sun have luminosity < 1. Surface temperature is measured in kelvin (K), and is plotted *backwards*, from hottest to coolest — it can also be displayed as a colour, where the **hottest** stars are blue and the **coolest** stars are red.
 
 **The Hertzsprung-Russell diagram**
 
@@ -269,48 +213,13 @@
   </tbody>
 </table>
 
-*** The Hertzsprung-Russell (HR) diagram is a way of displaying the properties of stars and representing their life cycles***
+***The Hertzsprung-Russell (HR) diagram is a way of displaying the properties of stars and representing their life cycles***
 
-* The key areas of the H-R diagram are:
+The key areas of the H-R diagram are: the **brightest** stars (high luminosity) are found near the top, the **dimmest** stars (low luminosity) near the bottom, the **hottest** stars (high temperature) towards the left, and the **coolest** stars (low temperature) towards the right. The [life cycle of a star](#the-life-cycle-of-solar-mass-stars) can be shown on a Hertzsprung-Russell diagram.
 
-    * The **brightest** stars (high luminosity) are found near the top
-    
+The main features of the diagram are: most stars lie on the **main sequence**, the band of stars going from top left to bottom right; below the main sequence (and slightly to the left) are the **white dwarfs**; above the main sequence on the right-hand side are the **red giants**; and directly above the red giants are the **red supergiants**. This means the **hottest, brightest** stars are the largest main sequence stars, also called supergiant stars; the **coolest, brightest** stars are red supergiants; the **hottest, dimmest** stars are white dwarfs; and the **coolest, dimmest** stars are the smallest main sequence stars, also called red dwarfs.
 
-    * The **dimmest** stars (low luminosity) are found near the bottom
-    
-
-    * The **hottest** stars (high temperature) are found towards the left
-    
-
-    * The **coolest** stars (low temperature) are found towards the right
-
-* The [life cycle of a star](https://www.savemyexams.com/igcse/physics/edexcel/19/revision-notes/8-astrophysics/8-2-stellar-evolution/8-2-2-the-life-cycle-of-solar-mass-stars/) can be shown on a Hertzsprung-Russell diagram
-
-* The main features of the Hertzsprung-Russell diagram are:
-    
-
-    * Most stars are found to lie on the **main sequence**. This is the band of stars going from top left to bottom right
-    
-
-    * Below the main sequence (and slightly to the left) are the **white dwarfs**
-    
-
-    * Above the main sequence on the right-hand side are the **red giants**
-    
-
-    * Directly above the red giants are the **red supergiants**
-
-* This means that
-
-    * The **hottest, brightest** stars are the largest main sequence stars, also called supergiant stars
-
-    * The **coolest, brightest** stars are red supergiants
-
-    * The **hottest, dimmest** stars are white dwarfs
-
-    * the **coolest, dimmest** stars are the smallest main sequence stars, also called red dwarfs
-
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     Stars can be classified using the Hertzsprung-Russell (H-R) Diagram.
 
@@ -361,29 +270,19 @@
 
     (b) On the H-R diagram, plot the star with a surface temperature of 20 000 K and a luminosity 10 000 times greater than the Sun and label it Star X.
 
-    ??? note "Answer (Part a):"
+    ??? success "Answer (Part a):"
 
-        * A = white dwarf stars
+        A = white dwarf stars; B = main sequence stars; C = red supergiant stars; D = red giant stars.
 
-        * B = main sequence stars
-
-        * C = red supergiant stars
-
-        * D = red giant stars
-
-    ??? note "Answer (Part b):"
+    ??? success "Answer (Part b):"
 
         **Step 1: List the known quantities**
 
-        * Surface temperature of Star **X** = 20 000 K
-
-        * Luminosity of Star **X** = 10 000 times that of the Sun
+        Surface temperature of Star **X** = 20 000 K. Luminosity of Star **X** = 10 000 times that of the Sun.
 
         **Step 2: Use the graph to find the value for the luminosity of the Sun**
 
-        * Use a ruler and pencil to draw a line from the position of the sun to the luminosity axis (y-axis)
-
-        * The Sun’s luminosity on this scale is 1 because the luminosities given are relative to the luminosity of the sun
+        Use a ruler and pencil to draw a line from the position of the Sun to the luminosity axis (y-axis). The Sun's luminosity on this scale is 1, because the luminosities given are relative to the luminosity of the Sun.
 
         <table>
         <thead>
@@ -424,46 +323,11 @@
 
         **Step 3: Calculate the luminosity of Star X**
 
-        * Star **X** is 10 000 times that of the Sun
-
-        * The luminosity of the Sun is 1
-
-        10 000 × 1 = 10 000 or 10<sup>4</sup>
+        Star **X** is 10 000 times as luminous as the Sun, and the Sun's luminosity is 1, so $10\,000 \times 1 = 10\,000$, or $10^4$.
 
         **Step 4: Plot the position of Star X on the HR diagram**
 
-        * Locate the surface temperature of Star **X** at 20 000 K
-
-        * Locate the luminosity of Star **X** at 10<sup>4</sup>
-
-        <table>
-        <thead>
-            <tr>
-                <th>SURFACE TEMPERATURE/K</th>
-                <th>LUMINOSITY COMPARED TO THE SUN</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>30 000</td>
-                <td>10^6</td>
-            </tr>
-            <tr>
-                <td>10 000</td>
-                <td>10^4</td>
-            </tr>
-            <tr>
-                <td>6 000</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>3 000</td>
-                <td>10^-5</td>
-            </tr>
-        </tbody>
-        </table>
-
-        * Plot the point and label it Star X:
+        Locate the surface temperature of Star **X** at 20 000 K, and its luminosity at $10^4$, then plot and label the point:
 
         <table>
         <thead>
@@ -506,9 +370,7 @@
 
 ## The life cycle of solar mass stars
 
-* All stars, including the Sun, began as a cloud of dust and gas
-
-* Once a star has formed, it will spend its life going through a sequence of evolutionary stages, known as the **life cycle** of a star
+All stars, including the Sun, began as a cloud of dust and gas. Once a star has formed, it spends its life going through a sequence of evolutionary stages, known as the **life cycle** of a star.
 
 **Summary of the life cycles of stars**
 
@@ -522,53 +384,35 @@ graph TD
 
 *Flow diagram showing the life cycle of a star which is the same size as the Sun (solar mass) and the lifecycle of a star which is much more massive than the Sun*
 
-### Star formation
-
-* All stars follow the same initial stages:
-
-Nebula → protostar → main sequence star
+All stars follow the same initial stages: nebula → protostar → main sequence star.
 
 ### Nebula
 
-* Stars form from a giant interstellar **cloud of gas and dust** called a nebula
+Stars form from a giant interstellar **cloud of gas and dust** called a nebula.
 
 ### Protostar
 
-* The force of **gravity** within a nebula pulls the particles **closer together** until a hot ball of gas forms, known as a **protostar**
-
-* As the particles are pulled closer together the **density** of the protostar will **increase**
-
-* This results in **more frequent collisions** between the particles which causes the **temperature** to **increase**
+The force of **gravity** within a nebula pulls its particles **closer together** until a hot ball of gas forms, known as a **protostar**. As the particles are pulled closer together, the **density** of the protostar **increases**, resulting in **more frequent collisions** between the particles, which causes the **temperature** to **increase**.
 
 ### Main sequence star
 
-* Once the protostar becomes hot enough, **nuclear fusion** reactions occur within its core
+Once the protostar becomes hot enough, **nuclear fusion** reactions begin within its core — once a star initiates fusion, it is known as a **main-sequence star**. During the main sequence, the star is in **equilibrium**, and said to be **stable**.
 
-* Once a star initiates fusion, it is known as a **main-sequence star**
+### Later evolutionary stages of a solar mass star
 
-* During the main sequence, the star is in **equilibrium** and said to be **stable**
-
-### The life cycle of a solar mass star
-
-* After the main sequence, a low-mass star finishes its life cycle in the following evolutionary stages:
-
-**Red giant → planetary nebula → white dwarf**
+After the main sequence, a low-mass star finishes its life cycle in the following evolutionary stages: **red giant → planetary nebula → white dwarf**.
 
 ### Red giant
 
-* After several **billion** years, the hydrogen causing the fusion reactions in the star will begin to run out
+After several **billion** years, the hydrogen fuelling the fusion reactions in the star begins to run out, so the fusion reactions in the core start to **die down**. The star then begins to fuse helium, which causes the outer part of the star to **expand** — as it expands, its surface cools, and it becomes a **red giant**.
 
-* Once this happens, the fusion reactions in the core will start to **die down**
+### Planetary nebula
 
-* The star will begin to fuse helium which causes the outer part of the star to **expand**
-
-* As the star expands, its surface cools and it becomes a **red giant**
+As the red giant's core continues to collapse, its outer layers are shed into space, forming an expanding, glowing shell of gas and dust called a **planetary nebula** — a different, much later structure from the nebula the star originally formed from. This exposes the hot, dense core of the star underneath.
 
 ### White dwarf
 
-* Once the helium fusion reactions have finished, the star collapses and becomes a **white dwarf**
-
-* The white dwarf **cools** down over time and as a result, the amount of **energy** it emits **decreases**
+Once the helium fusion reactions have finished, the exposed core left behind by the planetary nebula becomes a **white dwarf**. The white dwarf **cools** down over time, and as a result, the amount of **energy** it emits **decreases**.
 
 **The life cycle of a low-mass star**
 
@@ -582,10 +426,9 @@ graph LR
     F --> G[BLACK DWARF]
 ```
 
-
 *The life cycle of a star that is similar to our Sun*
 
-!!! "tip" Examiner Tips and Tricks
+!!! tip "Examiner Tips and Tricks"
 
     Make sure you remember the life cycle for a solar mass star and ensure you can describe the sequence in a logically structured manner in case a 6 marker comes up in the exam!
 
@@ -593,43 +436,19 @@ graph LR
 
 ## The life cycle of more massive stars
 
-* After the main sequence, a high-mass star finishes its life cycle in the following evolutionary stages:
-
-**Red supergiant → supernova → neutron star (or black hole)**
-
-* The key **differences** between a lower mass and higher mass star at this stage are:
-
-    - A higher mass star will stay on the main sequence for a **shorter time** before it becomes a red supergiant
-
-    - A lower mass star fuses helium into heavy elements, such as **carbon**, whereas a higher mass star fuses helium into even heavier elements, such as **iron**
+After the main sequence, a high-mass star finishes its life cycle in the following evolutionary stages: **red supergiant → supernova → neutron star (or black hole)**. A higher-mass star stays on the main sequence for a **shorter time** than a lower-mass star before it becomes a red supergiant, and while a lower-mass star fuses helium into heavier elements such as **carbon**, a higher-mass star fuses helium into even heavier elements, such as **iron**.
 
 ### Red supergiant
 
-* After several **million** years, the hydrogen causing the fusion reactions in the star will begin to run out
-
-* Once this happens, the fusion reactions in the core will start to **die down**
-
-* The star will begin to fuse helium which causes the outer part of the star to **expand**
-
-* As the star expands, its surface cools and it becomes a **red supergiant**
+After several **million** years, the hydrogen fuelling the fusion reactions in the star begins to run out, so the fusion reactions in the core start to **die down**. The star then begins to fuse helium, which causes the outer part of the star to **expand** — as it expands, its surface cools, and it becomes a **red supergiant**.
 
 ### Supernova
 
-* Once the fusion reactions inside the red supergiant cannot continue, the core of the star will **collapse suddenly** and cause a **gigantic explosion** called a **supernova**
-
-* At the centre of this explosion, a **dense** body called a **neutron star** will form
-
-* The **outer remnants** of the star are **ejected** into space forming **new clouds** of dust and gas **(nebula)**
-
-    - The heaviest elements are formed during a supernova, and these are ejected into space
-
-    - These nebulae may form **new planetary systems**
+Once the fusion reactions inside the red supergiant can no longer continue, the core of the star **collapses suddenly**, causing a **gigantic explosion** called a **supernova**. At the centre of this explosion, a **dense** body called a **neutron star** forms, while the **outer remnants** of the star are **ejected** into space, forming **new clouds** of dust and gas (**nebula**) — the heaviest elements are formed during a supernova, and these are ejected into space too. These nebulae may go on to form **new planetary systems**.
 
 ### Neutron star (or black hole)
 
-* In the case of the **most massive stars**, the neutron star that forms at the centre will continue to **collapse** under the force of **gravity** until it forms a **black hole**
-
-* A black hole is an **extremely dense** point in space that not even **light** can escape from
+In the case of the **most massive stars**, the neutron star that forms at the centre continues to **collapse** under the force of **gravity**, until it forms a **black hole** — an **extremely dense** point in space that not even **light** can escape from.
 
 **The life cycle of a high-mass star**
 
@@ -642,7 +461,6 @@ graph TD
     E --> F[NEUTRON STAR]
     E --> G[BLACK HOLE]
 ```
-
 
 *The life cycle of a star much larger than our Sun*
 

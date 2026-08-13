@@ -2,9 +2,7 @@
 
 ## Core practical 3: investigating charging by friction
 
-### Aim of the experiment
-
-* The aim of this experiment is to investigate how insulating materials can be charged by friction
+This experiment aims to investigate how insulating materials can be charged by friction.
 
 ### Variables
 
@@ -135,7 +133,7 @@
 
 
 
-## Testing whether an object is charged.
+## Testing whether an object is charged
 
 To test whether an object is charged (or demonstrate that on object is charged), there are several methods:
 
