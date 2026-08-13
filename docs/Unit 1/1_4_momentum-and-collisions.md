@@ -1,62 +1,34 @@
-# Momentum
+# Momentum and collisions
 
-## Definition
+## Momentum
 
-* **Momentum** is a property that all moving objects have
+!!! abstract "Definition: Momentum"
+    **Momentum** is a property that all moving objects have. An object with **mass**, $m$, moving at a **velocity**, $v$, will have a momentum, $p$: momentum is the product of an object's mass and velocity, $p = mv$.
 
-* An object with **mass**, $m$, moving at a **velocity**, $v$, will have a momentum, $p$
+!!! note "Required formulae: momentum"
+    $$p = mv$$
 
-* Momentum is the product of an objects mass and velocity $p = mv$
+    Where $p$ = momentum in kilogram metre per second (kg m/s), $m$ = mass in kilograms (kg), and $v$ = velocity in metres per second (m/s).
 
-* Where:
+This means that an object at rest (i.e. $v = 0$) has **no** momentum. Momentum keeps an object moving in the same direction — it is difficult to change the direction of an object with a large momentum.
 
-    - $p$ = momentum in kilogram metre per second (kg m/s)
+Velocity is a **vector** with both **magnitude** and **direction**, so the momentum of an object depends on its **direction** of travel too, meaning momentum can be either **positive** or **negative**. If an object travelling to the right has positive momentum, then an object travelling in the opposite direction (to the left) will have negative momentum — this isn't a solid rule, but in questions, usually the positive direction is to the right and negative to the left.
 
-    - $m$ = mass in kilograms (kg)
-
-    - $v$ = velocity in metres per second (m/s)
-
-* This means that an object at rest (i.e. v = 0) has **no** momentum
-
-* Momentum keeps an object moving in the same direction
-
-    - It is difficult to change the direction of an object with a large momentum
-
-* Velocity is a **vector** with both **magnitude** and **direction**
-
-* Therefore, the momentum of an object depends on its **direction** of travel
-
-    - This means momentum can be either **positive** or **negative**
-
-* If an object travelling to the right has positive momentum, then an object travelling in the opposite direction (to the left) will have negative momentum
-
-    - This isn't a solid rule, but in questions, usually the positive direction is to the right and negative to the left
-
-** How does the momentum of a ball change after a collision?**
+**How does the momentum of a ball change after a collision?**
 
 ![Diagram showing a tennis ball bouncing off a wall to illustrate momentum change. The ball approaches with positive velocity and momentum, and rebounds with negative velocity and momentum.](../assets/images/page_73_chart_1_v2.jpg)
 
-
 *The momentum of the tennis ball is positive as it approaches the wall and negative after the collision as it moves in the opposite direction*
 
-* The momentum of an object will change if:
+The momentum of an object will change if its **velocity** increases or decreases (acceleration), if its **direction** changes (acceleration), or if its **mass** changes.
 
-    - it's **velocity** increases or decreases (acceleration)
+!!! example "Worked Example (explanation): tennis ball vs. brick"
 
-    - it's **direction** changes (acceleration)
-
-    - it's **mass** changes
-
-!!! example "Worked Example3
-
-    Determine which object has the most momentum, the tennis ball or the brick.
-
-    Explain your answer.
+    Determine which object has the most momentum, the tennis ball or the brick. Explain your answer.
 
     ![Illustration for worked example showing a tennis racket hitting a 60g ball at 75 m/s and a 3kg brick moving at 1.5 m/s.](../assets/images/page_73_image_1_v2.jpg)
 
-
-    ??? note "Answer:"
+    ??? success "Model answer:"
 
         **Step 1: Calculate the momentum of the tennis ball using the momentum equation**
 
@@ -76,9 +48,7 @@
 
         **Step 3: Explain your answer**
 
-        * Both the tennis ball and the brick have the same momentum
-        * Even though the brick has a much greater mass than the ball, the ball is travelling much faster than the brick
-        * This means that on impact, they would both exert a similar force (depending on the time it takes for each to come to rest)
+        Both the tennis ball and the brick have the same momentum. Even though the brick has a much greater mass than the ball, the ball is travelling much faster than the brick — this means that on impact, they would both exert a similar force (depending on the time it takes for each to come to rest).
 
 !!! tip "Examiner Tips and Tricks"
 
@@ -88,41 +58,16 @@
 
 ## The principle of conservation of momentum
 
-* The principle of **conservation of momentum** states that:
+!!! abstract "Principle: Conservation of momentum"
+    The total momentum before an interaction is equal to the total momentum after an interaction, if no external forces are acting on the objects.
 
-> **The total momentum before an interaction is equal to the total momentum after an interaction, if no external forces are acting on the objects**
-
-* In this context, an interaction can be either:
-
-    - A **collision** i.e. where two objects collide with each other
-    
-    - An **explosion** i.e. where a stationary object explodes into two (or more) parts
+In this context, an interaction can be either a **collision** (i.e. where two objects collide with each other) or an **explosion** (i.e. where a stationary object explodes into two or more parts).
 
 ## Collisions
 
-* For a collision between two objects:
+For a collision between two objects, **the total momentum before a collision = the total momentum after a collision**.
 
-**The total momentum before a collision = the total momentum after a collision** 
-
-* In the example below:
-
-* Before the collision:
-
-    * The momentum is only generated by mass *m* because it is the only moving object
-
-    * If the right is taken as the positive direction, the total momentum of the system is **m × u**
-
-* After the collision:
-
-    * Mass *M* also now has momentum
-
-    * The velocity of *m* is now -*v* (since it is now travelling to the left) and the velocity of *M* is *V*
-
-    * The total momentum is now the momentum of *M* + the momentum of *m*
-
-    * This is (*M* × *V*) + (*m* × -*v*) or **(*M* × *V*) – (*m* × *v*)** written more simply
-
-**Conservation of momentum before and after a collision**
+In the example below, before the collision, the momentum is only generated by mass $m$ because it is the only moving object — if the right is taken as the positive direction, the total momentum of the system is $m \times u$. After the collision, mass $M$ also now has momentum: the velocity of $m$ is now $-v$ (since it is now travelling to the left) and the velocity of $M$ is $V$, so the total momentum is now the momentum of $M$ plus the momentum of $m$. This is $(M \times V) + (m \times -v)$, or written more simply, $(M \times V) - (m \times v)$.
 
 <table>
   <thead>
@@ -151,14 +96,11 @@
 
 *The momentum of a system before and after a collision is always conserved*
 
-* Since momentum is a **vector** quantity, a system of objects moving in opposite directions (e.g. towards each other) at the same speed will have an overall momentum of 0 since they will **cancel out**
+Since momentum is a **vector** quantity, a system of objects moving in opposite directions (e.g. towards each other) at the same speed will have an overall momentum of 0, since they will **cancel out** — momentum is **always conserved** over time.
 
-    * Momentum is **always conserved** over time
-
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     The diagram shows a car and a van, just before and after the car collides with the van, which is initially at rest.
-
 
     The car initially moves at a speed of 10 m/s, but this reduces to 2 m/s after the collision.
 
@@ -168,56 +110,41 @@
 
     Calculate the velocity of the van when it is pushed forward by the collision.
 
-    **Answer:**
+    ??? success "Answer:"
 
-    **Step 1: State the principle of the conservation of momentum**
+        **Step 1: State the principle of the conservation of momentum**
 
-    Total momentum before a collision = total momentum after a collision
+        Total momentum before a collision = total momentum after a collision.
 
-    **Step 2: Calculate the total momentum of the car and van before the collision**
+        **Step 2: Calculate the total momentum of the car and van before the collision**
 
-    Momentum: $$p = mv$$
+        Momentum: $p = mv$.
 
-    * Initial momentum of the car:
+        Initial momentum of the car: $p_{car} = 990 \times 10 = 9900\text{ kg m/s}$.
 
-    $$p_{car} = 990 \times 10 = 9900\text{ kgm/s}$$
+        Initial momentum of the van: $p_{van} = 0$ (the van is at rest, so $v = 0$).
 
-    * Initial momentum of the van:
+        Total momentum before collision: $p_{before} = p_{car} + p_{van} = 9900 + 0 = 9900\text{ kg m/s}$.
 
-    $$p_{van} = 0$$ (the van is at rest, so $$p = v = 0$$)
+        **Step 3: Calculate the total momentum of the car and van after the collision**
 
-    * Total momentum before collision:
+        Final momentum of the car: $p_{car} = 990 \times 2 = 1980\text{ kg m/s}$.
 
-    $$p_{before} = p_{car} + p_{van}$$
+        Final momentum of the van: $p_{van} = 4200 \times v$.
 
-    $$p_{before} = 9900 + 0 = 9900\text{ kg m/s}$$
+        Total momentum after collision: $p_{after} = 1980 + 4200v$.
 
-    **Step 3: Calculate the total momentum of the car and van after the collision**
+        **Step 4: Rearrange the conservation of momentum equation for the velocity of the van**
 
-    * Final momentum of the car:
+        $$p_{before} = p_{after}$$
 
-    $$p_{car} = 990 \times 2 = 1980\text{ kg m/s}$$
+        $$9900 = 1980 + 4200v$$
 
-    * Final momentum of the van:
+        $$9900 - 1980 = 4200v$$
 
-    $$p_{van} = 4200 \times v$$
+        $$v = \frac{9900 - 1980}{4200}$$
 
-    * Total momentum after collision:
-
-    $$p_{after} = 1980 + 4200v$$
-
-    **Step 4: Rearrange the conservation of momentum equation for the velocity of the van**
-
-    $$p_{before} = p_{after}$$
-
-    $$9900 = 1980 + 4200v$$
-
-    $$9900 - 1980 = 4200v$$
-
-    $$v = \frac{9900 - 1980}{4200}$$
-
-    $$v = 1.9\text{ m/s}$$
-
+        $$v = 1.9\text{ m/s}$$
 
 !!! tip "Examiner Tips and Tricks"
 
@@ -225,68 +152,28 @@
 
     Remember that velocity is speed with a direction. The question asks for the speed, so you do not need to include the final speed in your answer.
 
-
 ## Forces and momentum
 
-* When a force acts on an object that is moving, or able to move, the object will accelerate (or decelerate)
+When a force acts on an object that is moving, or able to move, the object will accelerate (or decelerate), causing a **change in momentum**.
 
-    * This causes a **change in momentum**
+!!! note "Required formulae: force as rate of change of momentum"
+    The resultant force acting on an object is defined by the equation $F = ma$, and momentum is calculated using $p = mv$. Change in momentum is given as $\Delta p = mv - mu$. Combining these equations gives:
 
-* The resultant force acting on an object is defined by the equation:
+    $$\text{force} = \frac{\text{change in momentum}}{\text{time}}$$
 
-$$F = ma$$
+    $$F = \frac{(mv - mu)}{t}$$
 
-* Momentum is calculated using the equation:
+    Where $F$ = resultant force, measured in newtons (N); $m$ = mass, measured in kilograms (kg); $\Delta p$ = change in momentum, measured in kilogram metres per second (kg m/s); $v$ = final velocity, measured in metres per second (m/s); $u$ = initial velocity, measured in metres per second (m/s); and $t$ = time, measured in seconds (s).
 
-$$p = mv$$
+Remember to consider the **direction** of the object's motion — if you take the initial direction as positive, then the reverse direction is negative.
 
-* Change in momentum is given as:
-
-$$\Delta p = mv - mu$$
-
-* Combining these equations gives:
-
-$$\text{force} = \frac{\text{change in momentum}}{\text{time}}$$
-
-$$F = \frac{(mv - mu)}{t}$$
-
-* Where:
-
-    * $F$ = resultant force, measured in newtons (N)
-
-    * $a$ = acceleration, measured in metres per second squared (m/s<sup>2</sup>)
-
-    * $m$ = mass, measured in kilograms (kg)
-
-    * $\Delta p$ = change in momentum, measured in kilogram metres per second (kg m/s)
-
-    * $v$ = final velocity, measured in metres per second (m/s)
-
-    * $u$ = initial velocity, measured in metres per second (m/s)
-
-    * $t$ = time, measured in seconds (s)
-
-* Remember to consider the **direction** of object's motion
-
-    * If you take the initial direction as positive then the reverse direction is negative
-
-* **Force** can also be described as the **rate of change of momentum** on a body
-
-    * The **rate of change** describes how a variable changes with respect to time
-
-* The shorter the time over which momentum changes, the bigger the force
-
-* So, force and time are **inversely proportional** to each other
+**Force** can also be described as the **rate of change of momentum** on a body, where the **rate of change** describes how a variable changes with respect to time. The shorter the time over which momentum changes, the bigger the force, so force and time are **inversely proportional** to each other.
 
 !!! tip "Examiner Tips and Tricks"
 
-    When two quantities are inversely proportional, it means that as one increases, the other decreases by a proportional amount
+    When two quantities are inversely proportional, it means that as one increases, the other decreases by a proportional amount: if one is doubled, the other is halved; if one is decreased by a factor of 4, the other is increased by a factor of 4.
 
-    * If one is doubled, the other is halved
-
-    * If one is decreased by a factor of 4, the other is increased by a factor of 4
-
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     A tennis ball hits a racket twice, with a change in momentum of 0.5 kg m/s both times.
 
@@ -296,7 +183,7 @@ $$F = \frac{(mv - mu)}{t}$$
 
     ![Diagram showing two tennis rackets hitting balls. Case 1: t = 2s. Case 2: t = 0.1s.](../assets/images/page_79_image_1_v2.jpg)
 
-    ??? note "Answer:"
+    ??? success "Answer:"
 
         **Step 1: List the known quantities**
 
@@ -306,7 +193,7 @@ $$F = \frac{(mv - mu)}{t}$$
 
         * Contact time of second hit, $t_2 = 0.1 \text{ s}$
 
-        **Step 1: Calculate the force during the first hit**
+        **Step 2: Calculate the force during the first hit**
 
         $$F_1 = \frac{\Delta p}{t_1}$$
 
@@ -314,8 +201,7 @@ $$F = \frac{(mv - mu)}{t}$$
 
         $$ F_1 = 0.25\text{ N} $$
 
-        **Step 2: Calculate the force during the second hit**
-
+        **Step 3: Calculate the force during the second hit**
 
         $$ F_2 = \frac{\Delta p}{t_2} $$
 
@@ -323,17 +209,17 @@ $$F = \frac{(mv - mu)}{t}$$
 
         $$ F_2 = 5.0\text{ N} $$
 
-        **Step 3: State your answer**
+        **Step 4: State your answer**
 
-        * The tennis racket experiences the greatest force from the ball during the **second hit**
+        The tennis racket experiences the greatest force from the ball during the **second hit**.
 
-!!! example "Worked Example"
+!!! example "Worked Example (calculation)"
 
     A car of mass 1500 kg hits a wall at an initial velocity of 15 m/s and rebounds with a velocity of 5 m/s. The car is in contact with the wall for 3 seconds.
 
     Calculate the average force experienced by the car and state the direction of the force.
 
-    ??? note "Answer:"
+    ??? success "Answer:"
 
         **Step 1: List the known quantities and assign direction**
 
@@ -347,11 +233,7 @@ $$F = \frac{(mv - mu)}{t}$$
 
         **Step 2: Draw a diagram of the collision**
 
-        * The diagram should include:
-
-            - The velocity before and after the collision
-
-            - The direction of motion before and after the collision
+        The diagram should include the velocity before and after the collision, and the direction of motion before and after the collision.
 
         <table>
         <thead>
@@ -375,23 +257,15 @@ $$F = \frac{(mv - mu)}{t}$$
         </tbody>
         </table>
 
-        * In momentum questions , a positive direction is always chosen
-
-            * Here, right is chosen as the positive direction
-
-            * This means final velocity, which is in the left direction, must be negative
+        In momentum questions, a positive direction is always chosen — here, right is chosen as the positive direction, so the final velocity, which is in the left direction, must be negative.
 
         **Step 3: Write out the force and momentum equation**
 
-        * Recall that force is change in momentum over time
+        Recall that force is change in momentum over time:
 
         $$ F = \frac{\Delta p}{t} = \frac{p_f - p_i}{t} $$
 
-        * Momentum is mass $\times$ velocity
-
-            * Initial momentum is mass $\times$ initial velocity, $u$
-
-            * Final momentum is mass $\times$ final velocity, $v$
+        Momentum is mass $\times$ velocity: initial momentum is mass $\times$ initial velocity, $u$, and final momentum is mass $\times$ final velocity, $v$.
 
         $$ p_f = mv \text{ and } p_i = mu $$
 
@@ -407,46 +281,32 @@ $$F = \frac{(mv - mu)}{t}$$
 
         $$ F = -10\ 000\text{ N} $$
 
-        * The minus sign means the direction of the force is to the left (or in the opposite direction to the car's initial motion)
+        The minus sign means the direction of the force is to the left (or in the opposite direction to the car's initial motion).
 
 ## Newton's third law
 
-* **Newton's third law** of motion describes the effects of the **forces** involved when **two different objects** interact with one another
+**Newton's third law** of motion describes the effects of the **forces** involved when **two different objects** interact with one another — this is different to Newton's first and second laws, which describe the effects of forces acting on a **single object**.
 
-* This is different to Newton's first and second laws, which describe the effects of forces acting on a **single object**
+!!! abstract "Principle: Newton's third law of motion"
+    Whenever two objects interact, the forces they exert on each other are equal in magnitude and opposite in direction.
 
-* **Newton's third law of motion** can be defined as follows:
-
-> **Whenever two objects interact, the forces they exert on each other are equal in magnitude and opposite in direction**
-
-* Newton's third law explains the forces that enable someone to walk
-
-    - The **foot** and the **ground** are the **two objects interacting**
-
-    - The **foot** exerts a push force on the **ground**
-
-    - The **ground** exerts a push force on the **foot**
-
-    - The forces are **equal** in **magnitude** and **opposite** in **direction**
-
-**Newton's third law of motion applied to walking**
+Newton's third law explains the forces that enable someone to walk: the **foot** and the **ground** are the **two objects interacting** — the **foot** exerts a push force on the **ground**, and the **ground** exerts a push force on the **foot**, with the forces **equal** in **magnitude** and **opposite** in **direction**.
 
 ![Diagram showing a foot in a shoe pushing against the ground. A green arrow labeled 'F' points forward from the foot with a label 'FORCE ON FOOT FROM THE GROUND'. A red arrow labeled 'F' points backward from the ground with a label 'FORCE ON GROUND FROM FOOT'. A text box at the bottom states: THE FOOT EXERTS A FORCE ON THE GROUND AND THE GROUND EXERTS AN EQUAL AND OPPOSITE FORCE ON THE FOOT.](../assets/images/page_82_image_2_v2.jpg)
 
 *The foot pushes the ground backwards, and the ground pushes the foot forwards. Newton's third law explains the forces that enable people to walk*
 
-* Use the following **three rules** to help you identify a **third law pair**:
+Use the following **three rules** to help you identify a **third law pair**:
 
 1. The two forces in a third law pair act on **different objects**
 
-2. The two forces in a third law pair **always** are equal in size but act in opposite direction
-
+2. The two forces in a third law pair **always** are equal in size but act in opposite directions
 
 3. The two forces are always the **same type**: weight, reaction force, etc.
 
-* If you are struggling to name the force, just describe it as a push or pull force
+If you are struggling to name the force, just describe it as a push or pull force.
 
-!!! example "Worked Example"
+!!! example "Worked Example (explanation): identifying Newton's third law"
 
     A physics textbook is at rest on a table. Student A draws a free body force diagram for the book and labels the forces acting on it as weight and reaction force.
 
@@ -456,161 +316,65 @@ $$F = \frac{(mv - mu)}{t}$$
 
     By referring to the vector diagram, state and explain who is correct.
 
-    ??? "Answer:"
+    ??? success "Model answer:"
 
         **Step 1: Identify the forces and objects involved**
 
-        * The gravitational pull of the Earth acts downwards on the book (weight) and the push force of the table acts upwards on the book (normal contact force)
+        The gravitational pull of the Earth acts downwards on the book (weight) and the push force of the table acts upwards on the book (normal contact force).
 
         **Step 2: State Newton's third law of motion**
 
-        * Whenever two objects interact, the forces they exert on each other are equal in magnitude and opposite in direction
+        Whenever two objects interact, the forces they exert on each other are equal in magnitude and opposite in direction.
 
         **Step 3: Check if the diagram satisfies the two conditions for identifying Newton's third law**
 
-        * Newton's third law identifies pairs of equal and opposite forces, of the same type, acting on two different objects
-
-        * In this example:
-
-            - both forces are acting on the book
-
-            - the forces acting on the book are different forces: normal contact force and weight
-
-            - the image below shows how to apply Newton's third law correctly in this case, considering the pairs of forces acting:
-
+        Newton's third law identifies pairs of equal and opposite forces, of the same type, acting on two different objects. In this example, both forces are acting on the book, and the forces acting on the book are different forces: normal contact force and weight. The image below shows how to apply Newton's third law correctly in this case, considering the pairs of forces acting:
 
         ![Diagram showing Newton's third law pairs for a book on a table and the Earth. The left side shows the gravitational interaction between the Earth and the book: "THE EARTH PULLS ON THE BOOK AND THE BOOK PULLS ON THE EARTH. THIS FORCE PAIR IS GRAVITATIONAL". The right side shows the contact forces between the book and the table: "THE TABLE PUSHES UPWARD ON THE BOOK AND THE BOOK PUSHES DOWNWARD ON THE TABLE. THIS IS A PAIR OF CONTACT FORCES".](../assets/images/page_84_image_3_v2.jpg)
 
-        * The third law pairs in this scenario would be:
+        The third law pairs in this scenario would be the gravitational pull of the Earth on the book (weight), and the gravitational pull of the book on the Earth (weight) — both forces are the same type (weight), and both forces are equal and opposite.
 
-            - The gravitational pull of the Earth on the book (weight) and the gravitational pull of the book on the Earth (weight)
-
-            - Both forces are the same type (weight)
-
-            - Both forces are equal and opposite
-
-        * The arrows in the vector diagram of the book on the table are equal and opposite which is where lots of students get confused
-
-            - This is because the forces are balanced
-
-            - But the forces are both acting on the book (one object)
-
-            - Remember that Newton's third law describes **two different objects** interacting
+        The arrows in the vector diagram of the book on the table are equal and opposite, which is where lots of students get confused — this is because the forces are balanced, but the forces are both acting on the book (one object). Remember that Newton's third law describes **two different objects** interacting.
 
         **Step 4: Conclude who is correct**
 
-        * In this case, **Student B is correct**
+        In this case, **Student B is correct**. The vector diagram in the question is an example of Newton's first law: in the vector diagram of the book on the table, both forces are acting on one object, and the forces are not the same type.
 
-            - The vector diagram in the question is an example of Newton's first law
+According to **Newton's third law**, when two objects collide, both objects will react, generally causing one object to speed up (gain momentum) and the other object to slow down (lose momentum).
 
-            - In the vector diagram of the book on the table, both forces are acting on one object and the forces are not the same type
-
-
-* According to **Newton's Third Law**:
-
-* When two objects collide, both objects will react, generally causing one object to speed up (gain momentum) and the other object to slow down (lose momentum)
-
-** Newton's third law applied to a collision**
+**Newton's third law applied to a collision**
 
 ![Diagram showing two trolleys, A and B, colliding with a spring between them. Trolley A has a force vector F<sub>B-A</sub> pointing left, and Trolley B has a force vector F<sub>A-B</sub> pointing right.](../assets/images/page_85_image_6_v2.jpg)
 
-
 **The force of Trolley A on Trolley B is equal and opposite to the force of Trolley B on Trolley A**
 
-* Consider the collision between two trolleys, **A** and **B**:
-
-    - When trolley **A** exerts a force on trolley **B**, trolley **B** will exert an equal force on trolley **A** in the opposite direction
-
-* In this case:
+Consider the collision between two trolleys, **A** and **B**: when trolley **A** exerts a force on trolley **B**, trolley **B** will exert an equal force on trolley **A** in the opposite direction. In this case:
 
 $$F_{B-A} = -F_{A-B}$$
 
-* While the forces are equal in magnitude and opposite in direction, the accelerations of the objects are not necessarily equal in magnitude
-
-* From $F = ma$, acceleration depends upon both force and mass, this means:
-
-    - For objects of equal mass, they will have equal accelerations
-
-    - For objects of unequal mass, they will have unequal accelerations
+While the forces are equal in magnitude and opposite in direction, the accelerations of the objects are not necessarily equal in magnitude. From $F = ma$, acceleration depends upon both force and mass — this means that for objects of equal mass, they will have equal accelerations, and for objects of unequal mass, they will have unequal accelerations.
 
 !!! tip "Examiner Tips and Tricks"
 
     Remember that pairs of equal and opposite forces in Newton's third law act on **two different objects**. It's a really common mistake to confuse Newton's third law with Newton's first law, so applying this check will help you distinguish between them. Newton's first law involves forces acting on a **single** object.
 
-    These differences are shown in Scenario 1 (Newton's first law) vs. Scenario 2 (Newton's third law)
-
-    SCENARIO 1:
-
-    NOT A NEWTON'S THIRD LAW PAIR SINCE BOTH FORCES ARE ACTING ON THE **SAME** OBJECT - THE BOOK
-
-    FROM NEWTON'S 1<sup>st</sup> LAW, SINCE THE BOOK IS STATIONARY, THE FORCES ON IT MUST BE IN EQUILIBRIUM
-
-    $\rightarrow$ $F_N = -F_g$
+    These differences are shown in two scenarios below. In the first (not a Newton's third law pair, since both forces act on the *same* object, the book), the book is stationary, so by Newton's first law, the forces on it must be in equilibrium: $F_N = -F_g$.
 
     ![Diagram of a book on a table with normal force (Fn) pointing up and gravitational force (Fg) pointing down](../assets/images/page_86_image_4_v2.jpg)
 
-    SCENARIO 2:
+    In the second (these *are* Newton's third law pairs, since both forces act on *different* objects), $F_{BE}$ is the upwards force of gravity caused by the book on the Earth, $F_{EB}$ is the downwards force of gravity caused by the Earth on the book, $F_{GP}$ is the force exerted by the ground on the person, pushing them forward whilst walking, and $F_{PG}$ is the force exerted by the person on the ground.
 
-    THESE ARE NEWTON'S THIRD LAW PAIRS SINCE BOTH FORCES ARE ACTING ON DIFFERENT OBJECTS
+    ![Diagram of Earth and a book with force vectors Fbe and Feb, alongside a diagram of a foot walking on ground with force vectors Fpg and Fgp](../assets/images/page_86_chart_1_v2.jpg)
 
-    F<sub>BE</sub> IS THE UPWARDS FORCE OF GRAVITY CAUSED BY THE BOOK ON THE EARTH
+## Momentum and safety features
 
-    ![Diagram of Earth and a book with force vectors Fbe and Feb](../assets/images/page_86_chart_1_v2.jpg)
-
-    F<sub>EB</sub> IS THE DOWNWARDS FORCE OF GRAVITY CAUSED BY THE EARTH ON THE BOOK
-
-    F<sub>GP</sub> IS THE FORCE EXERTED BY THE GROUND ON THE PERSON, PUSHING THEM FORWARD WHILST WALKING
-
-    F<sub>PG</sub> IS THE FORCE EXERTED BY THE PERSON ON THE GROUND
-
-    ![Diagram of a foot walking on ground with force vectors Fpg and Fgp](../assets/images/page_86_chart_1_v2.jpg)
-
-
-## Momentum & safety features
-
-* Since force is equal to the rate of change in momentum, the force of an impact in a vehicle collision can be decreased by **increasing the contact time** over which the collision occurs
-    
-
-    - The contact time is the time in which the person is in contact with what they have collided with
-
-* Therefore, **safety features** are created to reduce the impact of a force, such as in:
-    
-
-    - Vehicles
-    
-
-    - Playgrounds
-    
-
-    - Bicycle helmets
-    
-
-    - Gymnasium crashmats
+Since force is equal to the rate of change in momentum, the force of an impact in a vehicle collision can be decreased by **increasing the contact time** over which the collision occurs — the contact time is the time in which the person is in contact with what they have collided with. Therefore, **safety features** are created to reduce the impact of a force, such as in vehicles, playgrounds, bicycle helmets, and gymnasium crash mats.
 
 ### Safety features in vehicles
 
-* Vehicle safety features are designed to absorb energy upon an impact by changing **shape**
+Vehicle safety features are designed to absorb energy upon an impact by changing **shape**. The main vehicle safety features are **crumple zones**, **seat belts** and **airbags** — for a given force upon impact, these absorb the energy from the impact and increase the time over which the force takes place, which in turn increases the time taken for the change in momentum of the passenger and the vehicle to come to rest. The increased time reduces the force and risk of injury on a passenger.
 
-* The main vehicle safety features are **crumple zones**, **seat belts** and **airbags**
-    
-
-    - For a given force upon impact, these absorb the energy from the impact and increase the time over which the force takes place
-    
-
-    - This, in turn, increases the time taken for the change in momentum of the passenger and the vehicle to come to rest
-    
-
-    - The increased time reduces the force and risk of injury on a passenger
-
-* The usefulness of safety features depends on two main factors: **mass** and **velocity**
-
-* If the impact is from a large mass, for example, a truck travelling very fast and colliding with a wall, the momentum will be very large
-    
-
-    - The change in momentum (ie. from a high speed to rest) will also be very large
-    
-
-    - This means that a very **long** contact time is needed to reduce the force of impact
+The usefulness of safety features depends on two main factors: **mass** and **velocity**. If the impact is from a large mass, for example, a truck travelling very fast and colliding with a wall, the momentum will be very large, and the change in momentum (i.e. from a high speed to rest) will also be very large — this means that a very **long** contact time is needed to reduce the force of impact.
 
 **Safety features on a car**
 
@@ -618,37 +382,15 @@ $$F_{B-A} = -F_{A-B}$$
 
 *The seat belt, airbag and crumple zones help reduce the risk of injury on a passenger*
 
-* **Seat belts**
+**Seat belts** are designed to stop a passenger from colliding with the interior of a vehicle by keeping them fixed to their seat in an abrupt stop — they are designed to stretch slightly to increase the time for the passenger's momentum to reach zero and reduce the force on them in a collision.
 
-    * These are designed to stop a passenger from colliding with the interior of a vehicle by keeping them fixed to their seat in an abrupt stop
+**Airbags** are deployed at the front on the dashboard and steering wheel when a collision occurs, and act as a soft cushion to prevent injury on the passenger when they are thrown forward upon impact.
 
-    * They are designed to stretch slightly to increase the time for the passenger’s momentum to reach zero and reduce the force on them in a collision
-
-* **Airbags**
-
-    * These are deployed at the front on the dashboard and steering wheel when a collision occurs
-
-    * They act as a soft cushion to prevent injury on the passenger when they are thrown forward upon impact
-
-* **Crumple zones**
-
-    * These are designed into the exterior of vehicles
-
-    * They are at the front and back and are designed to crush or crumple in a controlled way in a collision
-
-    * This is why vehicles after a collision look more heavily damaged than expected, even for relatively small collisions
-
-    * The crumple zones increase the time over which the vehicle comes to rest, **lowering the impact force** on the passengers
+**Crumple zones** are designed into the exterior of vehicles, at the front and back, and are designed to crush or crumple in a controlled way in a collision — this is why vehicles after a collision look more heavily damaged than expected, even for relatively small collisions. The crumple zones increase the time over which the vehicle comes to rest, **lowering the impact force** on the passengers.
 
 ### Crash mats
 
-* Crash mats used in gymnasiums help reduce the risk of injury for falls in gymnastics and climbing
-
-    * They are thick and soft to offer shock absorption of the force created by the person landing on the mat
-
-* When a person lands on a crash mat with a large force, for example, after jumping, the soft landing means their body is in contact with the mat for a longer period of time than if it were otherwise not there 
-
-* This **increases** the **contact time** over which their momentum is reduced, creating a **smaller impact force** and a lower chance of injury
+Crash mats used in gymnasiums help reduce the risk of injury for falls in gymnastics and climbing — they are thick and soft to offer shock absorption of the force created by the person landing on the mat. When a person lands on a crash mat with a large force, for example, after jumping, the soft landing means their body is in contact with the mat for a longer period of time than if it were otherwise not there. This **increases** the **contact time** over which their momentum is reduced, creating a **smaller impact force** and a lower chance of injury.
 
 **Climber using a crash mat**
 
@@ -656,14 +398,6 @@ $$F_{B-A} = -F_{A-B}$$
 
 ***A bouldering mat is a type of crash mat used to reduce the chance of injury in falls whilst climbing***
 
-* In a similar way, playgrounds utilise cushioned surfaces as children will often fall onto these with a large force
+In a similar way, playgrounds utilise cushioned surfaces, as children will often fall onto these with a large force — the cushioned surface reduces the risk of a severe injury by increasing their **contact time** with the ground. Meanwhile, a child in a gymnasium can use a thinner crash mat than an adult due to having a lower mass. This is the same for activities where a person or adult will fall with a low velocity, such as falling from lower heights — therefore, thin crash mats are suitable for low-impact activities.
 
-    - The cushioned surface reduces the risk of a severe injury by increasing their **contact time** with the ground
-
-* Meanwhile, a child in a gymnasium can use a thinner crash mat than an adult due to having a lower mass
-
-* This is the same for activities where a person/adult will fall with a low velocity such as falling from lower heights
-
-    - Therefore, thin crash mats are suitable for low-impact activities
-
-* Safety features are intended to **reduce** the chance of serious injury but do not completely prevent it in all cases
+Safety features are intended to **reduce** the chance of serious injury but do not completely prevent it in all cases.

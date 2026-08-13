@@ -152,7 +152,7 @@ This equation shows that spreading a given force over a **large** area results i
             A knee pad increases the area of contact between the knee and the ground. For the same force of impact, spreading it over this larger area results in a lower pressure on the knee, reducing the risk of injury.
 
 !!! tip "Examiner Tips and Tricks"
-    Airbags and knee pads can equally well be explained through **momentum**: increasing the *time* over which the collision happens reduces the *force* for the same change in momentum — see [Momentum & safety features](../Unit%201/1_4_momentum-and-collisions.md#momentum-safety-features). This is a genuinely different explanation from the pressure one above, not just a rephrasing of it. Exam questions on this topic usually ask for one explanation or the other — answer the one that's actually being asked for, rather than combining both.
+    Airbags and knee pads can equally well be explained through **momentum**: increasing the *time* over which the collision happens reduces the *force* for the same change in momentum — see [Momentum and safety features](../Unit%201/1_4_momentum-and-collisions.md#momentum-and-safety-features). This is a genuinely different explanation from the pressure one above, not just a rephrasing of it. Exam questions on this topic usually ask for one explanation or the other — answer the one that's actually being asked for, rather than combining both.
 
 !!! warning "Warning:"
     Momentum also uses the symbol $p$ (momentum $p = mv$) — a different quantity from pressure, which also uses $p$. The airbag and knee pad examples above can be explained through either quantity, so keep track of which $p$ is meant from context.

@@ -2,37 +2,32 @@
 
 ## General considerations
 
-### measuring time
- TODO
+### Measuring time
 
-### measuring speed
-TODO
+Time is usually measured with a **stopwatch**, which has a resolution of around 0.01 s. In practice, however, a stopwatch's accuracy is limited by **human reaction time** (roughly 0.2–0.3 s) when starting and stopping it by hand — this matters most when timing short intervals, where the reaction-time error makes up a large fraction of the measured time. For fast or short-duration motion, a **light gate** connected to a data logger removes this source of error, since the timer starts and stops automatically as the object passes the sensor.
 
-### measuring acceleration
-TODO
+### Measuring speed
+
+Speed cannot be measured directly — it is calculated from a measurement of distance moved and time taken, using $\text{speed} = \frac{\text{distance}}{\text{time}}$. For everyday objects moving over a measurable distance, a tape measure or metre rule and a stopwatch are usually sufficient. For faster or more precise measurements, a **light gate** can record the time taken for an object to pass through the beam.
+
+!!! note "Practical skill: using a light gate to measure speed"
+    A light gate detects when an object interrupts an infrared beam, and a connected data logger records how long the beam stays interrupted. If the length of the object passing through the beam is known (e.g. the width of a card attached to a toy car), the speed of the object as it passes through the gate can be calculated: $\text{speed} = \frac{\text{length of interrupting card}}{\text{time beam is interrupted}}$.
+
+### Measuring acceleration
+
+Acceleration is calculated from two velocity measurements and the time between them, using $a = \frac{v - u}{t}$. This can be done using **two light gates** placed a known distance apart on a slope or track: an object (e.g. a toy car with an interrupt card attached) passes through each gate in turn, giving a velocity reading at each gate, and a data logger records the time taken to travel between them.
 
 ## Core practical 1: investigating motion
-TODO
 
 ### Aim of the experiment
 
-* The aim of this experiment is to investigate the motion of some everyday objects, by measuring their speed
-
-* Examples of objects that could be used are:
-
-    * a **paper cone**
-
-    * a **tennis ball**
-
-* Measuring speed **directly** is difficult to do; therefore, by measuring distance moved and time taken, the average speed of the object can be calculated
-
-* This is just one method of measuring the speed of different objects - some methods involve the use of light gates to measure speed and acceleration, e.g. for a **toy car** moving down a slope
+The aim of this experiment is to investigate the motion of some everyday objects, by measuring their speed. Examples of objects that could be used are a **paper cone** or a **tennis ball**. Measuring speed **directly** is difficult to do; therefore, by measuring distance moved and time taken, the average speed of the object can be calculated. This is just one method of measuring the speed of different objects — some methods involve the use of light gates to measure speed and acceleration, e.g. for a **toy car** moving down a slope.
 
 ### Variables
 
-* Independent variable = Distance, *d*
+* **Independent variable** = Distance, *d*
 
-* Dependent variable = Time, *t*
+* **Dependent variable** = Time, *t*
 
 * Control variables:
 
@@ -63,16 +58,15 @@ TODO
   </tbody>
 </table>
 
-* Resolution of measuring equipment:
+**Resolution** of measuring equipment:
 
-    * Ruler = 1 mm
+* Ruler = 1 mm
 
-    * Stop clock = 0.01 s
+* Stop clock = 0.01 s
 
 ### Method
 
 ![Diagram showing the experimental setup for investigating the motion of a falling paper cone. It includes a tape measure, a paper cone held at a height, a stop clock, and a vertical arrow indicating distance, d.](../assets/images/page_13_image_1_v2.jpg)
-
 
 ***Investigating the motion of a falling paper cone***
 
@@ -123,45 +117,22 @@ TODO
 
 ### Analysis of results
 
-* The average speed of the falling object can be calculated using the equation:
+The average speed of the falling object can be calculated using the equation:
 
 $$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
 
-* Where:
-
-    - Average speed is measured in metres per second (m/s)
-
-    - Distance moved is measured in metres (m)
-
-    - Time taken is measured in seconds (s)
-
-* Therefore, calculate the average speed at each distance by dividing the distance by the average time taken
+Where average speed is measured in metres per second (m/s), distance moved is measured in metres (m), and time taken is measured in seconds (s). Therefore, calculate the average speed at each distance by dividing the distance by the average time taken.
 
 ### Evaluating the experiment
 
 #### Systematic errors
 
-* Make sure the measurements on the tape measure or metre rule are taken at eye level to avoid **parallax error**
-
-* The average human reaction time is 0.25 s, which is equivalent to half a second per when starting and stopping the timer
-
-    - This is likely to be significant when small intervals of time are measured
-
-    - To reduce this systematic error, larger distances could be used resulting in larger time intervals
-
-    - Using a **ball bearing** and an **electronic data logger**, like a trap door, is a good way to remove the error due to human **reaction time** for this experiment
-
-* Consider using an electronic sensor, such as light gates, to obtain highly accurate measurements of time
-
-* The timer on a light gate starts and stops automatically as it passes the sensors positioned at the start and stop points
-
+Make sure the measurements on the tape measure or metre rule are taken at eye level to avoid **parallax error**. The average human reaction time is 0.25 s, which is equivalent to half a second per when starting and stopping the timer — this is likely to be significant when small intervals of time are measured. To reduce this systematic error, larger distances could be used resulting in larger time intervals. Using a **ball bearing** and an **electronic data logger**, like a trap door, is a good way to remove the error due to human **reaction time** for this experiment. Consider using an electronic sensor, such as light gates, to obtain highly accurate measurements of time — the timer on a light gate starts and stops automatically as it passes the sensors positioned at the start and stop points.
 
 #### Random errors
 
-* Ensure the experiment is done in a space with no draft or breeze, as this could affect the motion of the falling object
+Ensure the experiment is done in a space with no draft or breeze, as this could affect the motion of the falling object.
 
 #### Safety considerations
 
-* Place a mat or a soft material below any falling object to cushion its fall
-
-
+Place a mat or a soft material below any falling object to cushion its fall.

@@ -19,11 +19,11 @@ hide:
 
 ## 1.2 Explaining Motion
 
-- [Explaining motion](1_2_explaining-motion.md) — Newton's laws, contact and non-contact forces, combining forces, Newton's second law, stopping distance, terminal velocity
+- [Explaining motion](1_2_explaining-motion.md) — Newton's laws, contact and non-contact forces, combining forces, Newton's second law
 
 ## 1.3 Applications
 
-- [Applications](1_3_applications.md) — *not yet written*
+- [Applications](1_3_applications.md) — stopping distance, terminal velocity
 
 ## 1.4 Momentum and Collisions
 
@@ -31,7 +31,7 @@ hide:
 
 ## 1.5 Stretching Effect of Forces
 
-- [Stretching effect of forces](1_5_stretching-effect-of-forces.md) — Core practical 2: force and extension, elastic behaviour
+- [Stretching effect of forces](1_5_stretching-effect-of-forces.md) — Core practical 2: force and extension, Hooke's law, elastic behaviour
 
 ## 1.6 Turning Effect of Forces
 

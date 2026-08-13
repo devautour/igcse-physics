@@ -516,3 +516,98 @@ Ideas to revisit later — not implemented now.
   symbols), and `2_2_4_analysing-simple-circuits.md`'s potential-dividers
   and analysing-changes-in-a-circuit sections (both were bare `## heading`
   + the word "TODO" with no content at all).
+- 2026-08-13: acted on the two `2_2_4_analysing-simple-circuits.md` TODOs
+  logged above. **Potential dividers**: added a Definition, the potential
+  divider equation as a Required formulae block (no nested formula
+  triangle — matches the existing precedent that ratio-style equations
+  like `6_4_transformers.md`'s transformer equation don't get one), a
+  calculation worked example, and a "Sensing circuits" sub-section
+  explaining the thermistor/LDR/variable-resistor variant (checked
+  `reference/spec_points.md` first: 4PH1 never names "potential divider"
+  as such, but 2.19's "calculate the currents, voltages and resistances of
+  two resistive components connected in a series circuit" is exactly this
+  circuit, so it's core content, not a Beyond-spec aside). Drew a new
+  circuit diagram from scratch (`potential_divider_circuit.svg`) since no
+  source asset covered it — a step up in complexity from the earlier
+  formula-triangle SVGs (resistor zigzags, a battery symbol, a dashed
+  $V_{out}$ tap) but still a simple labelled schematic rather than
+  something needing real illustrative detail, so judged to still fit that
+  convention; verified by rendering via `mkdocs serve` and screenshotting,
+  not just a clean build. **Analysing changes in a circuit**: covered the
+  series case (current changes everywhere, since it's the same at every
+  point in the loop; the changed component's own voltage moves opposite to
+  the unchanged components', via the same potential-divider reasoning) and
+  the parallel case (branch voltages are unaffected since they're pinned
+  to the supply; only the affected branch's current and the total supply
+  current change) as prose, each backed by its own worked example — a
+  Worked example (method) for the series case (LDR + fixed resistor, light
+  increasing) and a Worked example (explanation) for the parallel case
+  (thermistor + lamp branches, temperature increasing) — deliberately
+  different types so the two worked examples don't duplicate each other's
+  structure. `mkdocs build` is clean (zero warnings) after this pass.
+- 2026-08-13: rewrote all of Unit 1 (`1_1_1`–`1_6`), the unit the course
+  actually opens with. Two files (`1_2_explaining-motion.md` and
+  `1_3_applications.md`) arrived already mid-restructure — the user had
+  manually cut the stopping-distance/terminal-velocity content out of
+  `1_2` and moved it into a new `1_3_applications.md`, matching a split
+  `index.md` already described but the file hadn't caught up to (it still
+  said "*not yet written*" for 1.3) — continued that structure rather than
+  treating it as unrelated in-progress work, and updated `index.md`'s
+  descriptions for both pages to match. Filled several real content gaps
+  discovered via `reference/spec_points.md`, not just prose/bug fixes:
+  Newton's first law was never actually stated anywhere on the site (only
+  referenced in passing) — added it as a Principle, with the second and
+  third laws (covered elsewhere on the same page / in `1_4`) cross-linked
+  rather than repeated; `1_5_stretching-effect-of-forces.md` covered the
+  Core practical and elastic behaviour but skipped spec point 1.23
+  entirely (Hooke's law / the linear region of a force-extension graph) —
+  added a Hooke's law section between the two; and confirmed via
+  `spec_points.md` that acceleration-time graphs are *not* in 4PH1 at all
+  (only distance-time and velocity-time are, 1.3–1.9), so
+  `1_1_3_motion-graphs.md`'s acceleration-time-graph TODO became a
+  Beyond-spec aside instead of a full section — a case of the spec check
+  ruling *out* content rather than justifying it, which hadn't come up
+  before. Small compact TODOs (measuring time/speed/acceleration in
+  `1_1_2_investigating-motion.md`, nuclear forces and lift in `1_2`) were
+  written inline as usual; nuclear forces turned out to not be a named
+  4PH1 force type at all (`1.12` just gives gravitational/electrostatic as
+  *examples* of an open list), so it was written as a same-length sibling
+  to the other forces-at-a-distance subsections rather than flagged as
+  beyond-spec. Found a new diagram gap distinct from the
+  broken/non-existent-image-reference pattern: `1_1_3_motion-graphs.md`
+  had **no image asset at all** for four basic distance-time/velocity-time
+  illustrations (constant-vs-changing slope, increasing-vs-decreasing
+  velocity, the three-phase accel/constant/decel graph) — they'd been
+  represented as fake data tables standing in for a chart, and one
+  (changing-speed curves) had a caption with no image tag above it at all.
+  Drew all four as simple axis-and-line SVGs rather than flagging as a
+  follow-up, since (like the formula triangles and the potential-divider
+  circuit before them) they're simple enough to draw directly — judgement
+  call on where that complexity line sits keeps coming up, worth watching
+  for a case that finally lands the other side of it. Found the tab
+  system's worst breakage yet in `1_5_stretching-effect-of-forces.md`:
+  `=== "rubber band"` and `=== "wire"` were nested *inside* the `"spring"`
+  tab (wrong indentation), silently swallowing rubber band's entire
+  results table — reconstructed the tab structure properly, and since no
+  distinct rubber band data existed in the source at all, gave it the same
+  table shape as spring's (matches the Analysis section's own description
+  of the two as using identical methodology) rather than inventing
+  different numbers. Also fixed a reused-image bug distinct from the
+  same-image-for-different-table-rows pattern seen before: `1_4`'s
+  Newton's-third-law tip referenced `page_86_chart_1_v2.jpg` twice with
+  two different alt-text descriptions (Earth/book pair, then foot/ground
+  pair) — merged into one reference with combined alt text, on the theory
+  that it's one diagram showing both pairs together, not two separate lost
+  images. Renaming `1_4`'s "Momentum & Safety Features" heading to
+  sentence-case ("Momentum and safety features") broke an existing
+  cross-file anchor link from `5_1_2_pressure.md` — first time a heading
+  edit *in this unit* actually broke something elsewhere rather than just
+  being a risk in theory; fixed the link rather than reverting the
+  heading, and it's a concrete reminder of why the filename/nav-untouched
+  principle above exists (anchors are exactly this fragile, just for
+  in-page links instead of nav paths). Both `2_2_3`/`2_2_4` follow-up
+  tasks spawned during the Units 2–4 pass (circuit-symbol legend SVGs,
+  potential-divider content) completed in the background during this
+  pass — their own change-log entries are above, out of chronological
+  order, since they landed mid-session. `mkdocs build` is clean (zero
+  warnings) across the whole site after this pass.
