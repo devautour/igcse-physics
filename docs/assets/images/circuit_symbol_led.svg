@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 160 70" width="160" height="70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Light-emitting diode (LED)">
+  <title>Light-emitting diode (LED)</title>
+  <line x1="0" y1="35" x2="60" y2="35" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="60,18 60,52 96,35" stroke="#333333" stroke-width="2.5" fill="none"/>
+  <line x1="96" y1="18" x2="96" y2="52" stroke="#333333" stroke-width="3" stroke-linecap="round"/>
+  <line x1="96" y1="35" x2="160" y2="35" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="15" x2="92" y2="1" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+  <polyline points="90.2,7.8 92,1 85.2,2.8" stroke="#333333" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="90" y1="15" x2="104" y2="1" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+  <polyline points="102.2,7.8 104,1 97.2,2.8" stroke="#333333" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

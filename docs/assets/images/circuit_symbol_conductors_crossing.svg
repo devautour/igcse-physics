@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 160 70" width="160" height="70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Conductors crossing with no connection">
+  <title>Conductors crossing with no connection</title>
+  <line x1="0" y1="35" x2="160" y2="35" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="80" y1="5" x2="80" y2="65" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -129,7 +129,7 @@ A fuse is a safety device designed to **cut off** the flow of electricity to an 
 
 **Fuse circuit symbol**
 
-![Fuse circuit symbol](../assets/images/page_157_image_2_v2.jpg)
+![Fuse circuit symbol](../assets/images/circuit_symbol_fuse.svg)
 
 *The circuit symbol for a fuse – take care not to confuse this with a resistor*
 

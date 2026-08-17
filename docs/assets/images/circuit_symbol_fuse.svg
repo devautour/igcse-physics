@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 160 70" width="160" height="70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fuse or circuit breaker">
+  <title>Fuse or circuit breaker</title>
+  <line x1="0" y1="35" x2="160" y2="35" stroke="#333333" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="58" y="22" width="44" height="26" stroke="#333333" stroke-width="2.5" fill="none"/>
+</svg>

@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "mkdocs",
-      "runtimeExecutable": "conda",
+      "runtimeExecutable": "C:\\Users\\Martin\\anaconda3\\Scripts\\conda.exe",
       "runtimeArgs": ["run", "-n", "igcse-physics", "mkdocs", "serve"],
       "port": 8000
     }

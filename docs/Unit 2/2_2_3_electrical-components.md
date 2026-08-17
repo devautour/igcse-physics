@@ -4,9 +4,62 @@
 
 ### Symbols
 
-Here is a list of all the circuit symbols you need to know for your exam:
+Circuit diagrams are drawn using standard symbols rather than pictures of the real components, so that anyone can read them regardless of what the components actually look like. Below is the full list of circuit symbols you need to know for your exam, as specified by the exam board (Appendix 8 of the specification, extracted in `reference/circuit_symbols.md`).
 
-<!-- TODO: this symbol legend is currently broken — every row references one of two image files (page_152_image_3_v2.jpg, page_152_table_2_v2.jpg) that don't exist in docs/assets/images/, so no row shows a real symbol. Needs a proper circuit-symbol legend (e.g. drawn as SVGs, one per symbol: cell, battery, power supply, D.C./A.C. supply, fixed/variable resistor, thermistor, LDR, heater, potential divider, transformer, magnetising coil, switch, earth, junction, crossing wires, lamp, motor, generator, ammeter, voltmeter, diode, LED, fuse, relay coil, electric bell, microphone, loudspeaker). -->
+!!! tip "Examiner Tips and Tricks"
+    Many of these symbols are very similar, with small differences denoting what they do: two arrows pointing **towards** a symbol mean that it is **light-dependent** (e.g. the LDR), while two arrows pointing **away** from a symbol mean that it is **light-emitting** (e.g. the LED). Symbols are sometimes drawn with circles around them (e.g. meters and the lamp) — these circles are compulsory, unlike some circles you may see used elsewhere.
+
+=== "Power"
+
+    | Description | Symbol |
+    | :--- | :---: |
+    | Cell | ![Cell](../assets/images/circuit_symbol_cell.svg) |
+    | Battery of cells | ![Battery of cells](../assets/images/circuit_symbol_battery.svg) |
+    | Power supply (D.C.) | ![Power supply (DC)](../assets/images/circuit_symbol_supply_dc.svg) |
+    | Power supply (A.C.) | ![Power supply (AC)](../assets/images/circuit_symbol_supply_ac.svg) |
+    | Transformer | ![Transformer](../assets/images/circuit_symbol_transformer.png) |
+
+=== "Connections"
+
+    | Description | Symbol |
+    | :--- | :---: |
+    | Conductors crossing with no connection | ![Conductors crossing with no connection](../assets/images/circuit_symbol_conductors_crossing.svg) |
+    | Junction of conductors | ![Junction of conductors](../assets/images/circuit_symbol_junction.svg) |
+    | Open switch | ![Open switch](../assets/images/circuit_symbol_switch_open.svg) |
+    | Earth or ground | ![Earth or ground](../assets/images/circuit_symbol_earth.svg) |
+    | Fuse/circuit breaker | ![Fuse or circuit breaker](../assets/images/circuit_symbol_fuse.svg) |
+
+=== "Resistors"
+
+    | Description | Symbol |
+    | :--- | :---: |
+    | Fixed resistor | ![Fixed resistor](../assets/images/circuit_symbol_resistor_fixed.svg) |
+    | Variable resistor | ![Variable resistor](../assets/images/circuit_symbol_resistor_variable.svg) |
+    | Heater | ![Heater](../assets/images/circuit_symbol_heater.svg) |
+    | Thermistor | ![Thermistor](../assets/images/circuit_symbol_thermistor.svg) |
+    | Light-dependent resistor (LDR) | ![Light-dependent resistor](../assets/images/circuit_symbol_ldr.svg) |
+
+=== "Meters"
+
+    | Description | Symbol |
+    | :--- | :---: |
+    | Ammeter | ![Ammeter](../assets/images/circuit_symbol_ammeter.svg) |
+    | Voltmeter | ![Voltmeter](../assets/images/circuit_symbol_voltmeter.svg) |
+    | Motor | ![Motor](../assets/images/circuit_symbol_motor.svg) |
+    | Generator | ![Generator](../assets/images/circuit_symbol_generator.svg) |
+
+=== "Diodes and output devices"
+
+    | Description | Symbol |
+    | :--- | :---: |
+    | Diode | ![Diode](../assets/images/circuit_symbol_diode.svg) |
+    | Light-emitting diode (LED) | ![Light-emitting diode](../assets/images/circuit_symbol_led.svg) |
+    | Lamp | ![Lamp](../assets/images/circuit_symbol_lamp.svg) |
+    | Loudspeaker | ![Loudspeaker](../assets/images/circuit_symbol_loudspeaker.svg) |
+    | Microphone | ![Microphone](../assets/images/circuit_symbol_microphone.png) |
+    | Electric bell | ![Electric bell](../assets/images/circuit_symbol_bell.svg) |
+
+*Although these are the forms of circuit symbols that will be used in examination papers, there may be other internationally agreed symbols which are acceptable in student answers.*
 
 ### Thermistors and LDRs
 
@@ -39,7 +92,7 @@ The resistance of a thermistor depends on its **temperature**: it is **high** in
 
 The relationship between resistance and temperature for a thermistor can be shown on a graph of resistance against temperature, which shows a curve indicating these quantities are inversely proportional to each other.
 
-**THERMISTOR CIRCUIT SYMBOL:** ![Thermistor circuit symbol](../assets/images/page_150_chart_1_v2.jpg)
+**THERMISTOR CIRCUIT SYMBOL:** ![Thermistor circuit symbol](../assets/images/circuit_symbol_thermistor.svg)
 
 #### Light-dependent resistors (LDRs)
 
@@ -51,7 +104,7 @@ The resistance of a **light-dependent resistor** (LDR) depends on the **light in
 
 The relationship between resistance and light intensity for an LDR can also be shown on a graph, which shows a curve indicating these quantities are inversely proportional to each other.
 
-**LDR CIRCUIT SYMBOL:** ![LDR circuit symbol](../assets/images/page_151_chart_1_v2.jpg)
+**LDR CIRCUIT SYMBOL:** ![LDR circuit symbol](../assets/images/circuit_symbol_ldr.svg)
 
 ### Lamps and LEDs
 
@@ -61,7 +114,7 @@ Lamps and light-emitting diodes (LEDs) **illuminate** (light up) when a **curren
 
 LEDs are a type of **diode**, meaning they only allow current to flow through them in one direction — so in a circuit, an LED will only light up if it is placed in the correct direction. The circuit symbol for an LED is as follows:
 
-![Circuit symbol for an LED showing a diode with two arrows pointing away](../assets/images/page_153_image_1_v2.jpg)
+![Circuit symbol for an LED showing a diode with two arrows pointing away](../assets/images/circuit_symbol_led.svg)
 
 *LEDs can be used to indicate the presence of a current as they illuminate when current flows through them. The same is true for lamps*
 
@@ -193,6 +246,6 @@ A diode allows current to flow in **one** direction only — this is called **fo
 
 Resistance is the **opposition** to the flow of **current**: the **higher** the resistance of a circuit, the **lower** the current. Resistors come in two types: **fixed** resistors, which have a resistance that remains **constant**, and **variable** resistors, which can **change** their resistance by changing the **length** of wire that makes up the circuit — a **longer** length of wire has **more resistance** than a shorter length.
 
-![Fixed resistor circuit symbol](../assets/images/page_148_image_4_v2.jpg) ![Variable resistor circuit symbol](../assets/images/page_148_image_1_v2.jpg)
+![Fixed resistor circuit symbol](../assets/images/circuit_symbol_resistor_fixed.svg) ![Variable resistor circuit symbol](../assets/images/circuit_symbol_resistor_variable.svg)
 
 *Fixed and variable resistor circuit symbols*
