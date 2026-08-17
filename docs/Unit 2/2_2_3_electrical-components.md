@@ -18,6 +18,7 @@ Circuit diagrams are drawn using standard symbols rather than pictures of the re
     | Power supply (D.C.) | ![Power supply (DC)](../assets/images/circuit_symbol_supply_dc.svg) |
     | Power supply (A.C.) | ![Power supply (AC)](../assets/images/circuit_symbol_supply_ac.svg) |
     | Transformer | ![Transformer](../assets/images/circuit_symbol_transformer.png) |
+    | Generator | ![Generator](../assets/images/circuit_symbol_generator.svg) |
 
 === "Connections"
 
@@ -26,10 +27,15 @@ Circuit diagrams are drawn using standard symbols rather than pictures of the re
     | Conductors crossing with no connection | ![Conductors crossing with no connection](../assets/images/circuit_symbol_conductors_crossing.svg) |
     | Junction of conductors | ![Junction of conductors](../assets/images/circuit_symbol_junction.svg) |
     | Open switch | ![Open switch](../assets/images/circuit_symbol_switch_open.svg) |
+
+=== "Safety"
+
+    | Description | Symbol |
+    | :--- | :---: |
     | Earth or ground | ![Earth or ground](../assets/images/circuit_symbol_earth.svg) |
     | Fuse/circuit breaker | ![Fuse or circuit breaker](../assets/images/circuit_symbol_fuse.svg) |
 
-=== "Resistors"
+=== "Resistors and diodes"
 
     | Description | Symbol |
     | :--- | :---: |
@@ -38,6 +44,8 @@ Circuit diagrams are drawn using standard symbols rather than pictures of the re
     | Heater | ![Heater](../assets/images/circuit_symbol_heater.svg) |
     | Thermistor | ![Thermistor](../assets/images/circuit_symbol_thermistor.svg) |
     | Light-dependent resistor (LDR) | ![Light-dependent resistor](../assets/images/circuit_symbol_ldr.svg) |
+    | Diode | ![Diode](../assets/images/circuit_symbol_diode.svg) |
+    | Light-emitting diode (LED) | ![Light-emitting diode](../assets/images/circuit_symbol_led.svg) |
 
 === "Meters"
 
@@ -45,19 +53,16 @@ Circuit diagrams are drawn using standard symbols rather than pictures of the re
     | :--- | :---: |
     | Ammeter | ![Ammeter](../assets/images/circuit_symbol_ammeter.svg) |
     | Voltmeter | ![Voltmeter](../assets/images/circuit_symbol_voltmeter.svg) |
-    | Motor | ![Motor](../assets/images/circuit_symbol_motor.svg) |
-    | Generator | ![Generator](../assets/images/circuit_symbol_generator.svg) |
 
-=== "Diodes and output devices"
+=== "Input / output devices"
 
     | Description | Symbol |
     | :--- | :---: |
-    | Diode | ![Diode](../assets/images/circuit_symbol_diode.svg) |
-    | Light-emitting diode (LED) | ![Light-emitting diode](../assets/images/circuit_symbol_led.svg) |
     | Lamp | ![Lamp](../assets/images/circuit_symbol_lamp.svg) |
     | Loudspeaker | ![Loudspeaker](../assets/images/circuit_symbol_loudspeaker.svg) |
     | Microphone | ![Microphone](../assets/images/circuit_symbol_microphone.png) |
     | Electric bell | ![Electric bell](../assets/images/circuit_symbol_bell.svg) |
+    | Motor | ![Motor](../assets/images/circuit_symbol_motor.svg) |
 
 *Although these are the forms of circuit symbols that will be used in examination papers, there may be other internationally agreed symbols which are acceptable in student answers.*
 
