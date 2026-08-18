@@ -262,23 +262,35 @@ The refractive index is a number that is **always larger than 1**, and is differ
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Refractive index of glass, $n = 1.53$
 
         * Angle of incidence, $i = 15^\circ$
 
-        **Step 2: Write the equation for Snell's law**
+        **Step 2: State the equation for Snell's law**
 
         $$ n = \frac{\sin i}{\sin r} $$
 
-        **Step 3: Rearrange the equation and calculate sin (r)**
+        **Step 3: Substitute the known values**
 
-        $$ \sin r = \frac{\sin i}{n} = \frac{\sin(15)}{1.53} = 0.1692 $$
+        $$ 1.53 = \frac{\sin(15^\circ)}{\sin r} $$
 
-        **Step 4: Find the angle of refraction (r) by using the inverse sin function**
+        **Step 4: Rearrange to make $\sin r$ the subject**
 
-        $$r = \sin^{-1} (0.1692) = 9.7 = 10^\circ$$
+        $$ \sin r = \frac{\sin(15^\circ)}{1.53} $$
+
+        **Step 5: Evaluate, then use the inverse sin function to find $r$**
+
+        $$ \sin r = 0.1692 $$
+
+        $$r = \sin^{-1} (0.1692) = 9.7^\circ$$
+
+        **Step 6: Give the answer to an appropriate precision, with unit**
+
+        The refractive index and angle of incidence are each given to 2–3 significant figures, so:
+
+        $$r = 10^\circ$$
 
 !!! tip "Examiner Tips and Tricks"
 

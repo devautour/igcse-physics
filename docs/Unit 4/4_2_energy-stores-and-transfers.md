@@ -251,17 +251,27 @@ graph LR
 
     ??? success "Answer:"
 
-        **Step 1: State the conservation of energy**
+        **Step 1: Identify the known quantities from the diagram**
+
+        * Total energy in = 500 J
+
+        * Useful energy transferred to the weight = 120 J
+
+        **Step 2: State the conservation of energy**
 
         Energy cannot be created or destroyed, it can only be transferred from one store to another, so total energy in = useful energy out + wasted energy.
 
-        **Step 2: Rearrange the equation for the wasted energy**
+        **Step 3: Substitute the known values**
 
-        wasted energy = total energy in – useful energy out
+        $$500 = 120 + \text{wasted energy}$$
 
-        **Step 3: Substitute the values from the diagram**
+        **Step 4: Rearrange to make wasted energy the subject**
 
-        $500 - 120 = \mathbf{380\text{ J}}$
+        $$\text{wasted energy} = 500 - 120$$
+
+        **Step 5: Evaluate**
+
+        $$\text{wasted energy} = 380\text{ J}$$
 
 !!! tip "Examiner Tips and Tricks"
 

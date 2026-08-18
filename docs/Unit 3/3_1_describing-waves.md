@@ -258,37 +258,49 @@ All waves obey the **wave speed equation** — the relationship between wave spe
 
     ??? success "Answer (Part a):"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Time period, $T = 0.0001\text{ s}$
 
-        **Step 2: Write out the equation relating time period and frequency**
+        **Step 2: State the equation relating time period and frequency**
 
         $$T = \frac{1}{f}$$
 
-        **Step 3: Rearrange for frequency, f, and calculate the answer**
+        **Step 3: Substitute the known value**
 
-        $$f = \frac{1}{T} = \frac{1}{0.0001} = 10\ 000\text{ Hz} = 1 \times 10^4\text{ Hz}$$
+        $$0.0001 = \frac{1}{f}$$
+
+        **Step 4: Rearrange to make frequency, $f$, the subject**
+
+        $$f = \frac{1}{0.0001}$$
+
+        **Step 5: Evaluate**
+
+        $$f = 10\ 000\text{ Hz} = 1 \times 10^4\text{ Hz}$$
 
     ??? success "Answer (Part b):"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Wave speed, $v = 330\text{ m/s}$
 
-        * Frequency, $f = 1 \times 10^4\text{ Hz}$
+        * Frequency, calculated in part (a), $f = 1 \times 10^4\text{ Hz}$
 
-        **Step 2: Write out the wave speed equation**
+        **Step 2: State the wave speed equation**
 
         $$v = f \times \lambda$$
 
-        **Step 3: Rearrange the equation to calculate the wavelength**
+        **Step 3: Substitute the known values**
 
-        $$\lambda = \frac{v}{f}$$
+        $$330 = (1 \times 10^4) \times \lambda$$
 
-        **Step 4: Use the frequency you calculated in part (a) and put the values into the equation**
+        **Step 4: Rearrange to make wavelength, $\lambda$, the subject**
 
-        $$\lambda = \frac{330}{(1 \times 10^4)} = 0.033 \text{ m}$$
+        $$\lambda = \frac{330}{1 \times 10^4}$$
+
+        **Step 5: Evaluate**
+
+        $$\lambda = 0.033 \text{ m}$$
 
 ### Calculations in different contexts
 

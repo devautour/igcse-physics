@@ -101,23 +101,27 @@ The electrical power of a device depends on its **voltage** (potential differenc
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Power, $P = 48\text{ W}$
 
         * Current, $I = 4\text{ A}$
 
-        **Step 2: Write down the relevant equation**
+        **Step 2: State the relevant equation**
 
         $$P = IV$$
 
-        **Step 3: Rearrange for potential difference, $V$**
+        **Step 3: Substitute the known values**
 
-        $$V = \frac{P}{I}$$
+        $$48 = 4 \times V$$
 
-        **Step 4: Substitute the values**
+        **Step 4: Rearrange to make potential difference, $V$, the subject**
 
-        $$ V = \frac{48}{4} = 12\text{ V} $$
+        $$V = \frac{48}{4}$$
+
+        **Step 5: Evaluate**
+
+        $$ V = 12\text{ V} $$
 
 !!! tip "Examiner Tips and Tricks"
 

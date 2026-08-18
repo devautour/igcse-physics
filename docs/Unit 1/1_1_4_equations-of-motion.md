@@ -30,7 +30,7 @@ This equation is used to calculate quantities such as **initial or final speed, 
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Initial speed, $u = 0\text{ m/s}$ (because the car starts **from rest**)
 
@@ -38,27 +38,33 @@ This equation is used to calculate quantities such as **initial or final speed, 
 
         * Acceleration, $a = 2.5\text{ m/s}^2$
 
-        **Step 2: Identify and write down the equation to use**
+        **Step 2: State the equation to use**
 
         The question says that the car '**accelerates steadily**' — so the equation for **uniform acceleration** can be used:
 
         $$v^2 = u^2 + 2as$$
 
-        **Step 3: Rearrange the equation to work out the distance moved**
+        **Step 3: Substitute the known quantities into the equation**
 
-        Subtract $u^2$ from each side:
+        $$16^2 = 0^2 + 2 \times 2.5 \times s$$
 
-        $$v^2 - u^2 = 2as$$
+        **Step 4: Rearrange the equation to make distance moved the subject**
 
-        Divide both sides by $2a$:
+        Subtract $0^2$ from each side, and simplify $16^2$:
 
-        $$s = \frac{v^2 - u^2}{2a}$$
+        $$256 = 5s$$
 
-        **Step 4: Substitute known quantities into the equation and simplify where possible**
-
-        $$s = \frac{16^2 - 0^2}{2 \times 2.5}$$
+        Divide both sides by 5:
 
         $$s = \frac{256}{5}$$
+
+        **Step 5: Evaluate**
+
+        $$s = 51.2\text{ m}$$
+
+        **Step 6: Give the answer to an appropriate precision, with unit**
+
+        The given quantities have 2 significant figures, so:
 
         $$s = 51\text{ m}$$
 

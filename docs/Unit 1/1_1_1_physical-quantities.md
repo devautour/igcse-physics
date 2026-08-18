@@ -133,33 +133,37 @@ The **speed** of an object can **vary** throughout its journey, so it is often m
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Average speed = 250 m/s
 
         * Time taken = 2 hours
 
-        **Step 2: Write the relevant equation**
+        **Step 2: State the relevant equation**
 
         $$ \text{average speed} = \frac{\text{distance moved}}{\text{time taken}} $$
 
-        **Step 3: Rearrange to make distance moved the subject**
+        **Step 3: Substitute the known values, converting units where necessary**
 
-        $$ \text{distance moved} = \text{average speed} \times \text{time taken} $$
+        The time given in the question is not in standard units, so convert 2 hours into seconds first:
 
-        **Step 4: Convert any units**
+        $$ 2 \text{ hours} = 2 \times 60 \times 60 = 7200 \text{ s} $$
 
-        The time given in the question is not in standard units. Convert 2 hours into seconds:
+        $$ 250 = \frac{\text{distance moved}}{7200} $$
 
-        $$ 2 \text{ hours} = 2 \times 60 \times 60 $$
-
-        $$ 2 \text{ hours} = 7200 \text{ s} $$
-
-        **Step 5: Substitute the values for average speed and time taken**
+        **Step 4: Rearrange to make distance moved the subject**
 
         $$ \text{distance moved} = 250 \times 7200 $$
 
+        **Step 5: Evaluate**
+
         $$ \text{distance moved} = 1\ 800\ 000 \text{ m} $$
+
+        **Step 6: Give the answer to an appropriate precision, with unit**
+
+        The average speed is given to 2 significant figures, so the answer should be too:
+
+        $$ \text{distance moved} = 1.8 \times 10^6 \text{ m} $$
 
 !!! tip "Examiner Tips and Tricks"
     Rearranging equations is an important skill in Physics. You can use the equation triangles to help you practice, but it is better not to rely on them because they do not work for all equations you may need to rearrange in the exam.

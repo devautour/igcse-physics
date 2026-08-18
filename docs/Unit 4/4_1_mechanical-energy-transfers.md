@@ -4,37 +4,40 @@
 
 ### Definition and examples
 
-!!! abstract "Definition: Work"
+!!! abstract "Definition: Work done by a force"
     Work is done when an object is moved over a **distance** by a **force** applied in the **direction** of its displacement — the force **does work** on the object. If a force is applied to an object but doesn't result in any movement, no work is done.
 
 When work is done on an object, **energy is transferred**: the amount of energy transferred (in joules) is equal to the work done (also in joules) — energy transferred (J) = work done (J).
 
-!!! example "Worked Example (explanation): Pushing a box"
+=== "Pushing"
+    !!! example "Worked Example (explanation): Pushing a box"
 
-    ![Illustration of a person pushing a box with labels for FORCE and DISTANCE MOVED](../assets/images/page_273_image_1_v2.jpg)
+        ![Illustration of a person pushing a box with labels for FORCE and DISTANCE MOVED](../assets/images/page_273_image_1_v2.jpg)
 
-    Explain how energy is transferred when a force pushes a box over a distance, and what happens if the force instead acts in the opposite direction to the motion.
+        Explain how energy is transferred when a force pushes a box over a distance, and what happens if the force instead acts in the opposite direction to the motion.
 
-    ??? success "Model answer:"
-        Work is done when a force is used to move an object over a distance, transferring energy from the person to the box. If the force acts **in the direction** the object is moving, the object **gains energy** (usually to its kinetic energy store). If the force acts in the **opposite direction** to the movement instead, the object **loses energy**, dissipated to the surroundings, usually by heating.
+        ??? success "Model answer:"
+            Work is done when a force is used to move an object over a distance, transferring energy from the person to the box. If the force acts **in the direction** the object is moving, the object **gains energy** (usually to its kinetic energy store). If the force acts in the **opposite direction** to the movement instead, the object **loses energy**, dissipated to the surroundings, usually by heating.
 
-!!! example "Worked Example (explanation): Lifting a ball"
+=== "Lifting"
+    !!! example "Worked Example (explanation): Lifting a ball"
 
-    ![Diagram showing a ball in freefall with arrows indicating height and weight](../assets/images/page_274_chart_1_v2.jpg)
+        ![Diagram showing a ball in freefall with arrows indicating height and weight](../assets/images/page_274_chart_1_v2.jpg)
 
-    Explain the energy transfer that takes place when a ball is lifted to a height.
+        Explain the energy transfer that takes place when a ball is lifted to a height.
 
-    ??? success "Model answer:"
-        Work is done on the ball as it is lifted: the weight produced by the gravitational field does work on the ball over a distance, transferring energy mechanically from the ball's kinetic energy store to its gravitational potential energy store.
+        ??? success "Model answer:"
+            Work is done on the ball as it is lifted: the weight produced by the gravitational field does work on the ball over a distance, transferring energy mechanically from the ball's kinetic energy store to its gravitational potential energy store.
 
-!!! example "Worked Example (explanation): A bird in flight"
+=== "Air resistance"
+    !!! example "Worked Example (explanation): A bird in flight"
 
-    ![Illustration of a bird flying against air resistance over a distance](../assets/images/page_275_image_2_v2.jpg)
+        ![Illustration of a bird flying against air resistance over a distance](../assets/images/page_275_image_2_v2.jpg)
 
-    Explain the energy transfer that takes place as a bird flies through the air.
+        Explain the energy transfer that takes place as a bird flies through the air.
 
-    ??? success "Model answer:"
-        Work is done when a bird flies through the air, since it must travel against air resistance (drag). Energy is transferred from the bird's **kinetic store**, and dissipated to the **thermal store** of the bird and of the surroundings.
+        ??? success "Model answer:"
+            Work is done when a bird flies through the air, since it must travel against air resistance (drag). Energy is transferred from the bird's **kinetic store**, and dissipated to the **thermal store** of the bird and of the surroundings.
 
 ### Calculating work done
 
@@ -250,19 +253,23 @@ $$ KE_{total} = GPE_{total} $$
 
         $$ \Delta GPE = KE $$
 
-        **Step 5: Write out the equation for kinetic energy**
+        **Step 5: State the equation for kinetic energy**
 
         $$ KE = \frac{1}{2} \times m \times v^2 $$
 
-        **Step 6: Rearrange to make speed the subject**
+        **Step 6: Substitute the known values**
 
-        $$ v = \sqrt{\frac{2 \times KE}{m}} $$
+        At position D, the rollercoaster is at ground level, so all the energy has been transferred from the gravitational potential store to the kinetic store — the maximum possible speed is based on the assumption of a perfect energy transfer, so $KE = 15\ 000\text{ J}$:
 
-        **Step 7: Calculate the maximum possible speed of the rollercoaster at position D**
+        $$ 15\ 000 = \frac{1}{2} \times 100 \times v^2 $$
 
-        At position D, the rollercoaster is at ground level, so all the energy has been transferred from the gravitational potential to the kinetic store. The maximum possible speed is based on the assumption of a perfect energy transfer:
+        **Step 7: Rearrange to make speed the subject**
 
-        $$ v = \sqrt{\frac{2 \times 15\ 000}{100}} = 17\ \text{m/s} $$
+        $$ v = \sqrt{\frac{2 \times 15\ 000}{100}} $$
+
+        **Step 8: Evaluate**
+
+        $$ v = 17\ \text{m/s} $$
 
 !!! tip "Examiner Tips and Tricks"
 
@@ -373,17 +380,21 @@ Since power is **the rate of doing work**, and work is equal to energy transferr
 
         * Time, $t = 5\text{ minutes} = 5 \times 60 = 300\text{ s}$
 
-        **Step 2: Write down the relevant equation**
+        **Step 2: State the relevant equation**
 
         $$ P = \frac{W}{t} $$
 
-        **Step 3: Rearrange for energy transferred, $\Delta E$**
+        **Step 3: Substitute the known values**
 
-        $$ W = Pt $$
+        $$ 2000 = \frac{W}{300} $$
 
-        **Step 4: Substitute in the known values**
+        **Step 4: Rearrange to make work done, $W$, the subject**
 
-        $$ W = 2000 \times 300 = 600\ 000\text{ J} $$
+        $$ W = 2000 \times 300 $$
+
+        **Step 5: Evaluate**
+
+        $$ W = 600\ 000\text{ J} $$
 
 !!! tip "Examiner Tips and Tricks"
 

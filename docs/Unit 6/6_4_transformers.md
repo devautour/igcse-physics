@@ -39,25 +39,29 @@ These equations show that the **ratio** of the potential differences across the 
 
     ??? success "Answer (Part a):"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Number of turns in primary coil, $N_p = 20$
         * Number of turns in secondary coil, $N_s = 800$
         * Voltage in primary coil, $V_p = 500\text{ V}$
 
-        **Step 2: Write out the transformer equation**
+        **Step 2: State the transformer equation**
 
         Use the version with the secondary coil quantities on the top, to minimise the amount of rearranging.
 
         $$ \frac{N_s}{N_p} = \frac{V_s}{V_p} $$
 
-        **Step 3: Rearrange for $V_s$**
+        **Step 3: Substitute the known values**
 
-        $$ V_s = \frac{N_s}{N_p} \times V_p $$
+        $$ \frac{800}{20} = \frac{V_s}{500} $$
 
-        **Step 4: Substitute values into the equation**
+        **Step 4: Rearrange to make $V_s$ the subject**
 
-        $$ V_s = \frac{800}{20} \times 500 = 20\ 000\text{ V} $$
+        $$ V_s = \frac{800}{20} \times 500 $$
+
+        **Step 5: Evaluate**
+
+        $$ V_s = 20\ 000\text{ V} $$
 
     ??? success "Answer (Part b):"
 

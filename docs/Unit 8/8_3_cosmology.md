@@ -30,23 +30,27 @@ This equation can be used to calculate the velocity of a galaxy, if its waveleng
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Observed wavelength, $\lambda = 485 \times 10^{-9}$ m
 
         * Reference wavelength, $\lambda_{0} = 435 \times 10^{-9}$ m
 
-        **Step 2: Write out the Doppler effect equation**
+        * Speed of light, $c = 3 \times 10^8\text{ m/s}$
 
-        $$\frac{\lambda - \lambda_{0}}{\lambda_{0}} = \frac{\Delta\lambda}{\lambda_{0}} = \frac{v}{c}$$
+        **Step 2: State the Doppler effect equation**
 
-        **Step 3: Rearrange for the relative speed of the galaxy, $v$**
+        $$\frac{\lambda - \lambda_{0}}{\lambda_{0}} = \frac{v}{c}$$
 
-        $$v = c \times \frac{\lambda - \lambda_{0}}{\lambda_{0}}$$
+        **Step 3: Substitute the known values**
 
-        **Step 4: Substitute the values into the equation for $v$**
+        $$ \frac{(485 \times 10^{-9}) - (435 \times 10^{-9})}{435 \times 10^{-9}} = \frac{v}{3 \times 10^8} $$
 
-        $$ v = (3 \times 10^8) \times \frac{(485 \times 10^{-9}) - (435 \times 10^{-9})}{435 \times 10^{-9}} $$
+        **Step 4: Rearrange to make the relative speed of the galaxy, $v$, the subject**
+
+        $$v = (3 \times 10^8) \times \frac{(485 \times 10^{-9}) - (435 \times 10^{-9})}{435 \times 10^{-9}}$$
+
+        **Step 5: Evaluate**
 
         $$ v = 3.4 \times 10^7 \text{ m/s} $$
 

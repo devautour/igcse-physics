@@ -84,25 +84,27 @@ Objects might be moving at a **changing speed** — this is represented by a **c
 
     ??? success "Answer:"
 
-        **Step 1: Draw a large gradient triangle on the graph**
+        **Step 1: Identify the relevant quantities by drawing a large gradient triangle on the graph**
 
         Since the line is straight over the whole journey shown, use the full range of the data: $\Delta x = 6$ mins, $\Delta y = 8$ km.
 
-        **Step 2: Convert units for distance and time into standard units**
-
-        The distance travelled = 8 km = **8000 m**. The time taken = 6 mins = **360 s**.
-
-        **Step 3: State that speed is equal to the gradient of a distance-time graph**
+        **Step 2: State that speed is equal to the gradient of a distance-time graph**
 
         The **gradient** of a **distance-time** graph is equal to the **speed** of a moving object:
 
         $$\text{speed} = \text{gradient} = \frac{\Delta y}{\Delta x}$$
 
-        **Step 4: Substitute values in to calculate the speed**
+        **Step 3: Substitute the values, converting units where necessary**
+
+        The distance and time are not in standard units, so convert them first: distance travelled = 8 km = **8000 m**; time taken = 6 mins = **360 s**.
 
         $$\text{speed} = \frac{8000}{360}$$
 
+        **Step 4: Evaluate**
+
         $$\text{speed} = 22.2 \text{ m/s}$$
+
+        The speed is given to 3 significant figures, matching the precision of the graph data.
 
 !!! example "Worked Example (explanation): a walk to the park"
 
@@ -328,19 +330,19 @@ A **positive gradient** shows **increasing velocity** — the object is **accele
 
     ??? success "Answer (Part b):"
 
-        **Step 1: Recall that the gradient of a velocity-time graph gives the acceleration**
-
-        Calculating the gradient of a slope on a velocity-time graph gives the acceleration for that time period.
-
-        **Step 2: Read off the velocity at the start and end of the given time period**
+        **Step 1: Identify the relevant quantities by reading off the velocity at the start and end of the given time period**
 
         At $t = 5$ s, velocity $= 0$ m/s. At $t = 10$ s, velocity $= 5$ m/s.
 
-        **Step 3: Calculate the size of the gradient and state this as the acceleration**
+        **Step 2: State that the gradient of a velocity-time graph gives the acceleration**
 
-        $$ a = \frac{\Delta y}{\Delta x} $$
+        $$ a = \text{gradient} = \frac{\Delta y}{\Delta x} $$
+
+        **Step 3: Substitute the known values**
 
         $$ a = \frac{5 - 0}{10 - 5} $$
+
+        **Step 4: Evaluate**
 
         $$ a = 1\text{ m/s}^2 $$
 

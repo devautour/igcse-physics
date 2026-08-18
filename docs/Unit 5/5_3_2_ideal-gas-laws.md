@@ -53,29 +53,31 @@ graph TD
 
     ??? success "Answer:"
 
-        **Step 1: Choose the correct ideal gas law**
-
-        Volume is constant, so the pressure law must be used.
-
-        $$ \frac{p_1}{T_1} = \frac{p_2}{T_2} $$
-
-        **Step 2: Write down the known quantities**
+        **Step 1: Identify the known quantities**
 
         * $p_1 = 5.10 \times 10^5 \text{ Pa}$
         * $T_1 = 279 \text{ K}$
         * $T_2 = 299 \text{ K}$
 
-        **Step 3: Rearrange for $p_2$ and substitute values into the pressure law**
+        **Step 2: State the correct ideal gas law**
 
-        To make $p_2$ the subject, multiply both sides by $T_2$ to cancel out the $T_2$ in the fraction under $p_2$.
+        Volume is constant, so the pressure law must be used.
 
-        $$ \frac{p_1}{T_1} \times T_2 = \frac{p_2}{\cancel{T_2}} \times \cancel{T_2} $$
+        $$ \frac{p_1}{T_1} = \frac{p_2}{T_2} $$
 
-        $$ \frac{p_1}{T_1} \times T_2 = p_2 $$
+        **Step 3: Substitute the known values**
 
-        Substitute in the known quantities:
+        $$ \frac{5.10 \times 10^5}{279} = \frac{p_2}{299} $$
+
+        **Step 4: Rearrange to make $p_2$ the subject**
+
+        Multiply both sides by $T_2$ to cancel out the $T_2$ in the fraction under $p_2$:
+
+        $$ \frac{5.10 \times 10^5}{279} \times 299 = \frac{p_2}{\cancel{299}} \times \cancel{299} $$
 
         $$ p_2 = \frac{5.10 \times 10^5}{279} \times 299 $$
+
+        **Step 5: Evaluate**
 
         $$ p_2 = 5.47 \times 10^5 \text{ Pa} $$
 
@@ -112,7 +114,7 @@ For a fixed mass of gas held at a constant temperature, pressure and volume are 
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Initial volume, $V_1$ = 0.70 m<sup>3</sup>
 
@@ -120,21 +122,25 @@ For a fixed mass of gas held at a constant temperature, pressure and volume are 
 
         * Final volume, $V_2$ = 0.15 m<sup>3</sup>
 
-        **Step 2: Write the relevant equation**
+        **Step 2: State the relevant equation**
 
         $$ p_1 V_1 = p_2 V_2 $$
 
-        **Step 3: Rearrange for the final pressure, $p_2$**
+        **Step 3: Substitute the known values**
+
+        $$ 200 \times 0.70 = p_2 \times 0.15 $$
+
+        **Step 4: Rearrange to make the final pressure, $p_2$, the subject**
 
         Divide both sides by $V_2$ to get the $p_2$ term on its own:
 
-        $$ \frac{p_1 V_1}{V_2} = \frac{p_2 \cancel{V_2}}{\cancel{V_2}} $$
+        $$ p_2 = \frac{200 \times 0.70}{0.15} $$
 
-        $$ \frac{p_1 V_1}{V_2} = p_2 $$
+        **Step 5: Evaluate**
 
-        **Step 4: Substitute in the values**
+        $$ p_2 = 933.3 \text{ Pa} $$
 
-        $$ p_2 = \frac{p_1 V_1}{V_2} = \frac{200 \times 0.70}{0.15} $$
+        **Step 6: Give the answer to an appropriate precision, with unit**
 
         $$ p_2 = 930 \text{ Pa} \text{ (2 s.f.)} $$
 

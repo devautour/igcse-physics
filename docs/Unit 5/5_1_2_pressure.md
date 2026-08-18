@@ -44,27 +44,31 @@ This equation shows that spreading a given force over a **large** area results i
 
         ??? success "Answer:"
 
-            **Step 1: List the known quantities**
+            **Step 1: Identify the known quantities**
 
             * Cross-sectional area, $A = 2.73 \times 10^{-2}\text{ m}^2$
 
             * Pressure, $p = 5.28 \times 10^5\text{ Pa}$
 
-            **Step 2: Write down the relevant equation**
+            **Step 2: State the relevant equation**
 
             $$p = \frac{F}{A}$$
 
-            **Step 3: Rearrange for the force, $F$**
+            **Step 3: Substitute the known values**
 
-            $$F = p \times A$$
+            $$5.28 \times 10^5 = \frac{F}{2.73 \times 10^{-2}}$$
 
-            **Step 4: Substitute the values into the equation**
+            **Step 4: Rearrange to make the force, $F$, the subject**
 
-            $$F = (5.28 \times 10^5) \times (2.73 \times 10^{-2}) = 14\,414.4$$
+            $$F = (5.28 \times 10^5) \times (2.73 \times 10^{-2})$$
 
-            **Step 5: Round to the appropriate number of significant figures and quote the correct unit**
+            **Step 5: Evaluate**
 
-            $$F = 14\,400\text{ N} = 14.4\text{ kN (3 s.f)}$$
+            $$F = 14\,414.4\text{ N}$$
+
+            **Step 6: Give the answer to an appropriate precision, with unit**
+
+            $$F = 14\,400\text{ N} = 14.4\text{ kN (3 s.f.)}$$
 
 === "Example 2"
     !!! example "Worked Example (calculation)"
@@ -217,7 +221,7 @@ The pressure acting on an object in a fluid also changes with **depth**: the dee
 
     ??? success "Answer:"
 
-        **Step 1: List the known quantities**
+        **Step 1: Identify the known quantities**
 
         * Pressure, $p = 20\text{ kPa}$
 
@@ -225,23 +229,27 @@ The pressure acting on an object in a fluid also changes with **depth**: the dee
 
         * Gravitational field strength, $g = 9.8\text{ N/kg}$
 
-        **Step 2: List the relevant equation**
+        **Step 2: State the relevant equation**
 
         $$p = h \times \rho \times g$$
 
-        **Step 3: Rearrange for height, $h$**
+        **Step 3: Substitute the known values, converting units where necessary**
 
-        $$h = \frac{p}{\rho \times g}$$
+        The pressure is not in standard units, so convert it first: $20\text{ kPa} = 20\,000\text{ Pa}$.
 
-        **Step 4: Convert any units**
+        $$20\,000 = h \times 1000 \times 9.8$$
 
-        $$20\text{ kPa} = 20\,000\text{ Pa}$$
-
-        **Step 5: Substitute in the values**
+        **Step 4: Rearrange to make height, $h$, the subject**
 
         $$h = \frac{20\,000}{1000 \times 9.8}$$
 
-        $$h = 2.0408 = 2.0\text{ m}$$
+        **Step 5: Evaluate**
+
+        $$h = 2.0408\text{ m}$$
+
+        **Step 6: Give the answer to an appropriate precision, with unit**
+
+        $$h = 2.0\text{ m}$$
 
 !!! tip "Examiner Tips and Tricks"
 
